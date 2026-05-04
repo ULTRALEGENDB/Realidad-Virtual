@@ -1,0 +1,5697 @@
+﻿#include "pch-cpp.hpp"
+
+
+
+
+
+
+struct Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E;
+struct Dictionary_2_t5C8F46F5D57502270DD9E1DA8303B23C7FE85588;
+struct IEnumerable_1_tB0371F6D0932F0C778CAEED128603B65772AC357;
+struct IEnumerator_1_t5197EB77176C670D4AAF5E0D1B4F1AB9940EFE41;
+struct List_1_tA239CB83DE5615F348BB0507E45F490F4F7C9A8D;
+struct List_1_t726BCA8E2CE69931893FD019F21D4CDE55BF7AF1;
+struct List_1_t7B4BA466ED2E0B53AA92432404A8E418878C1E6B;
+struct Action_1U5BU5D_tB846E6FE2326CCD34124D1E5D70117C9D33DEE76;
+struct ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031;
+struct CharU5BU5D_t799905CF001DD5F13F7DBB310181FC4D8B7D0AAB;
+struct DelegateU5BU5D_tC5AB7E8F745616680F337909D3A8E6C722CDF771;
+struct InputActionU5BU5D_t6F881A9FE5C2016615C8D2E0B192608EA5FCE810;
+struct InputActionMapU5BU5D_t4B352E8DA73976FEDA107E35E81FB5BE6838C045;
+struct InputBindingU5BU5D_t7E47E87B9CAE12B6F6A0659008B425C58D84BB57;
+struct InputControlU5BU5D_t0B951FEF1504D6340387C4735F5D6F426F40FE17;
+struct InputControlSchemeU5BU5D_tAE603126FBD4D6B8F67EA6F8CFA531A646C63D86;
+struct InputDeviceU5BU5D_tA9AEFC6AF63557D3D5DCFB2B26DDA6F63147D548;
+struct IntPtrU5BU5D_tFD177F8C806A6921AD7150264CCC62FA00CAD832;
+struct ObjectU5BU5D_t8061030B0A12A55D5AD8652A20C922FE99450918;
+struct StackTraceU5BU5D_t32FBCB20930EAF5BAE3F450FF75228E5450DA0DF;
+struct ParameterOverrideU5BU5D_tC408277D7E98D32E4B0AEFA1E2EDDB74790897EE;
+struct DeviceRequirementU5BU5D_t0496FAAB7554B7BFC270BA53BA6A5EFD5DE061CE;
+struct IPlayerActionsU5BU5D_t627F1B7194985A8481A57AE28789E6A5167E70FD;
+struct IUIActionsU5BU5D_tC6EDFC57F95D1DB01907E673DCC159E59E114497;
+struct Animator_t8A52E42AE54F76681838FE9E632683EF3952E883;
+struct AudioSource_t871AC2272F896738252F04EE949AEF5B241D3299;
+struct CancellationTokenSource_tAAE1E0033BCFC233801F8CB4CED5C852B350CB7B;
+struct CharacterController_t847C1A2719F60547D7D6077B648D6CE2D1EF3A6A;
+struct Collider_t1CC3163924FCD6C4CC2E816373A929C1E3D55E76;
+struct Component_t39FBE53E5EFCF4409111FB22C15FF73717632EC3;
+struct Coroutine_t85EA685566A254C23F3FD77AB5BDFFFF8799596B;
+struct DelegateData_t9B286B493293CD2D23A5B2B5EF0E5B1324C2B77E;
+struct IDictionary_t6D03155AF1FA9083817AA5B6AD7DEEACC26AB220;
+struct IEnumerator_t7B609C2FFA6EB5167D9C62A0C32A21DE2F666DAA;
+struct InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD;
+struct InputActionAsset_tF217AC5223B4AAA46EBCB44B33E9259FB117417D;
+struct InputActionMap_tFCE82E0E014319D4DED9F8962B06655DD0420A09;
+struct InputActionState_t780948EA293BAA800AD8699518B58B59FFB8A700;
+struct InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD;
+struct MethodInfo_t;
+struct MonoBehaviour_t532A11E69716D348D8AA7F854AFCBFCB8AD17F71;
+struct Move_t854202AD2D0D0CBADCAA68583489F1054C5BC0E4;
+struct NavMeshAgent_t5D0CCC0B3B78242F286C9BD8EDD87C3CCBD0A66F;
+struct NotSupportedException_t1429765983D409BD2986508963C98D214E4EBF4A;
+struct Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C;
+struct PlayerAudio_t69AA2C672759BA9C0C65E6FFCBAB6F278C6C7045;
+struct SafeSerializationManager_tCBB85B95DFD1634237140CD892E82D06ECB3F5E6;
+struct String_t;
+struct Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1;
+struct UnitySourceGeneratedAssemblyMonoScriptTypes_v1_tC95F24D0C6E6B77389433852BB389F39C692926E;
+struct Void_t4861ACF8F4594C3437BB48B6E56783494B843915;
+struct enemyMove_t9883DDFC0AA41159024CBB461258661AB18DCD58;
+struct IPlayerActions_t61460CE11D6A4722EC02812DA25783B426E440BF;
+struct IUIActions_t3C08E724C20337D4E2DCC43D5AE7DEFA6AAEDB9E;
+struct U3CFadeMusicU3Ed__7_tC12A322B20FFD6486F550CCDDC08296564DDEC9B;
+
+IL2CPP_EXTERN_C RuntimeClass* Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var;
+IL2CPP_EXTERN_C RuntimeClass* ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031_il2cpp_TypeInfo_var;
+IL2CPP_EXTERN_C RuntimeClass* IPlayerActions_t61460CE11D6A4722EC02812DA25783B426E440BF_il2cpp_TypeInfo_var;
+IL2CPP_EXTERN_C RuntimeClass* IUIActions_t3C08E724C20337D4E2DCC43D5AE7DEFA6AAEDB9E_il2cpp_TypeInfo_var;
+IL2CPP_EXTERN_C RuntimeClass* InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD_il2cpp_TypeInfo_var;
+IL2CPP_EXTERN_C RuntimeClass* List_1_t726BCA8E2CE69931893FD019F21D4CDE55BF7AF1_il2cpp_TypeInfo_var;
+IL2CPP_EXTERN_C RuntimeClass* List_1_t7B4BA466ED2E0B53AA92432404A8E418878C1E6B_il2cpp_TypeInfo_var;
+IL2CPP_EXTERN_C RuntimeClass* NotSupportedException_t1429765983D409BD2986508963C98D214E4EBF4A_il2cpp_TypeInfo_var;
+IL2CPP_EXTERN_C RuntimeClass* Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var;
+IL2CPP_EXTERN_C RuntimeClass* U3CFadeMusicU3Ed__7_tC12A322B20FFD6486F550CCDDC08296564DDEC9B_il2cpp_TypeInfo_var;
+IL2CPP_EXTERN_C RuntimeClass* Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7_il2cpp_TypeInfo_var;
+IL2CPP_EXTERN_C RuntimeField* PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B____m_Wrapper_FieldInfo_var;
+IL2CPP_EXTERN_C RuntimeField* U3CPrivateImplementationDetailsU3E_t0F5473E849A5A5185A9F4C5246F0C32816C49FCA____5774F00F2122AE1B5D6A049C4FD388BD5C58870587983A93C615FD84F1448DF0_FieldInfo_var;
+IL2CPP_EXTERN_C RuntimeField* U3CPrivateImplementationDetailsU3E_t0F5473E849A5A5185A9F4C5246F0C32816C49FCA____C42DD723DD6DA9E2966C04AFBE00683709013D87D5AFAE205D691C8DD2CE24D5_FieldInfo_var;
+IL2CPP_EXTERN_C RuntimeField* UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F____m_Wrapper_FieldInfo_var;
+IL2CPP_EXTERN_C String_t* _stringLiteral0073E6848BC14B7DBEFA723AFD3403EC1B5EB55D;
+IL2CPP_EXTERN_C String_t* _stringLiteral017B351DA3E50FAF2CFBB408359C6C0480F02932;
+IL2CPP_EXTERN_C String_t* _stringLiteral117C34CEF055E54D018BB5CB8A52E1D66434C6E6;
+IL2CPP_EXTERN_C String_t* _stringLiteral163DCC8E458A1FCC2E86F0FD61BE2BCE27195238;
+IL2CPP_EXTERN_C String_t* _stringLiteral190CDBBC7377A308B78E27EF91319FD2DA386895;
+IL2CPP_EXTERN_C String_t* _stringLiteral378F2A2277727E3F33599E270749A10E7C2B55E1;
+IL2CPP_EXTERN_C String_t* _stringLiteral45EDE4DB19150515241E2FE6610B1490B1DED5C7;
+IL2CPP_EXTERN_C String_t* _stringLiteral47A23BFD06ECFD154AD092ED652B1B4111CD15FC;
+IL2CPP_EXTERN_C String_t* _stringLiteral5993697C283E3E2190F0E6B70747ECD420807D20;
+IL2CPP_EXTERN_C String_t* _stringLiteral61225B335304C6BE91EE0EC8CF385BBE9B633F17;
+IL2CPP_EXTERN_C String_t* _stringLiteral68E991B5616F5769AB6069C14D3F44D98828C2F9;
+IL2CPP_EXTERN_C String_t* _stringLiteral70253F929BCE7F81DF1A5A1C0900BED744E86C9C;
+IL2CPP_EXTERN_C String_t* _stringLiteral93717CD8FCD45BAB4F15D3BACC989A6A93BA2674;
+IL2CPP_EXTERN_C String_t* _stringLiteral9F84632196531FA2B3BB0B4225C53CDB837E9393;
+IL2CPP_EXTERN_C String_t* _stringLiteral9FEFD136EF26D7B05E5CCF16376EF651CBFB5E2C;
+IL2CPP_EXTERN_C String_t* _stringLiteralAA2ACAAC77884477FF705FAA326CAE0ACFAFB316;
+IL2CPP_EXTERN_C String_t* _stringLiteralAD23F1807EC3F728BA43D64905EBF6D2F2B3660D;
+IL2CPP_EXTERN_C String_t* _stringLiteralAF76631C9924DA21CC9961B508E27EB5D8012412;
+IL2CPP_EXTERN_C String_t* _stringLiteralB502A186982A83A6C402B5753C1120061504E6EB;
+IL2CPP_EXTERN_C String_t* _stringLiteralB93F5E13E0AD8E8044D7D80E771F9A55F393D87F;
+IL2CPP_EXTERN_C String_t* _stringLiteralC63533D7E97B41EB9EC8122A46CB313BA2A0DDC4;
+IL2CPP_EXTERN_C String_t* _stringLiteralCAF8804297181FF007CA835529DD4477CFD94A70;
+IL2CPP_EXTERN_C String_t* _stringLiteralFBA9CEB43D14830BEAAF5F87C6AAAD1A8A36A67F;
+IL2CPP_EXTERN_C const RuntimeMethod* CallbackContext_ReadValue_TisSingle_t4530F2FF86FCB0DC29F35385CA1BD21BE294761C_m7EBC8C123F0601CE5B340BA966923AEC449A8ACF_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* CallbackContext_ReadValue_TisVector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7_m454ADEAE74A5A469E011CF78D6303A1034659830_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* Component_GetComponent_TisAnimator_t8A52E42AE54F76681838FE9E632683EF3952E883_m1C9FCB4BBE56BEC6BDEF6E4BA1E5DFF91614D7CE_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* Component_GetComponent_TisCharacterController_t847C1A2719F60547D7D6077B648D6CE2D1EF3A6A_m96B48A644EDC97C5C82F154D1FEA551B2E392040_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* Component_GetComponent_TisNavMeshAgent_t5D0CCC0B3B78242F286C9BD8EDD87C3CCBD0A66F_m45B783D78932EFB8409019F84FED6DF3A492F16F_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* Component_GetComponent_TisPlayerAudio_t69AA2C672759BA9C0C65E6FFCBAB6F278C6C7045_m343F7D7CD88A0CD9A461ED8F0D7E86F00D79BB52_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* Enumerator_Dispose_mB5A41DDAD69C2DA36C5F132C906968AA66EA2C9B_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* Enumerator_Dispose_mF09C24C996B3BA69906D53F8012B9517F44EDB75_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* Enumerator_MoveNext_m91E74F18B1B366D460E7845CCDF9C6A8AE08B433_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* Enumerator_MoveNext_m97EBAA546853B431FB7E807A80ED0524859E4E60_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* Enumerator_get_Current_mA4CB2EBD69784E36236302D57FC05F6B2C3D55E5_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* Enumerator_get_Current_mEA87F0F926CC57E37206C083B90E51F6C876BFFB_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* List_1_Add_m0FF84BC5FFDBF63CC037396F0091B0BA784EF1BD_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* List_1_Add_m1F1E68793013B4E0971364E88FFA504222F6C066_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* List_1_Clear_m676E82FF51DB57E8C4ACF8159C19EC723DA12CF1_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* List_1_Clear_mF0CA8E57651C55ED07524DDABF14320A43BA53EE_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* List_1_Contains_m6EA67BFD7C3CBD0271186F0ED158DB1938C80777_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* List_1_Contains_mC0F5B9212196C1F030DFA8B0DCBDDC8D93D3FB90_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* List_1_GetEnumerator_mCB25B191C4C40371F8524AE271994C7217580FFF_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* List_1_GetEnumerator_mDAA429DEB808201EFCBFA57307B083D8DF4CB807_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* List_1_Remove_m0EAD44CEAB01239582EAFF36D1256643ACDA1072_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* List_1_Remove_mFB2CF6040001477CF3ECC8EE759E3EB739F99626_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* List_1__ctor_m343B89BF3FEB43E10F17BF51D4390B07999E4DE8_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* List_1__ctor_m48EFE651F34F805ED4EF2D86A96641CCF1ACA5C3_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* Move_U3CAwakeU3Eb__12_0_mAF25A39198EB8E780E75C99FABB95061D784D428_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* Move_U3CAwakeU3Eb__12_1_m9B30E06F9424A8F4A0EC93773451A517456077AF_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* Move_U3CAwakeU3Eb__12_2_m9441515B22B883B37D47252C3EFEFD5944484F8B_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* Move_U3CAwakeU3Eb__12_3_m34AA6249F498CB566D7D82FF4D76441930185956_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* Move_U3CAwakeU3Eb__12_4_mFB3D012C4F3EFCF884E1DA8FF203F7EFE338FD6D_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* Move_U3CAwakeU3Eb__12_5_m4E70A2A43E16F4C8822DEE54A673DEC715F11C29_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* ReadOnlyArray_1_get_Item_m1B48B5B84CD98353C0E203B6E556E617FD3CA90E_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* U3CFadeMusicU3Ed__7_System_Collections_IEnumerator_Reset_m8016A40D4CB19A1EE297EF9FA9629AD8517E8737_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeType* PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B_0_0_0_var;
+IL2CPP_EXTERN_C const RuntimeType* UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F_0_0_0_var;
+struct Delegate_t_marshaled_com;
+struct Delegate_t_marshaled_pinvoke;
+struct DeviceRequirement_t80E71C44DF1923C15D3AA025242B7348EBF8B056_marshaled_com;
+struct DeviceRequirement_t80E71C44DF1923C15D3AA025242B7348EBF8B056_marshaled_pinvoke;
+struct Exception_t_marshaled_com;
+struct Exception_t_marshaled_pinvoke;
+
+struct ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031;
+struct ObjectU5BU5D_t8061030B0A12A55D5AD8652A20C922FE99450918;
+
+IL2CPP_EXTERN_C_BEGIN
+IL2CPP_EXTERN_C_END
+
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+struct U3CModuleU3E_tBB65183F1134474D09FF49B95625D25472B9BA8B 
+{
+};
+struct List_1_tA239CB83DE5615F348BB0507E45F490F4F7C9A8D  : public RuntimeObject
+{
+	ObjectU5BU5D_t8061030B0A12A55D5AD8652A20C922FE99450918* ____items;
+	int32_t ____size;
+	int32_t ____version;
+	RuntimeObject* ____syncRoot;
+};
+struct List_1_t726BCA8E2CE69931893FD019F21D4CDE55BF7AF1  : public RuntimeObject
+{
+	IPlayerActionsU5BU5D_t627F1B7194985A8481A57AE28789E6A5167E70FD* ____items;
+	int32_t ____size;
+	int32_t ____version;
+	RuntimeObject* ____syncRoot;
+};
+struct List_1_t7B4BA466ED2E0B53AA92432404A8E418878C1E6B  : public RuntimeObject
+{
+	IUIActionsU5BU5D_tC6EDFC57F95D1DB01907E673DCC159E59E114497* ____items;
+	int32_t ____size;
+	int32_t ____version;
+	RuntimeObject* ____syncRoot;
+};
+struct U3CPrivateImplementationDetailsU3E_t0F5473E849A5A5185A9F4C5246F0C32816C49FCA  : public RuntimeObject
+{
+};
+struct InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD  : public RuntimeObject
+{
+	InputActionAsset_tF217AC5223B4AAA46EBCB44B33E9259FB117417D* ___U3CassetU3Ek__BackingField;
+	InputActionMap_tFCE82E0E014319D4DED9F8962B06655DD0420A09* ___m_Player;
+	List_1_t726BCA8E2CE69931893FD019F21D4CDE55BF7AF1* ___m_PlayerActionsCallbackInterfaces;
+	InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* ___m_Player_Move;
+	InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* ___m_Player_Look;
+	InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* ___m_Player_Jump;
+	InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* ___m_Player_Sprint;
+	InputActionMap_tFCE82E0E014319D4DED9F8962B06655DD0420A09* ___m_UI;
+	List_1_t7B4BA466ED2E0B53AA92432404A8E418878C1E6B* ___m_UIActionsCallbackInterfaces;
+	InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* ___m_UI_Navigate;
+	InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* ___m_UI_Submit;
+	InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* ___m_UI_Cancel;
+	InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* ___m_UI_Point;
+	InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* ___m_UI_Click;
+	InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* ___m_UI_RightClick;
+	InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* ___m_UI_MiddleClick;
+	InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* ___m_UI_ScrollWheel;
+	InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* ___m_UI_TrackedDevicePosition;
+	InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* ___m_UI_TrackedDeviceOrientation;
+	int32_t ___m_KeyboardMouseSchemeIndex;
+	int32_t ___m_GamepadSchemeIndex;
+	int32_t ___m_TouchSchemeIndex;
+	int32_t ___m_JoystickSchemeIndex;
+	int32_t ___m_XRSchemeIndex;
+};
+struct String_t  : public RuntimeObject
+{
+	int32_t ____stringLength;
+	Il2CppChar ____firstChar;
+};
+struct UnitySourceGeneratedAssemblyMonoScriptTypes_v1_tC95F24D0C6E6B77389433852BB389F39C692926E  : public RuntimeObject
+{
+};
+struct ValueType_t6D9B272BD21782F0A9A14F2E41F85A50E97A986F  : public RuntimeObject
+{
+};
+struct ValueType_t6D9B272BD21782F0A9A14F2E41F85A50E97A986F_marshaled_pinvoke
+{
+};
+struct ValueType_t6D9B272BD21782F0A9A14F2E41F85A50E97A986F_marshaled_com
+{
+};
+struct YieldInstruction_tFCE35FD0907950EFEE9BC2890AC664E41C53728D  : public RuntimeObject
+{
+};
+struct YieldInstruction_tFCE35FD0907950EFEE9BC2890AC664E41C53728D_marshaled_pinvoke
+{
+};
+struct YieldInstruction_tFCE35FD0907950EFEE9BC2890AC664E41C53728D_marshaled_com
+{
+};
+struct U3CFadeMusicU3Ed__7_tC12A322B20FFD6486F550CCDDC08296564DDEC9B  : public RuntimeObject
+{
+	int32_t ___U3CU3E1__state;
+	RuntimeObject* ___U3CU3E2__current;
+	AudioSource_t871AC2272F896738252F04EE949AEF5B241D3299* ___to;
+	AudioSource_t871AC2272F896738252F04EE949AEF5B241D3299* ___from;
+	float ___U3CdurationU3E5__2;
+	float ___U3CtimeU3E5__3;
+};
+struct Enumerator_t9473BAB568A27E2339D48C1F91319E0F6D244D7A 
+{
+	List_1_tA239CB83DE5615F348BB0507E45F490F4F7C9A8D* ____list;
+	int32_t ____index;
+	int32_t ____version;
+	RuntimeObject* ____current;
+};
+struct Enumerator_t27BAD2EA8D188E3635D9EF05F4B9FA644AD53728 
+{
+	List_1_t726BCA8E2CE69931893FD019F21D4CDE55BF7AF1* ____list;
+	int32_t ____index;
+	int32_t ____version;
+	RuntimeObject* ____current;
+};
+struct Enumerator_t5EE35005E57399519841D87BC67A367A9E105343 
+{
+	List_1_t7B4BA466ED2E0B53AA92432404A8E418878C1E6B* ____list;
+	int32_t ____index;
+	int32_t ____version;
+	RuntimeObject* ____current;
+};
+struct InlinedArray_1_tC208D319D19C2B3DF550BD9CDC11549F23D8F91B 
+{
+	int32_t ___length;
+	Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* ___firstValue;
+	Action_1U5BU5D_tB846E6FE2326CCD34124D1E5D70117C9D33DEE76* ___additionalValues;
+};
+struct ReadOnlyArray_1_tC41FC1476A6CC9385BDD74ECC6D3AF66A6C82BF9 
+{
+	InputControlSchemeU5BU5D_tAE603126FBD4D6B8F67EA6F8CFA531A646C63D86* ___m_Array;
+	int32_t ___m_StartIndex;
+	int32_t ___m_Length;
+};
+struct ReadOnlyArray_1_t21E90B3F1DF1E9A2088EA0523F03C47910735BCA 
+{
+	InputDeviceU5BU5D_tA9AEFC6AF63557D3D5DCFB2B26DDA6F63147D548* ___m_Array;
+	int32_t ___m_StartIndex;
+	int32_t ___m_Length;
+};
+struct Boolean_t09A6377A54BE2F9E6985A8149F19234FD7DDFE22 
+{
+	bool ___m_value;
+};
+struct Byte_t94D9231AC217BE4D2E004C4CD32DF6D099EA41A3 
+{
+	uint8_t ___m_value;
+};
+struct Enum_t2A1A94B24E3B776EEF4E5E485E290BB9D4D072E2  : public ValueType_t6D9B272BD21782F0A9A14F2E41F85A50E97A986F
+{
+};
+struct Enum_t2A1A94B24E3B776EEF4E5E485E290BB9D4D072E2_marshaled_pinvoke
+{
+};
+struct Enum_t2A1A94B24E3B776EEF4E5E485E290BB9D4D072E2_marshaled_com
+{
+};
+struct InputControlScheme_tB60FB32F414727140B32E1A0447679DC7ABC8434 
+{
+	String_t* ___m_Name;
+	String_t* ___m_BindingGroup;
+	DeviceRequirementU5BU5D_t0496FAAB7554B7BFC270BA53BA6A5EFD5DE061CE* ___m_DeviceRequirements;
+};
+struct InputControlScheme_tB60FB32F414727140B32E1A0447679DC7ABC8434_marshaled_pinvoke
+{
+	char* ___m_Name;
+	char* ___m_BindingGroup;
+	DeviceRequirement_t80E71C44DF1923C15D3AA025242B7348EBF8B056_marshaled_pinvoke* ___m_DeviceRequirements;
+};
+struct InputControlScheme_tB60FB32F414727140B32E1A0447679DC7ABC8434_marshaled_com
+{
+	Il2CppChar* ___m_Name;
+	Il2CppChar* ___m_BindingGroup;
+	DeviceRequirement_t80E71C44DF1923C15D3AA025242B7348EBF8B056_marshaled_com* ___m_DeviceRequirements;
+};
+struct Int32_t680FF22E76F6EFAD4375103CBBFFA0421349384C 
+{
+	int32_t ___m_value;
+};
+struct IntPtr_t 
+{
+	void* ___m_value;
+};
+struct Single_t4530F2FF86FCB0DC29F35385CA1BD21BE294761C 
+{
+	float ___m_value;
+};
+struct Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 
+{
+	float ___x;
+	float ___y;
+};
+struct Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 
+{
+	float ___x;
+	float ___y;
+	float ___z;
+};
+struct Void_t4861ACF8F4594C3437BB48B6E56783494B843915 
+{
+	union
+	{
+		struct
+		{
+		};
+		uint8_t Void_t4861ACF8F4594C3437BB48B6E56783494B843915__padding[1];
+	};
+};
+#pragma pack(push, tp, 1)
+struct __StaticArrayInitTypeSizeU3D125_t031957AFA58EBC112C597679663A222F36576DB8 
+{
+	union
+	{
+		struct
+		{
+			union
+			{
+			};
+		};
+		uint8_t __StaticArrayInitTypeSizeU3D125_t031957AFA58EBC112C597679663A222F36576DB8__padding[125];
+	};
+};
+#pragma pack(pop, tp)
+#pragma pack(push, tp, 1)
+struct __StaticArrayInitTypeSizeU3D218_t05CB0E5678189B84969E2F4F9765350A40D596C7 
+{
+	union
+	{
+		struct
+		{
+			union
+			{
+			};
+		};
+		uint8_t __StaticArrayInitTypeSizeU3D218_t05CB0E5678189B84969E2F4F9765350A40D596C7__padding[218];
+	};
+};
+#pragma pack(pop, tp)
+struct CallbackContext_tB251EE41F509C6E8A6B05EC97C029A45DF4F5FA8 
+{
+	InputActionState_t780948EA293BAA800AD8699518B58B59FFB8A700* ___m_State;
+	int32_t ___m_ActionIndex;
+};
+struct CallbackContext_tB251EE41F509C6E8A6B05EC97C029A45DF4F5FA8_marshaled_pinvoke
+{
+	InputActionState_t780948EA293BAA800AD8699518B58B59FFB8A700* ___m_State;
+	int32_t ___m_ActionIndex;
+};
+struct CallbackContext_tB251EE41F509C6E8A6B05EC97C029A45DF4F5FA8_marshaled_com
+{
+	InputActionState_t780948EA293BAA800AD8699518B58B59FFB8A700* ___m_State;
+	int32_t ___m_ActionIndex;
+};
+struct DeviceArray_t7F2F2D8A9D5CAF504DC1A21C1FEF79BCA9E4761E 
+{
+	bool ___m_HaveValue;
+	int32_t ___m_DeviceCount;
+	InputDeviceU5BU5D_tA9AEFC6AF63557D3D5DCFB2B26DDA6F63147D548* ___m_DeviceArray;
+};
+struct DeviceArray_t7F2F2D8A9D5CAF504DC1A21C1FEF79BCA9E4761E_marshaled_pinvoke
+{
+	int32_t ___m_HaveValue;
+	int32_t ___m_DeviceCount;
+	InputDeviceU5BU5D_tA9AEFC6AF63557D3D5DCFB2B26DDA6F63147D548* ___m_DeviceArray;
+};
+struct DeviceArray_t7F2F2D8A9D5CAF504DC1A21C1FEF79BCA9E4761E_marshaled_com
+{
+	int32_t ___m_HaveValue;
+	int32_t ___m_DeviceCount;
+	InputDeviceU5BU5D_tA9AEFC6AF63557D3D5DCFB2B26DDA6F63147D548* ___m_DeviceArray;
+};
+struct PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B 
+{
+	InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD* ___m_Wrapper;
+};
+struct PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B_marshaled_pinvoke
+{
+	InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD* ___m_Wrapper;
+};
+struct PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B_marshaled_com
+{
+	InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD* ___m_Wrapper;
+};
+struct UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F 
+{
+	InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD* ___m_Wrapper;
+};
+struct UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F_marshaled_pinvoke
+{
+	InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD* ___m_Wrapper;
+};
+struct UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F_marshaled_com
+{
+	InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD* ___m_Wrapper;
+};
+struct MonoScriptData_t8F50E352855B96FFFC1D9CB07EACC90C99D73A3E 
+{
+	ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031* ___FilePathsData;
+	ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031* ___TypesData;
+	int32_t ___TotalTypes;
+	int32_t ___TotalFiles;
+	bool ___IsEditorOnly;
+};
+struct MonoScriptData_t8F50E352855B96FFFC1D9CB07EACC90C99D73A3E_marshaled_pinvoke
+{
+	Il2CppSafeArray* ___FilePathsData;
+	Il2CppSafeArray* ___TypesData;
+	int32_t ___TotalTypes;
+	int32_t ___TotalFiles;
+	int32_t ___IsEditorOnly;
+};
+struct MonoScriptData_t8F50E352855B96FFFC1D9CB07EACC90C99D73A3E_marshaled_com
+{
+	Il2CppSafeArray* ___FilePathsData;
+	Il2CppSafeArray* ___TypesData;
+	int32_t ___TotalTypes;
+	int32_t ___TotalFiles;
+	int32_t ___IsEditorOnly;
+};
+struct CallbackArray_1_tDFF8C4C6015023B6C2E70BAD26D8BC6BF00D8775 
+{
+	bool ___m_CannotMutateCallbacksArray;
+	InlinedArray_1_tC208D319D19C2B3DF550BD9CDC11549F23D8F91B ___m_Callbacks;
+	InlinedArray_1_tC208D319D19C2B3DF550BD9CDC11549F23D8F91B ___m_CallbacksToAdd;
+	InlinedArray_1_tC208D319D19C2B3DF550BD9CDC11549F23D8F91B ___m_CallbacksToRemove;
+};
+struct Nullable_1_t6B4D7100F56DCBBBD57A82F0DE4C93A1BA86EC4D 
+{
+	bool ___hasValue;
+	ReadOnlyArray_1_t21E90B3F1DF1E9A2088EA0523F03C47910735BCA ___value;
+};
+struct CollisionFlags_t3132E5D974C485D3F3C97B7AF475965AB0C3F9C1 
+{
+	int32_t ___value__;
+};
+struct Coroutine_t85EA685566A254C23F3FD77AB5BDFFFF8799596B  : public YieldInstruction_tFCE35FD0907950EFEE9BC2890AC664E41C53728D
+{
+	intptr_t ___m_Ptr;
+};
+struct Coroutine_t85EA685566A254C23F3FD77AB5BDFFFF8799596B_marshaled_pinvoke : public YieldInstruction_tFCE35FD0907950EFEE9BC2890AC664E41C53728D_marshaled_pinvoke
+{
+	intptr_t ___m_Ptr;
+};
+struct Coroutine_t85EA685566A254C23F3FD77AB5BDFFFF8799596B_marshaled_com : public YieldInstruction_tFCE35FD0907950EFEE9BC2890AC664E41C53728D_marshaled_com
+{
+	intptr_t ___m_Ptr;
+};
+struct Delegate_t  : public RuntimeObject
+{
+	intptr_t ___method_ptr;
+	intptr_t ___invoke_impl;
+	RuntimeObject* ___m_target;
+	intptr_t ___method;
+	intptr_t ___delegate_trampoline;
+	intptr_t ___extra_arg;
+	intptr_t ___method_code;
+	intptr_t ___interp_method;
+	intptr_t ___interp_invoke_impl;
+	MethodInfo_t* ___method_info;
+	MethodInfo_t* ___original_method_info;
+	DelegateData_t9B286B493293CD2D23A5B2B5EF0E5B1324C2B77E* ___data;
+	bool ___method_is_virtual;
+};
+struct Delegate_t_marshaled_pinvoke
+{
+	intptr_t ___method_ptr;
+	intptr_t ___invoke_impl;
+	Il2CppIUnknown* ___m_target;
+	intptr_t ___method;
+	intptr_t ___delegate_trampoline;
+	intptr_t ___extra_arg;
+	intptr_t ___method_code;
+	intptr_t ___interp_method;
+	intptr_t ___interp_invoke_impl;
+	MethodInfo_t* ___method_info;
+	MethodInfo_t* ___original_method_info;
+	DelegateData_t9B286B493293CD2D23A5B2B5EF0E5B1324C2B77E* ___data;
+	int32_t ___method_is_virtual;
+};
+struct Delegate_t_marshaled_com
+{
+	intptr_t ___method_ptr;
+	intptr_t ___invoke_impl;
+	Il2CppIUnknown* ___m_target;
+	intptr_t ___method;
+	intptr_t ___delegate_trampoline;
+	intptr_t ___extra_arg;
+	intptr_t ___method_code;
+	intptr_t ___interp_method;
+	intptr_t ___interp_invoke_impl;
+	MethodInfo_t* ___method_info;
+	MethodInfo_t* ___original_method_info;
+	DelegateData_t9B286B493293CD2D23A5B2B5EF0E5B1324C2B77E* ___data;
+	int32_t ___method_is_virtual;
+};
+struct Exception_t  : public RuntimeObject
+{
+	String_t* ____className;
+	String_t* ____message;
+	RuntimeObject* ____data;
+	Exception_t* ____innerException;
+	String_t* ____helpURL;
+	RuntimeObject* ____stackTrace;
+	String_t* ____stackTraceString;
+	String_t* ____remoteStackTraceString;
+	int32_t ____remoteStackIndex;
+	RuntimeObject* ____dynamicMethods;
+	int32_t ____HResult;
+	String_t* ____source;
+	SafeSerializationManager_tCBB85B95DFD1634237140CD892E82D06ECB3F5E6* ____safeSerializationManager;
+	StackTraceU5BU5D_t32FBCB20930EAF5BAE3F450FF75228E5450DA0DF* ___captured_traces;
+	IntPtrU5BU5D_tFD177F8C806A6921AD7150264CCC62FA00CAD832* ___native_trace_ips;
+	int32_t ___caught_in_unmanaged;
+};
+struct Exception_t_marshaled_pinvoke
+{
+	char* ____className;
+	char* ____message;
+	RuntimeObject* ____data;
+	Exception_t_marshaled_pinvoke* ____innerException;
+	char* ____helpURL;
+	Il2CppIUnknown* ____stackTrace;
+	char* ____stackTraceString;
+	char* ____remoteStackTraceString;
+	int32_t ____remoteStackIndex;
+	Il2CppIUnknown* ____dynamicMethods;
+	int32_t ____HResult;
+	char* ____source;
+	SafeSerializationManager_tCBB85B95DFD1634237140CD892E82D06ECB3F5E6* ____safeSerializationManager;
+	StackTraceU5BU5D_t32FBCB20930EAF5BAE3F450FF75228E5450DA0DF* ___captured_traces;
+	Il2CppSafeArray* ___native_trace_ips;
+	int32_t ___caught_in_unmanaged;
+};
+struct Exception_t_marshaled_com
+{
+	Il2CppChar* ____className;
+	Il2CppChar* ____message;
+	RuntimeObject* ____data;
+	Exception_t_marshaled_com* ____innerException;
+	Il2CppChar* ____helpURL;
+	Il2CppIUnknown* ____stackTrace;
+	Il2CppChar* ____stackTraceString;
+	Il2CppChar* ____remoteStackTraceString;
+	int32_t ____remoteStackIndex;
+	Il2CppIUnknown* ____dynamicMethods;
+	int32_t ____HResult;
+	Il2CppChar* ____source;
+	SafeSerializationManager_tCBB85B95DFD1634237140CD892E82D06ECB3F5E6* ____safeSerializationManager;
+	StackTraceU5BU5D_t32FBCB20930EAF5BAE3F450FF75228E5450DA0DF* ___captured_traces;
+	Il2CppSafeArray* ___native_trace_ips;
+	int32_t ___caught_in_unmanaged;
+};
+struct InputActionType_t7E3615BDDF3C84F39712E5889559D3AD8E773108 
+{
+	int32_t ___value__;
+};
+struct Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C  : public RuntimeObject
+{
+	intptr_t ___m_CachedPtr;
+};
+struct Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_marshaled_pinvoke
+{
+	intptr_t ___m_CachedPtr;
+};
+struct Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_marshaled_com
+{
+	intptr_t ___m_CachedPtr;
+};
+struct ProfilerMarker_tA256E18DA86EDBC5528CE066FC91C96EE86501AD 
+{
+	intptr_t ___m_Ptr;
+};
+struct RuntimeFieldHandle_t6E4C45B6D2EA12FC99185805A7E77527899B25C5 
+{
+	intptr_t ___value;
+};
+struct ActionFlags_t639BD2944E073F8DD263CE2CA581FC62C401AB1E 
+{
+	int32_t ___value__;
+};
+struct Flags_tC94B4BEC896F8152609F412172F9CFD6F6BDB523 
+{
+	int32_t ___value__;
+};
+struct Flags_t2ED4EFE461994B03533B3B524C8C2EA71315AAE6 
+{
+	int32_t ___value__;
+};
+struct Component_t39FBE53E5EFCF4409111FB22C15FF73717632EC3  : public Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C
+{
+};
+struct InputBinding_t0D75BD1538CF81D29450D568D5C938E111633EC5 
+{
+	String_t* ___m_Name;
+	String_t* ___m_Id;
+	String_t* ___m_Path;
+	String_t* ___m_Interactions;
+	String_t* ___m_Processors;
+	String_t* ___m_Groups;
+	String_t* ___m_Action;
+	int32_t ___m_Flags;
+	String_t* ___m_OverridePath;
+	String_t* ___m_OverrideInteractions;
+	String_t* ___m_OverrideProcessors;
+};
+struct InputBinding_t0D75BD1538CF81D29450D568D5C938E111633EC5_marshaled_pinvoke
+{
+	char* ___m_Name;
+	char* ___m_Id;
+	char* ___m_Path;
+	char* ___m_Interactions;
+	char* ___m_Processors;
+	char* ___m_Groups;
+	char* ___m_Action;
+	int32_t ___m_Flags;
+	char* ___m_OverridePath;
+	char* ___m_OverrideInteractions;
+	char* ___m_OverrideProcessors;
+};
+struct InputBinding_t0D75BD1538CF81D29450D568D5C938E111633EC5_marshaled_com
+{
+	Il2CppChar* ___m_Name;
+	Il2CppChar* ___m_Id;
+	Il2CppChar* ___m_Path;
+	Il2CppChar* ___m_Interactions;
+	Il2CppChar* ___m_Processors;
+	Il2CppChar* ___m_Groups;
+	Il2CppChar* ___m_Action;
+	int32_t ___m_Flags;
+	Il2CppChar* ___m_OverridePath;
+	Il2CppChar* ___m_OverrideInteractions;
+	Il2CppChar* ___m_OverrideProcessors;
+};
+struct MulticastDelegate_t  : public Delegate_t
+{
+	DelegateU5BU5D_tC5AB7E8F745616680F337909D3A8E6C722CDF771* ___delegates;
+};
+struct MulticastDelegate_t_marshaled_pinvoke : public Delegate_t_marshaled_pinvoke
+{
+	Delegate_t_marshaled_pinvoke** ___delegates;
+};
+struct MulticastDelegate_t_marshaled_com : public Delegate_t_marshaled_com
+{
+	Delegate_t_marshaled_com** ___delegates;
+};
+struct ScriptableObject_tB3BFDB921A1B1795B38A5417D3B97A89A140436A  : public Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C
+{
+};
+struct ScriptableObject_tB3BFDB921A1B1795B38A5417D3B97A89A140436A_marshaled_pinvoke : public Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_marshaled_pinvoke
+{
+};
+struct ScriptableObject_tB3BFDB921A1B1795B38A5417D3B97A89A140436A_marshaled_com : public Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_marshaled_com
+{
+};
+struct SystemException_tCC48D868298F4C0705279823E34B00F4FBDB7295  : public Exception_t
+{
+};
+struct Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E  : public MulticastDelegate_t
+{
+};
+struct Nullable_1_t11786EE914FE65E70B9671129B0DFC4D0DE80C44 
+{
+	bool ___hasValue;
+	InputBinding_t0D75BD1538CF81D29450D568D5C938E111633EC5 ___value;
+};
+struct Behaviour_t01970CFBBA658497AE30F311C447DB0440BAB7FA  : public Component_t39FBE53E5EFCF4409111FB22C15FF73717632EC3
+{
+};
+struct Collider_t1CC3163924FCD6C4CC2E816373A929C1E3D55E76  : public Component_t39FBE53E5EFCF4409111FB22C15FF73717632EC3
+{
+};
+struct NotSupportedException_t1429765983D409BD2986508963C98D214E4EBF4A  : public SystemException_tCC48D868298F4C0705279823E34B00F4FBDB7295
+{
+};
+struct Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1  : public Component_t39FBE53E5EFCF4409111FB22C15FF73717632EC3
+{
+};
+struct Animator_t8A52E42AE54F76681838FE9E632683EF3952E883  : public Behaviour_t01970CFBBA658497AE30F311C447DB0440BAB7FA
+{
+};
+struct AudioBehaviour_t2DC0BEF7B020C952F3D2DA5AAAC88501C7EEB941  : public Behaviour_t01970CFBBA658497AE30F311C447DB0440BAB7FA
+{
+};
+struct CharacterController_t847C1A2719F60547D7D6077B648D6CE2D1EF3A6A  : public Collider_t1CC3163924FCD6C4CC2E816373A929C1E3D55E76
+{
+};
+struct InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD  : public RuntimeObject
+{
+	String_t* ___m_Name;
+	int32_t ___m_Type;
+	String_t* ___m_ExpectedControlType;
+	String_t* ___m_Id;
+	String_t* ___m_Processors;
+	String_t* ___m_Interactions;
+	InputBindingU5BU5D_t7E47E87B9CAE12B6F6A0659008B425C58D84BB57* ___m_SingletonActionBindings;
+	int32_t ___m_Flags;
+	Nullable_1_t11786EE914FE65E70B9671129B0DFC4D0DE80C44 ___m_BindingMask;
+	int32_t ___m_BindingsStartIndex;
+	int32_t ___m_BindingsCount;
+	int32_t ___m_ControlStartIndex;
+	int32_t ___m_ControlCount;
+	int32_t ___m_ActionIndexInState;
+	InputActionMap_tFCE82E0E014319D4DED9F8962B06655DD0420A09* ___m_ActionMap;
+	CallbackArray_1_tDFF8C4C6015023B6C2E70BAD26D8BC6BF00D8775 ___m_OnStarted;
+	CallbackArray_1_tDFF8C4C6015023B6C2E70BAD26D8BC6BF00D8775 ___m_OnCanceled;
+	CallbackArray_1_tDFF8C4C6015023B6C2E70BAD26D8BC6BF00D8775 ___m_OnPerformed;
+};
+struct InputActionAsset_tF217AC5223B4AAA46EBCB44B33E9259FB117417D  : public ScriptableObject_tB3BFDB921A1B1795B38A5417D3B97A89A140436A
+{
+	InputActionMapU5BU5D_t4B352E8DA73976FEDA107E35E81FB5BE6838C045* ___m_ActionMaps;
+	InputControlSchemeU5BU5D_tAE603126FBD4D6B8F67EA6F8CFA531A646C63D86* ___m_ControlSchemes;
+	bool ___m_IsProjectWide;
+	InputActionState_t780948EA293BAA800AD8699518B58B59FFB8A700* ___m_SharedStateForAllMaps;
+	Nullable_1_t11786EE914FE65E70B9671129B0DFC4D0DE80C44 ___m_BindingMask;
+	int32_t ___m_ParameterOverridesCount;
+	ParameterOverrideU5BU5D_tC408277D7E98D32E4B0AEFA1E2EDDB74790897EE* ___m_ParameterOverrides;
+	DeviceArray_t7F2F2D8A9D5CAF504DC1A21C1FEF79BCA9E4761E ___m_Devices;
+};
+struct InputActionMap_tFCE82E0E014319D4DED9F8962B06655DD0420A09  : public RuntimeObject
+{
+	String_t* ___m_Name;
+	String_t* ___m_Id;
+	InputActionAsset_tF217AC5223B4AAA46EBCB44B33E9259FB117417D* ___m_Asset;
+	InputActionU5BU5D_t6F881A9FE5C2016615C8D2E0B192608EA5FCE810* ___m_Actions;
+	InputBindingU5BU5D_t7E47E87B9CAE12B6F6A0659008B425C58D84BB57* ___m_Bindings;
+	InputBindingU5BU5D_t7E47E87B9CAE12B6F6A0659008B425C58D84BB57* ___m_BindingsForEachAction;
+	InputControlU5BU5D_t0B951FEF1504D6340387C4735F5D6F426F40FE17* ___m_ControlsForEachAction;
+	int32_t ___m_EnabledActionsCount;
+	InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* ___m_SingletonAction;
+	int32_t ___m_MapIndexInState;
+	InputActionState_t780948EA293BAA800AD8699518B58B59FFB8A700* ___m_State;
+	Nullable_1_t11786EE914FE65E70B9671129B0DFC4D0DE80C44 ___m_BindingMask;
+	int32_t ___m_Flags;
+	int32_t ___m_ParameterOverridesCount;
+	ParameterOverrideU5BU5D_tC408277D7E98D32E4B0AEFA1E2EDDB74790897EE* ___m_ParameterOverrides;
+	DeviceArray_t7F2F2D8A9D5CAF504DC1A21C1FEF79BCA9E4761E ___m_Devices;
+	CallbackArray_1_tDFF8C4C6015023B6C2E70BAD26D8BC6BF00D8775 ___m_ActionCallbacks;
+	Dictionary_2_t5C8F46F5D57502270DD9E1DA8303B23C7FE85588* ___m_ActionIndexByNameOrId;
+};
+struct MonoBehaviour_t532A11E69716D348D8AA7F854AFCBFCB8AD17F71  : public Behaviour_t01970CFBBA658497AE30F311C447DB0440BAB7FA
+{
+	CancellationTokenSource_tAAE1E0033BCFC233801F8CB4CED5C852B350CB7B* ___m_CancellationTokenSource;
+};
+struct NavMeshAgent_t5D0CCC0B3B78242F286C9BD8EDD87C3CCBD0A66F  : public Behaviour_t01970CFBBA658497AE30F311C447DB0440BAB7FA
+{
+};
+struct AudioSource_t871AC2272F896738252F04EE949AEF5B241D3299  : public AudioBehaviour_t2DC0BEF7B020C952F3D2DA5AAAC88501C7EEB941
+{
+};
+struct Move_t854202AD2D0D0CBADCAA68583489F1054C5BC0E4  : public MonoBehaviour_t532A11E69716D348D8AA7F854AFCBFCB8AD17F71
+{
+	float ___speed;
+	float ___runMultiplier;
+	float ___gravity;
+	float ___jumpHeight;
+	float ___rotationSpeed;
+	CharacterController_t847C1A2719F60547D7D6077B648D6CE2D1EF3A6A* ___characterController;
+	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___velocity;
+	bool ___isRunning;
+	bool ___isGrounded;
+	InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD* ___inputActions;
+	Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 ___moveInput;
+	float ___rotateInput;
+};
+struct PlayerAudio_t69AA2C672759BA9C0C65E6FFCBAB6F278C6C7045  : public MonoBehaviour_t532A11E69716D348D8AA7F854AFCBFCB8AD17F71
+{
+	AudioSource_t871AC2272F896738252F04EE949AEF5B241D3299* ___normalMusic;
+	AudioSource_t871AC2272F896738252F04EE949AEF5B241D3299* ___chaseMusic;
+	int32_t ___chasingEnemies;
+	Coroutine_t85EA685566A254C23F3FD77AB5BDFFFF8799596B* ___currentFade;
+};
+struct enemyMove_t9883DDFC0AA41159024CBB461258661AB18DCD58  : public MonoBehaviour_t532A11E69716D348D8AA7F854AFCBFCB8AD17F71
+{
+	Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* ___Player;
+	NavMeshAgent_t5D0CCC0B3B78242F286C9BD8EDD87C3CCBD0A66F* ___agent;
+	bool ___isChasing;
+	Animator_t8A52E42AE54F76681838FE9E632683EF3952E883* ___animator;
+};
+struct List_1_tA239CB83DE5615F348BB0507E45F490F4F7C9A8D_StaticFields
+{
+	ObjectU5BU5D_t8061030B0A12A55D5AD8652A20C922FE99450918* ___s_emptyArray;
+};
+struct List_1_t726BCA8E2CE69931893FD019F21D4CDE55BF7AF1_StaticFields
+{
+	IPlayerActionsU5BU5D_t627F1B7194985A8481A57AE28789E6A5167E70FD* ___s_emptyArray;
+};
+struct List_1_t7B4BA466ED2E0B53AA92432404A8E418878C1E6B_StaticFields
+{
+	IUIActionsU5BU5D_tC6EDFC57F95D1DB01907E673DCC159E59E114497* ___s_emptyArray;
+};
+struct U3CPrivateImplementationDetailsU3E_t0F5473E849A5A5185A9F4C5246F0C32816C49FCA_StaticFields
+{
+	__StaticArrayInitTypeSizeU3D125_t031957AFA58EBC112C597679663A222F36576DB8 ___5774F00F2122AE1B5D6A049C4FD388BD5C58870587983A93C615FD84F1448DF0;
+	__StaticArrayInitTypeSizeU3D218_t05CB0E5678189B84969E2F4F9765350A40D596C7 ___C42DD723DD6DA9E2966C04AFBE00683709013D87D5AFAE205D691C8DD2CE24D5;
+};
+struct String_t_StaticFields
+{
+	String_t* ___Empty;
+};
+struct Boolean_t09A6377A54BE2F9E6985A8149F19234FD7DDFE22_StaticFields
+{
+	String_t* ___TrueString;
+	String_t* ___FalseString;
+};
+struct IntPtr_t_StaticFields
+{
+	intptr_t ___Zero;
+};
+struct Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7_StaticFields
+{
+	Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 ___zeroVector;
+	Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 ___oneVector;
+	Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 ___upVector;
+	Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 ___downVector;
+	Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 ___leftVector;
+	Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 ___rightVector;
+	Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 ___positiveInfinityVector;
+	Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 ___negativeInfinityVector;
+};
+struct Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2_StaticFields
+{
+	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___zeroVector;
+	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___oneVector;
+	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___upVector;
+	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___downVector;
+	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___leftVector;
+	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___rightVector;
+	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___forwardVector;
+	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___backVector;
+	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___positiveInfinityVector;
+	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___negativeInfinityVector;
+};
+struct Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_StaticFields
+{
+	int32_t ___OffsetOfInstanceIDInCPlusPlusObject;
+};
+struct InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD_StaticFields
+{
+	ProfilerMarker_tA256E18DA86EDBC5528CE066FC91C96EE86501AD ___k_InputActionEnableProfilerMarker;
+	ProfilerMarker_tA256E18DA86EDBC5528CE066FC91C96EE86501AD ___k_InputActionDisableProfilerMarker;
+};
+struct InputActionMap_tFCE82E0E014319D4DED9F8962B06655DD0420A09_StaticFields
+{
+	ProfilerMarker_tA256E18DA86EDBC5528CE066FC91C96EE86501AD ___k_ResolveBindingsProfilerMarker;
+	int32_t ___s_DeferBindingResolution;
+	bool ___s_NeedToResolveBindings;
+};
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+struct ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031  : public RuntimeArray
+{
+	ALIGN_FIELD (8) uint8_t m_Items[1];
+
+	inline uint8_t GetAt(il2cpp_array_size_t index) const
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items[index];
+	}
+	inline uint8_t* GetAddressAt(il2cpp_array_size_t index)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t index, uint8_t value)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		m_Items[index] = value;
+	}
+	inline uint8_t GetAtUnchecked(il2cpp_array_size_t index) const
+	{
+		return m_Items[index];
+	}
+	inline uint8_t* GetAddressAtUnchecked(il2cpp_array_size_t index)
+	{
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t index, uint8_t value)
+	{
+		m_Items[index] = value;
+	}
+};
+struct ObjectU5BU5D_t8061030B0A12A55D5AD8652A20C922FE99450918  : public RuntimeArray
+{
+	ALIGN_FIELD (8) RuntimeObject* m_Items[1];
+
+	inline RuntimeObject* GetAt(il2cpp_array_size_t index) const
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items[index];
+	}
+	inline RuntimeObject** GetAddressAt(il2cpp_array_size_t index)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t index, RuntimeObject* value)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		m_Items[index] = value;
+		Il2CppCodeGenWriteBarrier((void**)m_Items + index, (void*)value);
+	}
+	inline RuntimeObject* GetAtUnchecked(il2cpp_array_size_t index) const
+	{
+		return m_Items[index];
+	}
+	inline RuntimeObject** GetAddressAtUnchecked(il2cpp_array_size_t index)
+	{
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t index, RuntimeObject* value)
+	{
+		m_Items[index] = value;
+		Il2CppCodeGenWriteBarrier((void**)m_Items + index, (void*)value);
+	}
+};
+
+
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* Component_GetComponent_TisRuntimeObject_m7181F81CAEC2CF53F5D2BC79B7425C16E1F80D33_gshared (Component_t39FBE53E5EFCF4409111FB22C15FF73717632EC3* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void List_1__ctor_m7F078BB342729BDF11327FD89D7872265328F690_gshared (List_1_tA239CB83DE5615F348BB0507E45F490F4F7C9A8D* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR InputControlScheme_tB60FB32F414727140B32E1A0447679DC7ABC8434 ReadOnlyArray_1_get_Item_m1B48B5B84CD98353C0E203B6E556E617FD3CA90E_gshared (ReadOnlyArray_1_tC41FC1476A6CC9385BDD74ECC6D3AF66A6C82BF9* __this, int32_t ___0_index, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool List_1_Contains_m4C9139C2A6B23E9343D3F87807B32C6E2CFE660D_gshared (List_1_tA239CB83DE5615F348BB0507E45F490F4F7C9A8D* __this, RuntimeObject* ___0_item, const RuntimeMethod* method) ;
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void List_1_Add_mEBCF994CC3814631017F46A387B1A192ED6C85C7_gshared_inline (List_1_tA239CB83DE5615F348BB0507E45F490F4F7C9A8D* __this, RuntimeObject* ___0_item, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57_gshared (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* __this, RuntimeObject* ___0_object, intptr_t ___1_method, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool List_1_Remove_m4DFA48F4CEB9169601E75FC28517C5C06EFA5AD7_gshared (List_1_tA239CB83DE5615F348BB0507E45F490F4F7C9A8D* __this, RuntimeObject* ___0_item, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Enumerator_t9473BAB568A27E2339D48C1F91319E0F6D244D7A List_1_GetEnumerator_mD8294A7FA2BEB1929487127D476F8EC1CDC23BFC_gshared (List_1_tA239CB83DE5615F348BB0507E45F490F4F7C9A8D* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Enumerator_Dispose_mD9DC3E3C3697830A4823047AB29A77DBBB5ED419_gshared (Enumerator_t9473BAB568A27E2339D48C1F91319E0F6D244D7A* __this, const RuntimeMethod* method) ;
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR RuntimeObject* Enumerator_get_Current_m6330F15D18EE4F547C05DF9BF83C5EB710376027_gshared_inline (Enumerator_t9473BAB568A27E2339D48C1F91319E0F6D244D7A* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool Enumerator_MoveNext_mE921CC8F29FBBDE7CC3209A0ED0D921D58D00BCB_gshared (Enumerator_t9473BAB568A27E2339D48C1F91319E0F6D244D7A* __this, const RuntimeMethod* method) ;
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void List_1_Clear_m16C1F2C61FED5955F10EB36BC1CB2DF34B128994_gshared_inline (List_1_tA239CB83DE5615F348BB0507E45F490F4F7C9A8D* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 CallbackContext_ReadValue_TisVector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7_m454ADEAE74A5A469E011CF78D6303A1034659830_gshared (CallbackContext_tB251EE41F509C6E8A6B05EC97C029A45DF4F5FA8* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float CallbackContext_ReadValue_TisSingle_t4530F2FF86FCB0DC29F35385CA1BD21BE294761C_m7EBC8C123F0601CE5B340BA966923AEC449A8ACF_gshared (CallbackContext_tB251EE41F509C6E8A6B05EC97C029A45DF4F5FA8* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_NO_INLINE IL2CPP_METHOD_ATTR void List_1_AddWithResize_m79A9BF770BEF9C06BE40D5401E55E375F2726CC4_gshared (List_1_tA239CB83DE5615F348BB0507E45F490F4F7C9A8D* __this, RuntimeObject* ___0_item, const RuntimeMethod* method) ;
+
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AudioSource_set_volume_mD902BBDBBDE0E3C148609BF3C05096148E90F2C0 (AudioSource_t871AC2272F896738252F04EE949AEF5B241D3299* __this, float ___0_value, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AudioSource_Play_m95DF07111C61D0E0F00257A00384D31531D590C3 (AudioSource_t871AC2272F896738252F04EE949AEF5B241D3299* __this, const RuntimeMethod* method) ;
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR int32_t Mathf_Max_m7FA442918DE37E3A00106D1F2E789D65829792B8_inline (int32_t ___0_a, int32_t ___1_b, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PlayerAudio_StartFade_m02A1CEDE1CB2F8DB0B0B3D5D22EACF28CDAFEBF8 (PlayerAudio_t69AA2C672759BA9C0C65E6FFCBAB6F278C6C7045* __this, AudioSource_t871AC2272F896738252F04EE949AEF5B241D3299* ___0_from, AudioSource_t871AC2272F896738252F04EE949AEF5B241D3299* ___1_to, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MonoBehaviour_StopCoroutine_mB0FC91BE84203BD8E360B3FBAE5B958B4C5ED22A (MonoBehaviour_t532A11E69716D348D8AA7F854AFCBFCB8AD17F71* __this, Coroutine_t85EA685566A254C23F3FD77AB5BDFFFF8799596B* ___0_routine, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* PlayerAudio_FadeMusic_m9108A2F48F38913526FEFC762EEDE8DFFAB63797 (PlayerAudio_t69AA2C672759BA9C0C65E6FFCBAB6F278C6C7045* __this, AudioSource_t871AC2272F896738252F04EE949AEF5B241D3299* ___0_from, AudioSource_t871AC2272F896738252F04EE949AEF5B241D3299* ___1_to, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Coroutine_t85EA685566A254C23F3FD77AB5BDFFFF8799596B* MonoBehaviour_StartCoroutine_m4CAFF732AA28CD3BDC5363B44A863575530EC812 (MonoBehaviour_t532A11E69716D348D8AA7F854AFCBFCB8AD17F71* __this, RuntimeObject* ___0_routine, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CFadeMusicU3Ed__7__ctor_m14EC50D7D192B27B1747A3360A85AB5E3F4DB976 (U3CFadeMusicU3Ed__7_tC12A322B20FFD6486F550CCDDC08296564DDEC9B* __this, int32_t ___0_U3CU3E1__state, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MonoBehaviour__ctor_m592DB0105CA0BC97AA1C5F4AD27B12D68A3B7C1E (MonoBehaviour_t532A11E69716D348D8AA7F854AFCBFCB8AD17F71* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Object__ctor_mE837C6B9FA8C6D5D109F4B2EC885D79919AC0EA2 (RuntimeObject* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool AudioSource_get_isPlaying_mC203303F2F7146B2C056CB47B9391463FDF408FC (AudioSource_t871AC2272F896738252F04EE949AEF5B241D3299* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float Time_get_deltaTime_mC3195000401F0FD167DD2F948FD2BC58330D0865 (const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AudioSource_Stop_m318F17F17A147C77FF6E0A5A7A6BE057DB90F537 (AudioSource_t871AC2272F896738252F04EE949AEF5B241D3299* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void NotSupportedException__ctor_m1398D0CDE19B36AA3DE9392879738C1EA2439CDF (NotSupportedException_t1429765983D409BD2986508963C98D214E4EBF4A* __this, const RuntimeMethod* method) ;
+inline NavMeshAgent_t5D0CCC0B3B78242F286C9BD8EDD87C3CCBD0A66F* Component_GetComponent_TisNavMeshAgent_t5D0CCC0B3B78242F286C9BD8EDD87C3CCBD0A66F_m45B783D78932EFB8409019F84FED6DF3A492F16F (Component_t39FBE53E5EFCF4409111FB22C15FF73717632EC3* __this, const RuntimeMethod* method)
+{
+	return ((  NavMeshAgent_t5D0CCC0B3B78242F286C9BD8EDD87C3CCBD0A66F* (*) (Component_t39FBE53E5EFCF4409111FB22C15FF73717632EC3*, const RuntimeMethod*))Component_GetComponent_TisRuntimeObject_m7181F81CAEC2CF53F5D2BC79B7425C16E1F80D33_gshared)(__this, method);
+}
+inline Animator_t8A52E42AE54F76681838FE9E632683EF3952E883* Component_GetComponent_TisAnimator_t8A52E42AE54F76681838FE9E632683EF3952E883_m1C9FCB4BBE56BEC6BDEF6E4BA1E5DFF91614D7CE (Component_t39FBE53E5EFCF4409111FB22C15FF73717632EC3* __this, const RuntimeMethod* method)
+{
+	return ((  Animator_t8A52E42AE54F76681838FE9E632683EF3952E883* (*) (Component_t39FBE53E5EFCF4409111FB22C15FF73717632EC3*, const RuntimeMethod*))Component_GetComponent_TisRuntimeObject_m7181F81CAEC2CF53F5D2BC79B7425C16E1F80D33_gshared)(__this, method);
+}
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool Object_op_Inequality_mD0BE578448EAA61948F25C32F8DD55AB1F778602 (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C* ___0_x, Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C* ___1_y, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 Transform_get_position_m69CD5FA214FDAE7BB701552943674846C220FDE1 (Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool NavMeshAgent_SetDestination_mD5D960933827F1F14B29CF4A3B6F305C064EBF46 (NavMeshAgent_t5D0CCC0B3B78242F286C9BD8EDD87C3CCBD0A66F* __this, Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___0_target, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Animator_SetBool_m6F8D4FAF0770CD4EC1F54406249785DE7391E42B (Animator_t8A52E42AE54F76681838FE9E632683EF3952E883* __this, String_t* ___0_name, bool ___1_value, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool Component_CompareTag_mE6F8897E84F12DF12D302FFC4D58204D51096FC5 (Component_t39FBE53E5EFCF4409111FB22C15FF73717632EC3* __this, String_t* ___0_tag, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* Component_get_transform_m2919A1D81931E6932C7F06D4C2F0AB8DDA9A5371 (Component_t39FBE53E5EFCF4409111FB22C15FF73717632EC3* __this, const RuntimeMethod* method) ;
+inline PlayerAudio_t69AA2C672759BA9C0C65E6FFCBAB6F278C6C7045* Component_GetComponent_TisPlayerAudio_t69AA2C672759BA9C0C65E6FFCBAB6F278C6C7045_m343F7D7CD88A0CD9A461ED8F0D7E86F00D79BB52 (Component_t39FBE53E5EFCF4409111FB22C15FF73717632EC3* __this, const RuntimeMethod* method)
+{
+	return ((  PlayerAudio_t69AA2C672759BA9C0C65E6FFCBAB6F278C6C7045* (*) (Component_t39FBE53E5EFCF4409111FB22C15FF73717632EC3*, const RuntimeMethod*))Component_GetComponent_TisRuntimeObject_m7181F81CAEC2CF53F5D2BC79B7425C16E1F80D33_gshared)(__this, method);
+}
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PlayerAudio_SetChasing_m8BA4DA79011E1C4DF54BFEAB98776E23C3578CA1 (PlayerAudio_t69AA2C672759BA9C0C65E6FFCBAB6F278C6C7045* __this, bool ___0_chasing, const RuntimeMethod* method) ;
+inline void List_1__ctor_m343B89BF3FEB43E10F17BF51D4390B07999E4DE8 (List_1_t726BCA8E2CE69931893FD019F21D4CDE55BF7AF1* __this, const RuntimeMethod* method)
+{
+	((  void (*) (List_1_t726BCA8E2CE69931893FD019F21D4CDE55BF7AF1*, const RuntimeMethod*))List_1__ctor_m7F078BB342729BDF11327FD89D7872265328F690_gshared)(__this, method);
+}
+inline void List_1__ctor_m48EFE651F34F805ED4EF2D86A96641CCF1ACA5C3 (List_1_t7B4BA466ED2E0B53AA92432404A8E418878C1E6B* __this, const RuntimeMethod* method)
+{
+	((  void (*) (List_1_t7B4BA466ED2E0B53AA92432404A8E418878C1E6B*, const RuntimeMethod*))List_1__ctor_m7F078BB342729BDF11327FD89D7872265328F690_gshared)(__this, method);
+}
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR InputActionAsset_tF217AC5223B4AAA46EBCB44B33E9259FB117417D* InputActionAsset_FromJson_m8F7212EB013EF4D853836228D393C0D15BD0433C (String_t* ___0_json, const RuntimeMethod* method) ;
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR InputActionAsset_tF217AC5223B4AAA46EBCB44B33E9259FB117417D* InputSystem_Actions_get_asset_m6301083B1B60F84A86CB6248836C22A5BDC79647_inline (InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR InputActionMap_tFCE82E0E014319D4DED9F8962B06655DD0420A09* InputActionAsset_FindActionMap_mE04E63102310DA7662194A4D283E2E42D90CCC75 (InputActionAsset_tF217AC5223B4AAA46EBCB44B33E9259FB117417D* __this, String_t* ___0_nameOrId, bool ___1_throwIfNotFound, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* InputActionMap_FindAction_m94A9B02203CFFA97310EC589FAD4CCB15898F0A3 (InputActionMap_tFCE82E0E014319D4DED9F8962B06655DD0420A09* __this, String_t* ___0_actionNameOrId, bool ___1_throwIfNotFound, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Object_Finalize_mC98C96301CCABFE00F1A7EF8E15DF507CACD42B2 (RuntimeObject* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Object_Destroy_mE97D0A766419A81296E8D4E5C23D01D3FE91ACBB (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C* ___0_obj, const RuntimeMethod* method) ;
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Nullable_1_t11786EE914FE65E70B9671129B0DFC4D0DE80C44 InputActionAsset_get_bindingMask_mD5D2FAC455D221E7BC657DA5E7E4F5402E0B4F6C_inline (InputActionAsset_tF217AC5223B4AAA46EBCB44B33E9259FB117417D* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void InputActionAsset_set_bindingMask_mD621370B859495F593CBE28019D84F44922C94A5 (InputActionAsset_tF217AC5223B4AAA46EBCB44B33E9259FB117417D* __this, Nullable_1_t11786EE914FE65E70B9671129B0DFC4D0DE80C44 ___0_value, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Nullable_1_t6B4D7100F56DCBBBD57A82F0DE4C93A1BA86EC4D InputActionAsset_get_devices_m8FF856B2C61E23B7360A9279C10F8A6498C72B9C (InputActionAsset_tF217AC5223B4AAA46EBCB44B33E9259FB117417D* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void InputActionAsset_set_devices_m5A513BB841DB76966CD2B39E0E6FA8AFB3EBE38D (InputActionAsset_tF217AC5223B4AAA46EBCB44B33E9259FB117417D* __this, Nullable_1_t6B4D7100F56DCBBBD57A82F0DE4C93A1BA86EC4D ___0_value, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR ReadOnlyArray_1_tC41FC1476A6CC9385BDD74ECC6D3AF66A6C82BF9 InputActionAsset_get_controlSchemes_m257644C546BD6221DD62251F6C7C2A2CC11BD099 (InputActionAsset_tF217AC5223B4AAA46EBCB44B33E9259FB117417D* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool InputActionAsset_Contains_mB3B9FBCE562FB5229F9387F14AEC22083FC6CDDE (InputActionAsset_tF217AC5223B4AAA46EBCB44B33E9259FB117417D* __this, InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* ___0_action, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* InputActionAsset_GetEnumerator_m39998F5B21D08AAE328E63B3FDCC0F414620A8A9 (InputActionAsset_tF217AC5223B4AAA46EBCB44B33E9259FB117417D* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* InputSystem_Actions_GetEnumerator_m0E6785B0D9DC963BACA13EC249BD20C85CF9E038 (InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void InputActionAsset_Enable_m5102429EE832C7891F73B6979612702CECA8F431 (InputActionAsset_tF217AC5223B4AAA46EBCB44B33E9259FB117417D* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void InputActionAsset_Disable_m62FD8B11BB4EDF6AADAB2BDDC699242D09BAF99C (InputActionAsset_tF217AC5223B4AAA46EBCB44B33E9259FB117417D* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* InputActionAsset_get_bindings_mB045318575B5D7B13A92B973CABB40E0FEC70FB9 (InputActionAsset_tF217AC5223B4AAA46EBCB44B33E9259FB117417D* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* InputActionAsset_FindAction_m50D07EAFAA8628B9793E7BBEEB2E89C2A9C45C00 (InputActionAsset_tF217AC5223B4AAA46EBCB44B33E9259FB117417D* __this, String_t* ___0_actionNameOrId, bool ___1_throwIfNotFound, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t InputActionAsset_FindBinding_mB5B36B9DDFAABFD4B528B891653B1B5B895DBDC5 (InputActionAsset_tF217AC5223B4AAA46EBCB44B33E9259FB117417D* __this, InputBinding_t0D75BD1538CF81D29450D568D5C938E111633EC5 ___0_mask, InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD** ___1_action, const RuntimeMethod* method) ;
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void PlayerActions__ctor_m67DF6D981B73BADE3A73A11B719129089CDCB866_inline (PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B* __this, InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD* ___0_wrapper, const RuntimeMethod* method) ;
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void UIActions__ctor_mFC7C5BAD0F255713B9ECFC1FAC09F27A3F0A875E_inline (UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F* __this, InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD* ___0_wrapper, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t InputActionAsset_FindControlSchemeIndex_m765CEC376752C62AF08B9F005C8893F0D62DED2D (InputActionAsset_tF217AC5223B4AAA46EBCB44B33E9259FB117417D* __this, String_t* ___0_name, const RuntimeMethod* method) ;
+inline InputControlScheme_tB60FB32F414727140B32E1A0447679DC7ABC8434 ReadOnlyArray_1_get_Item_m1B48B5B84CD98353C0E203B6E556E617FD3CA90E (ReadOnlyArray_1_tC41FC1476A6CC9385BDD74ECC6D3AF66A6C82BF9* __this, int32_t ___0_index, const RuntimeMethod* method)
+{
+	return ((  InputControlScheme_tB60FB32F414727140B32E1A0447679DC7ABC8434 (*) (ReadOnlyArray_1_tC41FC1476A6CC9385BDD74ECC6D3AF66A6C82BF9*, int32_t, const RuntimeMethod*))ReadOnlyArray_1_get_Item_m1B48B5B84CD98353C0E203B6E556E617FD3CA90E_gshared)(__this, ___0_index, method);
+}
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* PlayerActions_get_Move_mEC5AE75FE5950F812841E8A10E21ECF1D7693D99 (PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* PlayerActions_get_Look_m1A7BE7BAF257848AFEA5293C9168248930B0EC7D (PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* PlayerActions_get_Jump_mEE8B1A561604033583ED2E2656926ABFD32177F7 (PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* PlayerActions_get_Sprint_mF8F8CE6BBB97783D9FCDFC92DBA13FE2B4ED9B62 (PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR InputActionMap_tFCE82E0E014319D4DED9F8962B06655DD0420A09* PlayerActions_Get_m0F8E6BE52F1B0060FEA8374B24A845B1D29C6C30 (PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void InputActionMap_Enable_mAB23F0C4179D27C375F9FA335898B02E336CA4F6 (InputActionMap_tFCE82E0E014319D4DED9F8962B06655DD0420A09* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PlayerActions_Enable_m33355FF72F86E394E64EFD91E9FB2CA71A451387 (PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void InputActionMap_Disable_m987468348648610F8B84D4F481592FF37AF5445C (InputActionMap_tFCE82E0E014319D4DED9F8962B06655DD0420A09* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PlayerActions_Disable_mDC1E0DEFFE0E44F30334359EEADF85C062D17930 (PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool InputActionMap_get_enabled_mB89FAA20F1EA1884A28829B3E350822D7456E888 (InputActionMap_tFCE82E0E014319D4DED9F8962B06655DD0420A09* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool PlayerActions_get_enabled_m0E992384CC42BAA6A8E3602FE4FA7184E0B60431 (PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B* __this, const RuntimeMethod* method) ;
+inline bool List_1_Contains_m6EA67BFD7C3CBD0271186F0ED158DB1938C80777 (List_1_t726BCA8E2CE69931893FD019F21D4CDE55BF7AF1* __this, RuntimeObject* ___0_item, const RuntimeMethod* method)
+{
+	return ((  bool (*) (List_1_t726BCA8E2CE69931893FD019F21D4CDE55BF7AF1*, RuntimeObject*, const RuntimeMethod*))List_1_Contains_m4C9139C2A6B23E9343D3F87807B32C6E2CFE660D_gshared)(__this, ___0_item, method);
+}
+inline void List_1_Add_m1F1E68793013B4E0971364E88FFA504222F6C066_inline (List_1_t726BCA8E2CE69931893FD019F21D4CDE55BF7AF1* __this, RuntimeObject* ___0_item, const RuntimeMethod* method)
+{
+	((  void (*) (List_1_t726BCA8E2CE69931893FD019F21D4CDE55BF7AF1*, RuntimeObject*, const RuntimeMethod*))List_1_Add_mEBCF994CC3814631017F46A387B1A192ED6C85C7_gshared_inline)(__this, ___0_item, method);
+}
+inline void Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57 (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* __this, RuntimeObject* ___0_object, intptr_t ___1_method, const RuntimeMethod* method)
+{
+	((  void (*) (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*, RuntimeObject*, intptr_t, const RuntimeMethod*))Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57_gshared)(__this, ___0_object, ___1_method, method);
+}
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void InputAction_add_started_m850C46EBBEEFB3F9760AA83BFD6ECA00850657E5 (InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* __this, Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* ___0_value, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void InputAction_add_performed_m0337FFA16EBEF7AE365C3B558CFDFF7BB9747B54 (InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* __this, Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* ___0_value, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void InputAction_add_canceled_m69EC253E21CC314BFB350A86E294D0651F5ECA77 (InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* __this, Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* ___0_value, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PlayerActions_AddCallbacks_m104E48F0C90941B24F43753319713566820DD9E7 (PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B* __this, RuntimeObject* ___0_instance, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void InputAction_remove_started_m0B782C3E7D5EA619502E7079E1271108A3183D68 (InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* __this, Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* ___0_value, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void InputAction_remove_performed_m1BE84CED38F11F17C825FA782B35C92D708E6E44 (InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* __this, Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* ___0_value, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void InputAction_remove_canceled_m7CF8D377C61DB1290E153C56312A7C075544AF7F (InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* __this, Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* ___0_value, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PlayerActions_UnregisterCallbacks_mC10CBC55041C97576BE62201FDB46A5480C44F60 (PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B* __this, RuntimeObject* ___0_instance, const RuntimeMethod* method) ;
+inline bool List_1_Remove_m0EAD44CEAB01239582EAFF36D1256643ACDA1072 (List_1_t726BCA8E2CE69931893FD019F21D4CDE55BF7AF1* __this, RuntimeObject* ___0_item, const RuntimeMethod* method)
+{
+	return ((  bool (*) (List_1_t726BCA8E2CE69931893FD019F21D4CDE55BF7AF1*, RuntimeObject*, const RuntimeMethod*))List_1_Remove_m4DFA48F4CEB9169601E75FC28517C5C06EFA5AD7_gshared)(__this, ___0_item, method);
+}
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PlayerActions_RemoveCallbacks_m7240DEA6D644B18ECE20F874B9DA5AC4DD5CDC04 (PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B* __this, RuntimeObject* ___0_instance, const RuntimeMethod* method) ;
+inline Enumerator_t27BAD2EA8D188E3635D9EF05F4B9FA644AD53728 List_1_GetEnumerator_mCB25B191C4C40371F8524AE271994C7217580FFF (List_1_t726BCA8E2CE69931893FD019F21D4CDE55BF7AF1* __this, const RuntimeMethod* method)
+{
+	return ((  Enumerator_t27BAD2EA8D188E3635D9EF05F4B9FA644AD53728 (*) (List_1_t726BCA8E2CE69931893FD019F21D4CDE55BF7AF1*, const RuntimeMethod*))List_1_GetEnumerator_mD8294A7FA2BEB1929487127D476F8EC1CDC23BFC_gshared)(__this, method);
+}
+inline void Enumerator_Dispose_mF09C24C996B3BA69906D53F8012B9517F44EDB75 (Enumerator_t27BAD2EA8D188E3635D9EF05F4B9FA644AD53728* __this, const RuntimeMethod* method)
+{
+	((  void (*) (Enumerator_t27BAD2EA8D188E3635D9EF05F4B9FA644AD53728*, const RuntimeMethod*))Enumerator_Dispose_mD9DC3E3C3697830A4823047AB29A77DBBB5ED419_gshared)(__this, method);
+}
+inline RuntimeObject* Enumerator_get_Current_mA4CB2EBD69784E36236302D57FC05F6B2C3D55E5_inline (Enumerator_t27BAD2EA8D188E3635D9EF05F4B9FA644AD53728* __this, const RuntimeMethod* method)
+{
+	return ((  RuntimeObject* (*) (Enumerator_t27BAD2EA8D188E3635D9EF05F4B9FA644AD53728*, const RuntimeMethod*))Enumerator_get_Current_m6330F15D18EE4F547C05DF9BF83C5EB710376027_gshared_inline)(__this, method);
+}
+inline bool Enumerator_MoveNext_m97EBAA546853B431FB7E807A80ED0524859E4E60 (Enumerator_t27BAD2EA8D188E3635D9EF05F4B9FA644AD53728* __this, const RuntimeMethod* method)
+{
+	return ((  bool (*) (Enumerator_t27BAD2EA8D188E3635D9EF05F4B9FA644AD53728*, const RuntimeMethod*))Enumerator_MoveNext_mE921CC8F29FBBDE7CC3209A0ED0D921D58D00BCB_gshared)(__this, method);
+}
+inline void List_1_Clear_mF0CA8E57651C55ED07524DDABF14320A43BA53EE_inline (List_1_t726BCA8E2CE69931893FD019F21D4CDE55BF7AF1* __this, const RuntimeMethod* method)
+{
+	((  void (*) (List_1_t726BCA8E2CE69931893FD019F21D4CDE55BF7AF1*, const RuntimeMethod*))List_1_Clear_m16C1F2C61FED5955F10EB36BC1CB2DF34B128994_gshared_inline)(__this, method);
+}
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PlayerActions_SetCallbacks_mCFB08C511A7D183C32B188284A2EE5912779CAD0 (PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B* __this, RuntimeObject* ___0_instance, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* UIActions_get_Navigate_mAC84C316963826FBFDC027E8BE224B9E5A4ECE9A (UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* UIActions_get_Submit_m4234C11BA109D6257E087936F4E0E35E80B7FB16 (UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* UIActions_get_Cancel_m91E2F32FE0097683D0AC2974F256D0F77736E1FC (UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* UIActions_get_Point_mB533F14B75C25972F0DA5D3969A2602A708E77B9 (UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* UIActions_get_Click_mC276E19D2FDDE65F7AD41FAF3FD8065077625495 (UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* UIActions_get_RightClick_m4535A137506D358DD0850BBCE373B0664D611441 (UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* UIActions_get_MiddleClick_mF2B2BF29AC024E6CCB36905400315B7FA6B9C618 (UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* UIActions_get_ScrollWheel_mAA9B17A295A98F8665A8312DF28BC452F92569E3 (UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* UIActions_get_TrackedDevicePosition_m952E57A42D0682DFCC660EB371818AF08A6EF5AD (UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* UIActions_get_TrackedDeviceOrientation_m0C79BFB9C9670B916DB68AB4039FE90D46325156 (UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR InputActionMap_tFCE82E0E014319D4DED9F8962B06655DD0420A09* UIActions_Get_m4751998C33837D9F77599FF9AF97584C80D1843F (UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UIActions_Enable_mAEAE14ED4706BA6B02CBB83012A2AC12A111BE8E (UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UIActions_Disable_m4215BDDD72FA62CEE8A977281C9FF4BAD865E0FF (UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool UIActions_get_enabled_mC7774F279D56D2DF073622CB9F4900D5C8CAA198 (UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F* __this, const RuntimeMethod* method) ;
+inline bool List_1_Contains_mC0F5B9212196C1F030DFA8B0DCBDDC8D93D3FB90 (List_1_t7B4BA466ED2E0B53AA92432404A8E418878C1E6B* __this, RuntimeObject* ___0_item, const RuntimeMethod* method)
+{
+	return ((  bool (*) (List_1_t7B4BA466ED2E0B53AA92432404A8E418878C1E6B*, RuntimeObject*, const RuntimeMethod*))List_1_Contains_m4C9139C2A6B23E9343D3F87807B32C6E2CFE660D_gshared)(__this, ___0_item, method);
+}
+inline void List_1_Add_m0FF84BC5FFDBF63CC037396F0091B0BA784EF1BD_inline (List_1_t7B4BA466ED2E0B53AA92432404A8E418878C1E6B* __this, RuntimeObject* ___0_item, const RuntimeMethod* method)
+{
+	((  void (*) (List_1_t7B4BA466ED2E0B53AA92432404A8E418878C1E6B*, RuntimeObject*, const RuntimeMethod*))List_1_Add_mEBCF994CC3814631017F46A387B1A192ED6C85C7_gshared_inline)(__this, ___0_item, method);
+}
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UIActions_AddCallbacks_mEA0B9C2F984166ABC365CEB130F2EF5655D1F137 (UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F* __this, RuntimeObject* ___0_instance, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UIActions_UnregisterCallbacks_m27FF808882A72122103E3FB3D75F0E380C8EA48E (UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F* __this, RuntimeObject* ___0_instance, const RuntimeMethod* method) ;
+inline bool List_1_Remove_mFB2CF6040001477CF3ECC8EE759E3EB739F99626 (List_1_t7B4BA466ED2E0B53AA92432404A8E418878C1E6B* __this, RuntimeObject* ___0_item, const RuntimeMethod* method)
+{
+	return ((  bool (*) (List_1_t7B4BA466ED2E0B53AA92432404A8E418878C1E6B*, RuntimeObject*, const RuntimeMethod*))List_1_Remove_m4DFA48F4CEB9169601E75FC28517C5C06EFA5AD7_gshared)(__this, ___0_item, method);
+}
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UIActions_RemoveCallbacks_mE46687BC709E316FA24F4E46F0C65461B8223FA4 (UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F* __this, RuntimeObject* ___0_instance, const RuntimeMethod* method) ;
+inline Enumerator_t5EE35005E57399519841D87BC67A367A9E105343 List_1_GetEnumerator_mDAA429DEB808201EFCBFA57307B083D8DF4CB807 (List_1_t7B4BA466ED2E0B53AA92432404A8E418878C1E6B* __this, const RuntimeMethod* method)
+{
+	return ((  Enumerator_t5EE35005E57399519841D87BC67A367A9E105343 (*) (List_1_t7B4BA466ED2E0B53AA92432404A8E418878C1E6B*, const RuntimeMethod*))List_1_GetEnumerator_mD8294A7FA2BEB1929487127D476F8EC1CDC23BFC_gshared)(__this, method);
+}
+inline void Enumerator_Dispose_mB5A41DDAD69C2DA36C5F132C906968AA66EA2C9B (Enumerator_t5EE35005E57399519841D87BC67A367A9E105343* __this, const RuntimeMethod* method)
+{
+	((  void (*) (Enumerator_t5EE35005E57399519841D87BC67A367A9E105343*, const RuntimeMethod*))Enumerator_Dispose_mD9DC3E3C3697830A4823047AB29A77DBBB5ED419_gshared)(__this, method);
+}
+inline RuntimeObject* Enumerator_get_Current_mEA87F0F926CC57E37206C083B90E51F6C876BFFB_inline (Enumerator_t5EE35005E57399519841D87BC67A367A9E105343* __this, const RuntimeMethod* method)
+{
+	return ((  RuntimeObject* (*) (Enumerator_t5EE35005E57399519841D87BC67A367A9E105343*, const RuntimeMethod*))Enumerator_get_Current_m6330F15D18EE4F547C05DF9BF83C5EB710376027_gshared_inline)(__this, method);
+}
+inline bool Enumerator_MoveNext_m91E74F18B1B366D460E7845CCDF9C6A8AE08B433 (Enumerator_t5EE35005E57399519841D87BC67A367A9E105343* __this, const RuntimeMethod* method)
+{
+	return ((  bool (*) (Enumerator_t5EE35005E57399519841D87BC67A367A9E105343*, const RuntimeMethod*))Enumerator_MoveNext_mE921CC8F29FBBDE7CC3209A0ED0D921D58D00BCB_gshared)(__this, method);
+}
+inline void List_1_Clear_m676E82FF51DB57E8C4ACF8159C19EC723DA12CF1_inline (List_1_t7B4BA466ED2E0B53AA92432404A8E418878C1E6B* __this, const RuntimeMethod* method)
+{
+	((  void (*) (List_1_t7B4BA466ED2E0B53AA92432404A8E418878C1E6B*, const RuntimeMethod*))List_1_Clear_m16C1F2C61FED5955F10EB36BC1CB2DF34B128994_gshared_inline)(__this, method);
+}
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UIActions_SetCallbacks_mF7EE3697E4DBB24619A95537F8D0F6725ED1C53D (UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F* __this, RuntimeObject* ___0_instance, const RuntimeMethod* method) ;
+inline CharacterController_t847C1A2719F60547D7D6077B648D6CE2D1EF3A6A* Component_GetComponent_TisCharacterController_t847C1A2719F60547D7D6077B648D6CE2D1EF3A6A_m96B48A644EDC97C5C82F154D1FEA551B2E392040 (Component_t39FBE53E5EFCF4409111FB22C15FF73717632EC3* __this, const RuntimeMethod* method)
+{
+	return ((  CharacterController_t847C1A2719F60547D7D6077B648D6CE2D1EF3A6A* (*) (Component_t39FBE53E5EFCF4409111FB22C15FF73717632EC3*, const RuntimeMethod*))Component_GetComponent_TisRuntimeObject_m7181F81CAEC2CF53F5D2BC79B7425C16E1F80D33_gshared)(__this, method);
+}
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void InputSystem_Actions__ctor_mD627972DD6F7D98943749B5BA538E124B47D4610 (InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B InputSystem_Actions_get_Player_m287A19D199E735CD02DF36C9CAB98A2BFE2FD4B0 (InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool CharacterController_get_isGrounded_m548072EC190878925C0F97595B6C307714EFDD67 (CharacterController_t847C1A2719F60547D7D6077B648D6CE2D1EF3A6A* __this, const RuntimeMethod* method) ;
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void Vector3__ctor_m376936E6B999EF1ECBE57D990A386303E2283DE0_inline (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2* __this, float ___0_x, float ___1_y, float ___2_z, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 Transform_TransformDirection_m9BE1261DF2D48B7A4A27D31EE24D2D97F89E7757 (Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* __this, Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___0_direction, const RuntimeMethod* method) ;
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 Vector3_op_Multiply_m87BA7C578F96C8E49BB07088DAAC4649F83B0353_inline (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___0_a, float ___1_d, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t CharacterController_Move_mE3F7AC1B4A2D6955980811C088B68ED3A31D2DA4 (CharacterController_t847C1A2719F60547D7D6077B648D6CE2D1EF3A6A* __this, Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___0_motion, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Transform_Rotate_m7EA47AD57F43D478CCB0523D179950EE49CDA3E2 (Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* __this, float ___0_xAngle, float ___1_yAngle, float ___2_zAngle, const RuntimeMethod* method) ;
+inline Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 CallbackContext_ReadValue_TisVector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7_m454ADEAE74A5A469E011CF78D6303A1034659830 (CallbackContext_tB251EE41F509C6E8A6B05EC97C029A45DF4F5FA8* __this, const RuntimeMethod* method)
+{
+	return ((  Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 (*) (CallbackContext_tB251EE41F509C6E8A6B05EC97C029A45DF4F5FA8*, const RuntimeMethod*))CallbackContext_ReadValue_TisVector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7_m454ADEAE74A5A469E011CF78D6303A1034659830_gshared)(__this, method);
+}
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 Vector2_get_zero_m32506C40EC2EE7D5D4410BF40D3EE683A3D5F32C_inline (const RuntimeMethod* method) ;
+inline float CallbackContext_ReadValue_TisSingle_t4530F2FF86FCB0DC29F35385CA1BD21BE294761C_m7EBC8C123F0601CE5B340BA966923AEC449A8ACF (CallbackContext_tB251EE41F509C6E8A6B05EC97C029A45DF4F5FA8* __this, const RuntimeMethod* method)
+{
+	return ((  float (*) (CallbackContext_tB251EE41F509C6E8A6B05EC97C029A45DF4F5FA8*, const RuntimeMethod*))CallbackContext_ReadValue_TisSingle_t4530F2FF86FCB0DC29F35385CA1BD21BE294761C_m7EBC8C123F0601CE5B340BA966923AEC449A8ACF_gshared)(__this, method);
+}
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void RuntimeHelpers_InitializeArray_m751372AA3F24FBF6DA9B9D687CBFA2DE436CAB9B (RuntimeArray* ___0_array, RuntimeFieldHandle_t6E4C45B6D2EA12FC99185805A7E77527899B25C5 ___1_fldHandle, const RuntimeMethod* method) ;
+inline void List_1_AddWithResize_m79A9BF770BEF9C06BE40D5401E55E375F2726CC4 (List_1_tA239CB83DE5615F348BB0507E45F490F4F7C9A8D* __this, RuntimeObject* ___0_item, const RuntimeMethod* method)
+{
+	((  void (*) (List_1_tA239CB83DE5615F348BB0507E45F490F4F7C9A8D*, RuntimeObject*, const RuntimeMethod*))List_1_AddWithResize_m79A9BF770BEF9C06BE40D5401E55E375F2726CC4_gshared)(__this, ___0_item, method);
+}
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Array_Clear_m50BAA3751899858B097D3FF2ED31F284703FE5CB (RuntimeArray* ___0_array, int32_t ___1_index, int32_t ___2_length, const RuntimeMethod* method) ;
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+// Method Definition Index: 88347
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PlayerAudio_Start_mC90D2E19DBB3615959E552DE2336696D923F5890 (PlayerAudio_t69AA2C672759BA9C0C65E6FFCBAB6F278C6C7045* __this, const RuntimeMethod* method) 
+{
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/Audio/playersound.cs:14>
+		AudioSource_t871AC2272F896738252F04EE949AEF5B241D3299* L_0 = __this->___normalMusic;
+		NullCheck(L_0);
+		AudioSource_set_volume_mD902BBDBBDE0E3C148609BF3C05096148E90F2C0(L_0, (0.800000012f), NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/Audio/playersound.cs:15>
+		AudioSource_t871AC2272F896738252F04EE949AEF5B241D3299* L_1 = __this->___chaseMusic;
+		NullCheck(L_1);
+		AudioSource_set_volume_mD902BBDBBDE0E3C148609BF3C05096148E90F2C0(L_1, (0.0f), NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/Audio/playersound.cs:16>
+		AudioSource_t871AC2272F896738252F04EE949AEF5B241D3299* L_2 = __this->___normalMusic;
+		NullCheck(L_2);
+		AudioSource_Play_m95DF07111C61D0E0F00257A00384D31531D590C3(L_2, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/Audio/playersound.cs:17>
+		return;
+	}
+}
+// Method Definition Index: 88348
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PlayerAudio_SetChasing_m8BA4DA79011E1C4DF54BFEAB98776E23C3578CA1 (PlayerAudio_t69AA2C672759BA9C0C65E6FFCBAB6F278C6C7045* __this, bool ___0_chasing, const RuntimeMethod* method) 
+{
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/Audio/playersound.cs:21>
+		bool L_0 = ___0_chasing;
+		if (!L_0)
+		{
+			goto IL_0013;
+		}
+	}
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/Audio/playersound.cs:22>
+		int32_t L_1 = __this->___chasingEnemies;
+		__this->___chasingEnemies = ((int32_t)il2cpp_codegen_add(L_1, 1));
+		goto IL_0021;
+	}
+
+IL_0013:
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/Audio/playersound.cs:24>
+		int32_t L_2 = __this->___chasingEnemies;
+		__this->___chasingEnemies = ((int32_t)il2cpp_codegen_subtract(L_2, 1));
+	}
+
+IL_0021:
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/Audio/playersound.cs:26>
+		int32_t L_3 = __this->___chasingEnemies;
+		int32_t L_4;
+		L_4 = Mathf_Max_m7FA442918DE37E3A00106D1F2E789D65829792B8_inline(0, L_3, NULL);
+		__this->___chasingEnemies = L_4;
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/Audio/playersound.cs:28>
+		int32_t L_5 = __this->___chasingEnemies;
+		if ((((int32_t)L_5) <= ((int32_t)0)))
+		{
+			goto IL_004f;
+		}
+	}
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/Audio/playersound.cs:30>
+		AudioSource_t871AC2272F896738252F04EE949AEF5B241D3299* L_6 = __this->___normalMusic;
+		AudioSource_t871AC2272F896738252F04EE949AEF5B241D3299* L_7 = __this->___chaseMusic;
+		PlayerAudio_StartFade_m02A1CEDE1CB2F8DB0B0B3D5D22EACF28CDAFEBF8(__this, L_6, L_7, NULL);
+		return;
+	}
+
+IL_004f:
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/Audio/playersound.cs:34>
+		AudioSource_t871AC2272F896738252F04EE949AEF5B241D3299* L_8 = __this->___chaseMusic;
+		AudioSource_t871AC2272F896738252F04EE949AEF5B241D3299* L_9 = __this->___normalMusic;
+		PlayerAudio_StartFade_m02A1CEDE1CB2F8DB0B0B3D5D22EACF28CDAFEBF8(__this, L_8, L_9, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/Audio/playersound.cs:36>
+		return;
+	}
+}
+// Method Definition Index: 88349
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PlayerAudio_StartFade_m02A1CEDE1CB2F8DB0B0B3D5D22EACF28CDAFEBF8 (PlayerAudio_t69AA2C672759BA9C0C65E6FFCBAB6F278C6C7045* __this, AudioSource_t871AC2272F896738252F04EE949AEF5B241D3299* ___0_from, AudioSource_t871AC2272F896738252F04EE949AEF5B241D3299* ___1_to, const RuntimeMethod* method) 
+{
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/Audio/playersound.cs:40>
+		Coroutine_t85EA685566A254C23F3FD77AB5BDFFFF8799596B* L_0 = __this->___currentFade;
+		if (!L_0)
+		{
+			goto IL_0014;
+		}
+	}
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/Audio/playersound.cs:41>
+		Coroutine_t85EA685566A254C23F3FD77AB5BDFFFF8799596B* L_1 = __this->___currentFade;
+		MonoBehaviour_StopCoroutine_mB0FC91BE84203BD8E360B3FBAE5B958B4C5ED22A(__this, L_1, NULL);
+	}
+
+IL_0014:
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/Audio/playersound.cs:43>
+		AudioSource_t871AC2272F896738252F04EE949AEF5B241D3299* L_2 = ___0_from;
+		AudioSource_t871AC2272F896738252F04EE949AEF5B241D3299* L_3 = ___1_to;
+		RuntimeObject* L_4;
+		L_4 = PlayerAudio_FadeMusic_m9108A2F48F38913526FEFC762EEDE8DFFAB63797(__this, L_2, L_3, NULL);
+		Coroutine_t85EA685566A254C23F3FD77AB5BDFFFF8799596B* L_5;
+		L_5 = MonoBehaviour_StartCoroutine_m4CAFF732AA28CD3BDC5363B44A863575530EC812(__this, L_4, NULL);
+		__this->___currentFade = L_5;
+		Il2CppCodeGenWriteBarrier((void**)(&__this->___currentFade), (void*)L_5);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/Audio/playersound.cs:44>
+		return;
+	}
+}
+// Method Definition Index: 88350
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* PlayerAudio_FadeMusic_m9108A2F48F38913526FEFC762EEDE8DFFAB63797 (PlayerAudio_t69AA2C672759BA9C0C65E6FFCBAB6F278C6C7045* __this, AudioSource_t871AC2272F896738252F04EE949AEF5B241D3299* ___0_from, AudioSource_t871AC2272F896738252F04EE949AEF5B241D3299* ___1_to, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&U3CFadeMusicU3Ed__7_tC12A322B20FFD6486F550CCDDC08296564DDEC9B_il2cpp_TypeInfo_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		U3CFadeMusicU3Ed__7_tC12A322B20FFD6486F550CCDDC08296564DDEC9B* L_0 = (U3CFadeMusicU3Ed__7_tC12A322B20FFD6486F550CCDDC08296564DDEC9B*)il2cpp_codegen_object_new(U3CFadeMusicU3Ed__7_tC12A322B20FFD6486F550CCDDC08296564DDEC9B_il2cpp_TypeInfo_var);
+		U3CFadeMusicU3Ed__7__ctor_m14EC50D7D192B27B1747A3360A85AB5E3F4DB976(L_0, 0, NULL);
+		U3CFadeMusicU3Ed__7_tC12A322B20FFD6486F550CCDDC08296564DDEC9B* L_1 = L_0;
+		AudioSource_t871AC2272F896738252F04EE949AEF5B241D3299* L_2 = ___0_from;
+		NullCheck(L_1);
+		L_1->___from = L_2;
+		Il2CppCodeGenWriteBarrier((void**)(&L_1->___from), (void*)L_2);
+		U3CFadeMusicU3Ed__7_tC12A322B20FFD6486F550CCDDC08296564DDEC9B* L_3 = L_1;
+		AudioSource_t871AC2272F896738252F04EE949AEF5B241D3299* L_4 = ___1_to;
+		NullCheck(L_3);
+		L_3->___to = L_4;
+		Il2CppCodeGenWriteBarrier((void**)(&L_3->___to), (void*)L_4);
+		return L_3;
+	}
+}
+// Method Definition Index: 88351
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PlayerAudio__ctor_mE2292265E6C7AF7A21CDAA8FBD120131C719A880 (PlayerAudio_t69AA2C672759BA9C0C65E6FFCBAB6F278C6C7045* __this, const RuntimeMethod* method) 
+{
+	{
+		MonoBehaviour__ctor_m592DB0105CA0BC97AA1C5F4AD27B12D68A3B7C1E(__this, NULL);
+		return;
+	}
+}
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+// Method Definition Index: 88352
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CFadeMusicU3Ed__7__ctor_m14EC50D7D192B27B1747A3360A85AB5E3F4DB976 (U3CFadeMusicU3Ed__7_tC12A322B20FFD6486F550CCDDC08296564DDEC9B* __this, int32_t ___0_U3CU3E1__state, const RuntimeMethod* method) 
+{
+	{
+		Object__ctor_mE837C6B9FA8C6D5D109F4B2EC885D79919AC0EA2(__this, NULL);
+		int32_t L_0 = ___0_U3CU3E1__state;
+		__this->___U3CU3E1__state = L_0;
+		return;
+	}
+}
+// Method Definition Index: 88353
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CFadeMusicU3Ed__7_System_IDisposable_Dispose_m3830D5B17897EAE1F59F072982BE793BDA7D6E37 (U3CFadeMusicU3Ed__7_tC12A322B20FFD6486F550CCDDC08296564DDEC9B* __this, const RuntimeMethod* method) 
+{
+	{
+		return;
+	}
+}
+// Method Definition Index: 88354
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool U3CFadeMusicU3Ed__7_MoveNext_m991A4649E9A2D46AC27943AA6C6603990FB27031 (U3CFadeMusicU3Ed__7_tC12A322B20FFD6486F550CCDDC08296564DDEC9B* __this, const RuntimeMethod* method) 
+{
+	int32_t V_0 = 0;
+	float V_1 = 0.0f;
+	{
+		int32_t L_0 = __this->___U3CU3E1__state;
+		V_0 = L_0;
+		int32_t L_1 = V_0;
+		if (!L_1)
+		{
+			goto IL_0013;
+		}
+	}
+	{
+		int32_t L_2 = V_0;
+		if ((((int32_t)L_2) == ((int32_t)1)))
+		{
+			goto IL_00a4;
+		}
+	}
+	{
+		return (bool)0;
+	}
+
+IL_0013:
+	{
+		__this->___U3CU3E1__state = (-1);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/Audio/playersound.cs:48>
+		__this->___U3CdurationU3E5__2 = (1.5f);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/Audio/playersound.cs:49>
+		__this->___U3CtimeU3E5__3 = (0.0f);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/Audio/playersound.cs:51>
+		AudioSource_t871AC2272F896738252F04EE949AEF5B241D3299* L_3 = __this->___to;
+		NullCheck(L_3);
+		bool L_4;
+		L_4 = AudioSource_get_isPlaying_mC203303F2F7146B2C056CB47B9391463FDF408FC(L_3, NULL);
+		if (L_4)
+		{
+			goto IL_00ab;
+		}
+	}
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/Audio/playersound.cs:52>
+		AudioSource_t871AC2272F896738252F04EE949AEF5B241D3299* L_5 = __this->___to;
+		NullCheck(L_5);
+		AudioSource_Play_m95DF07111C61D0E0F00257A00384D31531D590C3(L_5, NULL);
+		goto IL_00ab;
+	}
+
+IL_004a:
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/Audio/playersound.cs:56>
+		float L_6 = __this->___U3CtimeU3E5__3;
+		float L_7;
+		L_7 = Time_get_deltaTime_mC3195000401F0FD167DD2F948FD2BC58330D0865(NULL);
+		__this->___U3CtimeU3E5__3 = ((float)il2cpp_codegen_add(L_6, L_7));
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/Audio/playersound.cs:57>
+		float L_8 = __this->___U3CtimeU3E5__3;
+		float L_9 = __this->___U3CdurationU3E5__2;
+		V_1 = ((float)(L_8/L_9));
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/Audio/playersound.cs:59>
+		AudioSource_t871AC2272F896738252F04EE949AEF5B241D3299* L_10 = __this->___from;
+		float L_11 = V_1;
+		NullCheck(L_10);
+		AudioSource_set_volume_mD902BBDBBDE0E3C148609BF3C05096148E90F2C0(L_10, ((float)il2cpp_codegen_subtract((0.800000012f), ((float)il2cpp_codegen_multiply(L_11, (0.800000012f))))), NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/Audio/playersound.cs:60>
+		AudioSource_t871AC2272F896738252F04EE949AEF5B241D3299* L_12 = __this->___to;
+		float L_13 = V_1;
+		NullCheck(L_12);
+		AudioSource_set_volume_mD902BBDBBDE0E3C148609BF3C05096148E90F2C0(L_12, ((float)il2cpp_codegen_multiply(L_13, (0.800000012f))), NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/Audio/playersound.cs:62>
+		__this->___U3CU3E2__current = NULL;
+		Il2CppCodeGenWriteBarrier((void**)(&__this->___U3CU3E2__current), (void*)NULL);
+		__this->___U3CU3E1__state = 1;
+		return (bool)1;
+	}
+
+IL_00a4:
+	{
+		__this->___U3CU3E1__state = (-1);
+	}
+
+IL_00ab:
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/Audio/playersound.cs:54>
+		float L_14 = __this->___U3CtimeU3E5__3;
+		float L_15 = __this->___U3CdurationU3E5__2;
+		if ((((float)L_14) < ((float)L_15)))
+		{
+			goto IL_004a;
+		}
+	}
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/Audio/playersound.cs:65>
+		AudioSource_t871AC2272F896738252F04EE949AEF5B241D3299* L_16 = __this->___from;
+		NullCheck(L_16);
+		AudioSource_Stop_m318F17F17A147C77FF6E0A5A7A6BE057DB90F537(L_16, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/Audio/playersound.cs:66>
+		AudioSource_t871AC2272F896738252F04EE949AEF5B241D3299* L_17 = __this->___from;
+		NullCheck(L_17);
+		AudioSource_set_volume_mD902BBDBBDE0E3C148609BF3C05096148E90F2C0(L_17, (0.800000012f), NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/Audio/playersound.cs:67>
+		AudioSource_t871AC2272F896738252F04EE949AEF5B241D3299* L_18 = __this->___to;
+		NullCheck(L_18);
+		AudioSource_set_volume_mD902BBDBBDE0E3C148609BF3C05096148E90F2C0(L_18, (0.800000012f), NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/Audio/playersound.cs:68>
+		return (bool)0;
+	}
+}
+// Method Definition Index: 88355
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CFadeMusicU3Ed__7_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_mA3FF19661DB42703961982C49D1187D42D8BDF14 (U3CFadeMusicU3Ed__7_tC12A322B20FFD6486F550CCDDC08296564DDEC9B* __this, const RuntimeMethod* method) 
+{
+	{
+		RuntimeObject* L_0 = __this->___U3CU3E2__current;
+		return L_0;
+	}
+}
+// Method Definition Index: 88356
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CFadeMusicU3Ed__7_System_Collections_IEnumerator_Reset_m8016A40D4CB19A1EE297EF9FA9629AD8517E8737 (U3CFadeMusicU3Ed__7_tC12A322B20FFD6486F550CCDDC08296564DDEC9B* __this, const RuntimeMethod* method) 
+{
+	{
+		NotSupportedException_t1429765983D409BD2986508963C98D214E4EBF4A* L_0 = (NotSupportedException_t1429765983D409BD2986508963C98D214E4EBF4A*)il2cpp_codegen_object_new(((RuntimeClass*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&NotSupportedException_t1429765983D409BD2986508963C98D214E4EBF4A_il2cpp_TypeInfo_var)));
+		NotSupportedException__ctor_m1398D0CDE19B36AA3DE9392879738C1EA2439CDF(L_0, NULL);
+		IL2CPP_RAISE_MANAGED_EXCEPTION(L_0, ((RuntimeMethod*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&U3CFadeMusicU3Ed__7_System_Collections_IEnumerator_Reset_m8016A40D4CB19A1EE297EF9FA9629AD8517E8737_RuntimeMethod_var)));
+	}
+}
+// Method Definition Index: 88357
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CFadeMusicU3Ed__7_System_Collections_IEnumerator_get_Current_mA1E877AF09FE2AF2A97A742EF3A919CBCEBD80FB (U3CFadeMusicU3Ed__7_tC12A322B20FFD6486F550CCDDC08296564DDEC9B* __this, const RuntimeMethod* method) 
+{
+	{
+		RuntimeObject* L_0 = __this->___U3CU3E2__current;
+		return L_0;
+	}
+}
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+// Method Definition Index: 88358
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void enemyMove_Start_m3DCD3E6144536FBE2B75E9AB2A856D9A845D2771 (enemyMove_t9883DDFC0AA41159024CBB461258661AB18DCD58* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Component_GetComponent_TisAnimator_t8A52E42AE54F76681838FE9E632683EF3952E883_m1C9FCB4BBE56BEC6BDEF6E4BA1E5DFF91614D7CE_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Component_GetComponent_TisNavMeshAgent_t5D0CCC0B3B78242F286C9BD8EDD87C3CCBD0A66F_m45B783D78932EFB8409019F84FED6DF3A492F16F_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/enemyMove.cs:16>
+		NavMeshAgent_t5D0CCC0B3B78242F286C9BD8EDD87C3CCBD0A66F* L_0;
+		L_0 = Component_GetComponent_TisNavMeshAgent_t5D0CCC0B3B78242F286C9BD8EDD87C3CCBD0A66F_m45B783D78932EFB8409019F84FED6DF3A492F16F(__this, Component_GetComponent_TisNavMeshAgent_t5D0CCC0B3B78242F286C9BD8EDD87C3CCBD0A66F_m45B783D78932EFB8409019F84FED6DF3A492F16F_RuntimeMethod_var);
+		__this->___agent = L_0;
+		Il2CppCodeGenWriteBarrier((void**)(&__this->___agent), (void*)L_0);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/enemyMove.cs:17>
+		Animator_t8A52E42AE54F76681838FE9E632683EF3952E883* L_1;
+		L_1 = Component_GetComponent_TisAnimator_t8A52E42AE54F76681838FE9E632683EF3952E883_m1C9FCB4BBE56BEC6BDEF6E4BA1E5DFF91614D7CE(__this, Component_GetComponent_TisAnimator_t8A52E42AE54F76681838FE9E632683EF3952E883_m1C9FCB4BBE56BEC6BDEF6E4BA1E5DFF91614D7CE_RuntimeMethod_var);
+		__this->___animator = L_1;
+		Il2CppCodeGenWriteBarrier((void**)(&__this->___animator), (void*)L_1);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/enemyMove.cs:18>
+		return;
+	}
+}
+// Method Definition Index: 88359
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void enemyMove_Update_m91364505E9ACD0DC8B67F0E13AC5C754C236E78F (enemyMove_t9883DDFC0AA41159024CBB461258661AB18DCD58* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral0073E6848BC14B7DBEFA723AFD3403EC1B5EB55D);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/enemyMove.cs:23>
+		bool L_0 = __this->___isChasing;
+		if (!L_0)
+		{
+			goto IL_003e;
+		}
+	}
+	{
+		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_1 = __this->___Player;
+		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
+		bool L_2;
+		L_2 = Object_op_Inequality_mD0BE578448EAA61948F25C32F8DD55AB1F778602(L_1, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
+		if (!L_2)
+		{
+			goto IL_003e;
+		}
+	}
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/enemyMove.cs:25>
+		NavMeshAgent_t5D0CCC0B3B78242F286C9BD8EDD87C3CCBD0A66F* L_3 = __this->___agent;
+		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_4 = __this->___Player;
+		NullCheck(L_4);
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_5;
+		L_5 = Transform_get_position_m69CD5FA214FDAE7BB701552943674846C220FDE1(L_4, NULL);
+		NullCheck(L_3);
+		bool L_6;
+		L_6 = NavMeshAgent_SetDestination_mD5D960933827F1F14B29CF4A3B6F305C064EBF46(L_3, L_5, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/enemyMove.cs:26>
+		Animator_t8A52E42AE54F76681838FE9E632683EF3952E883* L_7 = __this->___animator;
+		NullCheck(L_7);
+		Animator_SetBool_m6F8D4FAF0770CD4EC1F54406249785DE7391E42B(L_7, _stringLiteral0073E6848BC14B7DBEFA723AFD3403EC1B5EB55D, (bool)1, NULL);
+	}
+
+IL_003e:
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/enemyMove.cs:28>
+		return;
+	}
+}
+// Method Definition Index: 88360
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void enemyMove_OnTriggerEnter_m623697348B7FA35B3D513E2C41EA5D78B9E20822 (enemyMove_t9883DDFC0AA41159024CBB461258661AB18DCD58* __this, Collider_t1CC3163924FCD6C4CC2E816373A929C1E3D55E76* ___0_other, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Component_GetComponent_TisPlayerAudio_t69AA2C672759BA9C0C65E6FFCBAB6F278C6C7045_m343F7D7CD88A0CD9A461ED8F0D7E86F00D79BB52_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteralCAF8804297181FF007CA835529DD4477CFD94A70);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/enemyMove.cs:31>
+		Collider_t1CC3163924FCD6C4CC2E816373A929C1E3D55E76* L_0 = ___0_other;
+		NullCheck(L_0);
+		bool L_1;
+		L_1 = Component_CompareTag_mE6F8897E84F12DF12D302FFC4D58204D51096FC5(L_0, _stringLiteralCAF8804297181FF007CA835529DD4477CFD94A70, NULL);
+		if (!L_1)
+		{
+			goto IL_002c;
+		}
+	}
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/enemyMove.cs:33>
+		Collider_t1CC3163924FCD6C4CC2E816373A929C1E3D55E76* L_2 = ___0_other;
+		NullCheck(L_2);
+		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_3;
+		L_3 = Component_get_transform_m2919A1D81931E6932C7F06D4C2F0AB8DDA9A5371(L_2, NULL);
+		__this->___Player = L_3;
+		Il2CppCodeGenWriteBarrier((void**)(&__this->___Player), (void*)L_3);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/enemyMove.cs:34>
+		__this->___isChasing = (bool)1;
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/enemyMove.cs:35>
+		Collider_t1CC3163924FCD6C4CC2E816373A929C1E3D55E76* L_4 = ___0_other;
+		NullCheck(L_4);
+		PlayerAudio_t69AA2C672759BA9C0C65E6FFCBAB6F278C6C7045* L_5;
+		L_5 = Component_GetComponent_TisPlayerAudio_t69AA2C672759BA9C0C65E6FFCBAB6F278C6C7045_m343F7D7CD88A0CD9A461ED8F0D7E86F00D79BB52(L_4, Component_GetComponent_TisPlayerAudio_t69AA2C672759BA9C0C65E6FFCBAB6F278C6C7045_m343F7D7CD88A0CD9A461ED8F0D7E86F00D79BB52_RuntimeMethod_var);
+		NullCheck(L_5);
+		PlayerAudio_SetChasing_m8BA4DA79011E1C4DF54BFEAB98776E23C3578CA1(L_5, (bool)1, NULL);
+	}
+
+IL_002c:
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/enemyMove.cs:37>
+		return;
+	}
+}
+// Method Definition Index: 88361
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void enemyMove_OnTriggerExit_m2D5CA89902204C2EAC76C000C2309790E66BB9CC (enemyMove_t9883DDFC0AA41159024CBB461258661AB18DCD58* __this, Collider_t1CC3163924FCD6C4CC2E816373A929C1E3D55E76* ___0_other, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Component_GetComponent_TisPlayerAudio_t69AA2C672759BA9C0C65E6FFCBAB6F278C6C7045_m343F7D7CD88A0CD9A461ED8F0D7E86F00D79BB52_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteralCAF8804297181FF007CA835529DD4477CFD94A70);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/enemyMove.cs:40>
+		Collider_t1CC3163924FCD6C4CC2E816373A929C1E3D55E76* L_0 = ___0_other;
+		NullCheck(L_0);
+		bool L_1;
+		L_1 = Component_CompareTag_mE6F8897E84F12DF12D302FFC4D58204D51096FC5(L_0, _stringLiteralCAF8804297181FF007CA835529DD4477CFD94A70, NULL);
+		if (!L_1)
+		{
+			goto IL_0019;
+		}
+	}
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/enemyMove.cs:42>
+		Collider_t1CC3163924FCD6C4CC2E816373A929C1E3D55E76* L_2 = ___0_other;
+		NullCheck(L_2);
+		PlayerAudio_t69AA2C672759BA9C0C65E6FFCBAB6F278C6C7045* L_3;
+		L_3 = Component_GetComponent_TisPlayerAudio_t69AA2C672759BA9C0C65E6FFCBAB6F278C6C7045_m343F7D7CD88A0CD9A461ED8F0D7E86F00D79BB52(L_2, Component_GetComponent_TisPlayerAudio_t69AA2C672759BA9C0C65E6FFCBAB6F278C6C7045_m343F7D7CD88A0CD9A461ED8F0D7E86F00D79BB52_RuntimeMethod_var);
+		NullCheck(L_3);
+		PlayerAudio_SetChasing_m8BA4DA79011E1C4DF54BFEAB98776E23C3578CA1(L_3, (bool)0, NULL);
+	}
+
+IL_0019:
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/enemyMove.cs:44>
+		return;
+	}
+}
+// Method Definition Index: 88362
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void enemyMove__ctor_m4967491D58BE1D984B44BC3EEAD78C4C773327C8 (enemyMove_t9883DDFC0AA41159024CBB461258661AB18DCD58* __this, const RuntimeMethod* method) 
+{
+	{
+		MonoBehaviour__ctor_m592DB0105CA0BC97AA1C5F4AD27B12D68A3B7C1E(__this, NULL);
+		return;
+	}
+}
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+// Method Definition Index: 88363
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR InputActionAsset_tF217AC5223B4AAA46EBCB44B33E9259FB117417D* InputSystem_Actions_get_asset_m6301083B1B60F84A86CB6248836C22A5BDC79647 (InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD* __this, const RuntimeMethod* method) 
+{
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:80>
+		InputActionAsset_tF217AC5223B4AAA46EBCB44B33E9259FB117417D* L_0 = __this->___U3CassetU3Ek__BackingField;
+		return L_0;
+	}
+}
+// Method Definition Index: 88364
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void InputSystem_Actions__ctor_mD627972DD6F7D98943749B5BA538E124B47D4610 (InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&List_1__ctor_m343B89BF3FEB43E10F17BF51D4390B07999E4DE8_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&List_1__ctor_m48EFE651F34F805ED4EF2D86A96641CCF1ACA5C3_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&List_1_t726BCA8E2CE69931893FD019F21D4CDE55BF7AF1_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&List_1_t7B4BA466ED2E0B53AA92432404A8E418878C1E6B_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral117C34CEF055E54D018BB5CB8A52E1D66434C6E6);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral163DCC8E458A1FCC2E86F0FD61BE2BCE27195238);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral190CDBBC7377A308B78E27EF91319FD2DA386895);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral378F2A2277727E3F33599E270749A10E7C2B55E1);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral47A23BFD06ECFD154AD092ED652B1B4111CD15FC);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral5993697C283E3E2190F0E6B70747ECD420807D20);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral68E991B5616F5769AB6069C14D3F44D98828C2F9);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral70253F929BCE7F81DF1A5A1C0900BED744E86C9C);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral93717CD8FCD45BAB4F15D3BACC989A6A93BA2674);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral9F84632196531FA2B3BB0B4225C53CDB837E9393);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteralAA2ACAAC77884477FF705FAA326CAE0ACFAFB316);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteralAD23F1807EC3F728BA43D64905EBF6D2F2B3660D);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteralAF76631C9924DA21CC9961B508E27EB5D8012412);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteralB93F5E13E0AD8E8044D7D80E771F9A55F393D87F);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteralC63533D7E97B41EB9EC8122A46CB313BA2A0DDC4);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteralCAF8804297181FF007CA835529DD4477CFD94A70);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteralFBA9CEB43D14830BEAAF5F87C6AAAD1A8A36A67F);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1033>
+		List_1_t726BCA8E2CE69931893FD019F21D4CDE55BF7AF1* L_0 = (List_1_t726BCA8E2CE69931893FD019F21D4CDE55BF7AF1*)il2cpp_codegen_object_new(List_1_t726BCA8E2CE69931893FD019F21D4CDE55BF7AF1_il2cpp_TypeInfo_var);
+		List_1__ctor_m343B89BF3FEB43E10F17BF51D4390B07999E4DE8(L_0, List_1__ctor_m343B89BF3FEB43E10F17BF51D4390B07999E4DE8_RuntimeMethod_var);
+		__this->___m_PlayerActionsCallbackInterfaces = L_0;
+		Il2CppCodeGenWriteBarrier((void**)(&__this->___m_PlayerActionsCallbackInterfaces), (void*)L_0);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1162>
+		List_1_t7B4BA466ED2E0B53AA92432404A8E418878C1E6B* L_1 = (List_1_t7B4BA466ED2E0B53AA92432404A8E418878C1E6B*)il2cpp_codegen_object_new(List_1_t7B4BA466ED2E0B53AA92432404A8E418878C1E6B_il2cpp_TypeInfo_var);
+		List_1__ctor_m48EFE651F34F805ED4EF2D86A96641CCF1ACA5C3(L_1, List_1__ctor_m48EFE651F34F805ED4EF2D86A96641CCF1ACA5C3_RuntimeMethod_var);
+		__this->___m_UIActionsCallbackInterfaces = L_1;
+		Il2CppCodeGenWriteBarrier((void**)(&__this->___m_UIActionsCallbackInterfaces), (void*)L_1);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1354>
+		__this->___m_KeyboardMouseSchemeIndex = (-1);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1367>
+		__this->___m_GamepadSchemeIndex = (-1);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1380>
+		__this->___m_TouchSchemeIndex = (-1);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1393>
+		__this->___m_JoystickSchemeIndex = (-1);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1406>
+		__this->___m_XRSchemeIndex = (-1);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:85>
+		Object__ctor_mE837C6B9FA8C6D5D109F4B2EC885D79919AC0EA2(__this, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:87>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:88>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:89>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:90>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:91>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:92>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:93>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:94>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:95>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:96>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:97>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:98>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:99>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:100>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:101>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:102>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:103>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:104>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:105>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:106>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:107>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:108>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:109>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:110>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:111>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:112>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:113>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:114>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:115>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:116>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:117>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:118>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:119>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:120>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:121>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:122>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:123>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:124>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:125>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:126>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:127>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:128>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:129>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:130>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:131>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:132>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:133>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:134>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:135>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:136>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:137>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:138>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:139>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:140>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:141>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:142>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:143>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:144>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:145>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:146>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:147>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:148>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:149>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:150>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:151>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:152>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:153>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:154>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:155>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:156>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:157>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:158>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:159>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:160>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:161>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:162>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:163>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:164>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:165>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:166>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:167>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:168>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:169>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:170>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:171>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:172>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:173>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:174>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:175>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:176>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:177>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:178>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:179>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:180>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:181>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:182>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:183>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:184>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:185>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:186>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:187>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:188>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:189>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:190>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:191>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:192>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:193>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:194>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:195>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:196>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:197>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:198>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:199>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:200>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:201>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:202>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:203>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:204>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:205>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:206>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:207>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:208>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:209>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:210>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:211>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:212>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:213>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:214>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:215>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:216>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:217>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:218>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:219>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:220>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:221>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:222>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:223>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:224>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:225>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:226>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:227>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:228>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:229>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:230>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:231>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:232>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:233>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:234>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:235>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:236>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:237>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:238>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:239>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:240>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:241>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:242>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:243>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:244>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:245>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:246>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:247>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:248>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:249>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:250>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:251>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:252>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:253>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:254>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:255>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:256>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:257>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:258>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:259>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:260>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:261>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:262>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:263>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:264>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:265>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:266>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:267>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:268>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:269>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:270>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:271>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:272>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:273>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:274>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:275>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:276>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:277>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:278>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:279>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:280>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:281>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:282>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:283>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:284>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:285>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:286>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:287>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:288>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:289>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:290>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:291>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:292>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:293>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:294>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:295>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:296>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:297>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:298>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:299>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:300>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:301>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:302>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:303>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:304>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:305>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:306>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:307>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:308>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:309>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:310>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:311>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:312>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:313>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:314>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:315>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:316>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:317>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:318>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:319>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:320>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:321>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:322>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:323>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:324>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:325>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:326>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:327>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:328>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:329>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:330>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:331>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:332>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:333>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:334>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:335>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:336>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:337>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:338>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:339>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:340>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:341>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:342>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:343>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:344>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:345>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:346>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:347>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:348>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:349>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:350>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:351>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:352>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:353>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:354>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:355>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:356>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:357>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:358>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:359>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:360>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:361>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:362>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:363>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:364>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:365>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:366>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:367>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:368>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:369>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:370>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:371>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:372>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:373>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:374>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:375>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:376>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:377>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:378>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:379>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:380>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:381>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:382>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:383>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:384>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:385>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:386>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:387>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:388>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:389>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:390>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:391>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:392>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:393>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:394>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:395>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:396>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:397>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:398>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:399>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:400>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:401>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:402>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:403>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:404>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:405>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:406>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:407>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:408>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:409>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:410>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:411>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:412>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:413>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:414>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:415>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:416>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:417>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:418>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:419>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:420>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:421>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:422>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:423>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:424>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:425>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:426>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:427>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:428>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:429>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:430>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:431>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:432>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:433>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:434>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:435>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:436>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:437>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:438>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:439>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:440>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:441>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:442>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:443>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:444>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:445>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:446>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:447>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:448>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:449>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:450>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:451>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:452>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:453>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:454>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:455>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:456>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:457>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:458>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:459>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:460>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:461>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:462>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:463>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:464>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:465>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:466>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:467>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:468>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:469>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:470>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:471>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:472>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:473>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:474>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:475>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:476>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:477>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:478>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:479>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:480>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:481>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:482>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:483>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:484>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:485>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:486>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:487>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:488>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:489>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:490>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:491>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:492>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:493>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:494>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:495>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:496>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:497>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:498>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:499>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:500>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:501>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:502>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:503>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:504>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:505>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:506>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:507>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:508>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:509>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:510>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:511>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:512>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:513>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:514>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:515>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:516>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:517>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:518>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:519>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:520>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:521>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:522>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:523>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:524>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:525>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:526>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:527>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:528>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:529>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:530>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:531>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:532>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:533>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:534>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:535>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:536>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:537>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:538>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:539>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:540>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:541>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:542>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:543>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:544>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:545>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:546>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:547>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:548>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:549>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:550>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:551>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:552>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:553>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:554>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:555>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:556>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:557>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:558>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:559>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:560>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:561>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:562>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:563>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:564>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:565>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:566>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:567>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:568>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:569>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:570>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:571>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:572>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:573>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:574>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:575>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:576>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:577>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:578>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:579>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:580>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:581>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:582>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:583>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:584>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:585>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:586>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:587>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:588>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:589>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:590>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:591>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:592>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:593>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:594>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:595>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:596>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:597>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:598>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:599>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:600>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:601>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:602>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:603>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:604>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:605>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:606>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:607>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:608>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:609>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:610>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:611>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:612>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:613>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:614>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:615>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:616>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:617>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:618>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:619>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:620>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:621>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:622>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:623>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:624>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:625>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:626>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:627>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:628>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:629>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:630>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:631>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:632>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:633>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:634>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:635>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:636>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:637>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:638>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:639>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:640>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:641>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:642>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:643>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:644>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:645>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:646>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:647>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:648>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:649>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:650>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:651>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:652>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:653>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:654>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:655>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:656>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:657>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:658>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:659>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:660>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:661>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:662>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:663>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:664>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:665>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:666>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:667>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:668>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:669>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:670>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:671>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:672>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:673>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:674>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:675>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:676>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:677>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:678>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:679>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:680>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:681>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:682>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:683>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:684>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:685>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:686>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:687>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:688>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:689>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:690>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:691>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:692>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:693>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:694>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:695>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:696>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:697>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:698>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:699>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:700>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:701>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:702>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:703>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:704>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:705>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:706>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:707>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:708>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:709>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:710>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:711>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:712>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:713>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:714>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:715>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:716>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:717>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:718>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:719>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:720>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:721>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:722>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:723>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:724>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:725>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:726>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:727>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:728>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:729>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:730>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:731>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:732>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:733>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:734>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:735>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:736>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:737>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:738>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:739>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:740>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:741>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:742>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:743>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:744>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:745>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:746>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:747>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:748>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:749>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:750>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:751>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:752>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:753>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:754>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:755>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:756>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:757>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:758>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:759>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:760>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:761>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:762>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:763>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:764>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:765>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:766>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:767>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:768>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:769>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:770>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:771>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:772>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:773>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:774>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:775>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:776>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:777>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:778>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:779>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:780>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:781>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:782>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:783>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:784>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:785>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:786>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:787>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:788>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:789>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:790>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:791>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:792>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:793>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:794>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:795>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:796>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:797>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:798>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:799>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:800>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:801>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:802>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:803>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:804>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:805>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:806>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:807>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:808>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:809>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:810>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:811>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:812>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:813>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:814>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:815>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:816>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:817>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:818>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:819>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:820>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:821>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:822>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:823>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:824>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:825>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:826>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:827>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:828>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:829>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:830>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:831>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:832>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:833>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:834>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:835>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:836>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:837>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:838>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:839>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:840>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:841>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:842>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:843>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:844>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:845>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:846>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:847>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:848>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:849>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:850>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:851>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:852>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:853>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:854>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:855>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:856>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:857>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:858>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:859>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:860>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:861>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:862>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:863>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:864>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:865>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:866>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:867>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:868>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:869>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:870>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:871>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:872>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:873>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:874>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:875>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:876>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:877>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:878>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:879>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:880>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:881>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:882>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:883>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:884>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:885>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:886>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:887>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:888>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:889>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:890>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:891>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:892>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:893>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:894>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:895>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:896>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:897>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:898>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:899>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:900>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:901>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:902>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:903>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:904>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:905>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:906>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:907>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:908>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:909>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:910>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:911>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:912>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:913>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:914>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:915>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:916>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:917>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:918>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:919>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:920>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:921>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:922>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:923>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:924>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:925>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:926>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:927>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:928>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:929>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:930>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:931>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:932>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:933>
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:934>
+		InputActionAsset_tF217AC5223B4AAA46EBCB44B33E9259FB117417D* L_2;
+		L_2 = InputActionAsset_FromJson_m8F7212EB013EF4D853836228D393C0D15BD0433C(_stringLiteral5993697C283E3E2190F0E6B70747ECD420807D20, NULL);
+		__this->___U3CassetU3Ek__BackingField = L_2;
+		Il2CppCodeGenWriteBarrier((void**)(&__this->___U3CassetU3Ek__BackingField), (void*)L_2);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:936>
+		InputActionAsset_tF217AC5223B4AAA46EBCB44B33E9259FB117417D* L_3;
+		L_3 = InputSystem_Actions_get_asset_m6301083B1B60F84A86CB6248836C22A5BDC79647_inline(__this, NULL);
+		NullCheck(L_3);
+		InputActionMap_tFCE82E0E014319D4DED9F8962B06655DD0420A09* L_4;
+		L_4 = InputActionAsset_FindActionMap_mE04E63102310DA7662194A4D283E2E42D90CCC75(L_3, _stringLiteralCAF8804297181FF007CA835529DD4477CFD94A70, (bool)1, NULL);
+		__this->___m_Player = L_4;
+		Il2CppCodeGenWriteBarrier((void**)(&__this->___m_Player), (void*)L_4);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:937>
+		InputActionMap_tFCE82E0E014319D4DED9F8962B06655DD0420A09* L_5 = __this->___m_Player;
+		NullCheck(L_5);
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_6;
+		L_6 = InputActionMap_FindAction_m94A9B02203CFFA97310EC589FAD4CCB15898F0A3(L_5, _stringLiteral378F2A2277727E3F33599E270749A10E7C2B55E1, (bool)1, NULL);
+		__this->___m_Player_Move = L_6;
+		Il2CppCodeGenWriteBarrier((void**)(&__this->___m_Player_Move), (void*)L_6);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:938>
+		InputActionMap_tFCE82E0E014319D4DED9F8962B06655DD0420A09* L_7 = __this->___m_Player;
+		NullCheck(L_7);
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_8;
+		L_8 = InputActionMap_FindAction_m94A9B02203CFFA97310EC589FAD4CCB15898F0A3(L_7, _stringLiteralFBA9CEB43D14830BEAAF5F87C6AAAD1A8A36A67F, (bool)1, NULL);
+		__this->___m_Player_Look = L_8;
+		Il2CppCodeGenWriteBarrier((void**)(&__this->___m_Player_Look), (void*)L_8);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:939>
+		InputActionMap_tFCE82E0E014319D4DED9F8962B06655DD0420A09* L_9 = __this->___m_Player;
+		NullCheck(L_9);
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_10;
+		L_10 = InputActionMap_FindAction_m94A9B02203CFFA97310EC589FAD4CCB15898F0A3(L_9, _stringLiteral70253F929BCE7F81DF1A5A1C0900BED744E86C9C, (bool)1, NULL);
+		__this->___m_Player_Jump = L_10;
+		Il2CppCodeGenWriteBarrier((void**)(&__this->___m_Player_Jump), (void*)L_10);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:940>
+		InputActionMap_tFCE82E0E014319D4DED9F8962B06655DD0420A09* L_11 = __this->___m_Player;
+		NullCheck(L_11);
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_12;
+		L_12 = InputActionMap_FindAction_m94A9B02203CFFA97310EC589FAD4CCB15898F0A3(L_11, _stringLiteral163DCC8E458A1FCC2E86F0FD61BE2BCE27195238, (bool)1, NULL);
+		__this->___m_Player_Sprint = L_12;
+		Il2CppCodeGenWriteBarrier((void**)(&__this->___m_Player_Sprint), (void*)L_12);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:942>
+		InputActionAsset_tF217AC5223B4AAA46EBCB44B33E9259FB117417D* L_13;
+		L_13 = InputSystem_Actions_get_asset_m6301083B1B60F84A86CB6248836C22A5BDC79647_inline(__this, NULL);
+		NullCheck(L_13);
+		InputActionMap_tFCE82E0E014319D4DED9F8962B06655DD0420A09* L_14;
+		L_14 = InputActionAsset_FindActionMap_mE04E63102310DA7662194A4D283E2E42D90CCC75(L_13, _stringLiteralB93F5E13E0AD8E8044D7D80E771F9A55F393D87F, (bool)1, NULL);
+		__this->___m_UI = L_14;
+		Il2CppCodeGenWriteBarrier((void**)(&__this->___m_UI), (void*)L_14);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:943>
+		InputActionMap_tFCE82E0E014319D4DED9F8962B06655DD0420A09* L_15 = __this->___m_UI;
+		NullCheck(L_15);
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_16;
+		L_16 = InputActionMap_FindAction_m94A9B02203CFFA97310EC589FAD4CCB15898F0A3(L_15, _stringLiteral117C34CEF055E54D018BB5CB8A52E1D66434C6E6, (bool)1, NULL);
+		__this->___m_UI_Navigate = L_16;
+		Il2CppCodeGenWriteBarrier((void**)(&__this->___m_UI_Navigate), (void*)L_16);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:944>
+		InputActionMap_tFCE82E0E014319D4DED9F8962B06655DD0420A09* L_17 = __this->___m_UI;
+		NullCheck(L_17);
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_18;
+		L_18 = InputActionMap_FindAction_m94A9B02203CFFA97310EC589FAD4CCB15898F0A3(L_17, _stringLiteral190CDBBC7377A308B78E27EF91319FD2DA386895, (bool)1, NULL);
+		__this->___m_UI_Submit = L_18;
+		Il2CppCodeGenWriteBarrier((void**)(&__this->___m_UI_Submit), (void*)L_18);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:945>
+		InputActionMap_tFCE82E0E014319D4DED9F8962B06655DD0420A09* L_19 = __this->___m_UI;
+		NullCheck(L_19);
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_20;
+		L_20 = InputActionMap_FindAction_m94A9B02203CFFA97310EC589FAD4CCB15898F0A3(L_19, _stringLiteral93717CD8FCD45BAB4F15D3BACC989A6A93BA2674, (bool)1, NULL);
+		__this->___m_UI_Cancel = L_20;
+		Il2CppCodeGenWriteBarrier((void**)(&__this->___m_UI_Cancel), (void*)L_20);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:946>
+		InputActionMap_tFCE82E0E014319D4DED9F8962B06655DD0420A09* L_21 = __this->___m_UI;
+		NullCheck(L_21);
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_22;
+		L_22 = InputActionMap_FindAction_m94A9B02203CFFA97310EC589FAD4CCB15898F0A3(L_21, _stringLiteralAF76631C9924DA21CC9961B508E27EB5D8012412, (bool)1, NULL);
+		__this->___m_UI_Point = L_22;
+		Il2CppCodeGenWriteBarrier((void**)(&__this->___m_UI_Point), (void*)L_22);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:947>
+		InputActionMap_tFCE82E0E014319D4DED9F8962B06655DD0420A09* L_23 = __this->___m_UI;
+		NullCheck(L_23);
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_24;
+		L_24 = InputActionMap_FindAction_m94A9B02203CFFA97310EC589FAD4CCB15898F0A3(L_23, _stringLiteral47A23BFD06ECFD154AD092ED652B1B4111CD15FC, (bool)1, NULL);
+		__this->___m_UI_Click = L_24;
+		Il2CppCodeGenWriteBarrier((void**)(&__this->___m_UI_Click), (void*)L_24);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:948>
+		InputActionMap_tFCE82E0E014319D4DED9F8962B06655DD0420A09* L_25 = __this->___m_UI;
+		NullCheck(L_25);
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_26;
+		L_26 = InputActionMap_FindAction_m94A9B02203CFFA97310EC589FAD4CCB15898F0A3(L_25, _stringLiteral68E991B5616F5769AB6069C14D3F44D98828C2F9, (bool)1, NULL);
+		__this->___m_UI_RightClick = L_26;
+		Il2CppCodeGenWriteBarrier((void**)(&__this->___m_UI_RightClick), (void*)L_26);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:949>
+		InputActionMap_tFCE82E0E014319D4DED9F8962B06655DD0420A09* L_27 = __this->___m_UI;
+		NullCheck(L_27);
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_28;
+		L_28 = InputActionMap_FindAction_m94A9B02203CFFA97310EC589FAD4CCB15898F0A3(L_27, _stringLiteralAA2ACAAC77884477FF705FAA326CAE0ACFAFB316, (bool)1, NULL);
+		__this->___m_UI_MiddleClick = L_28;
+		Il2CppCodeGenWriteBarrier((void**)(&__this->___m_UI_MiddleClick), (void*)L_28);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:950>
+		InputActionMap_tFCE82E0E014319D4DED9F8962B06655DD0420A09* L_29 = __this->___m_UI;
+		NullCheck(L_29);
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_30;
+		L_30 = InputActionMap_FindAction_m94A9B02203CFFA97310EC589FAD4CCB15898F0A3(L_29, _stringLiteralAD23F1807EC3F728BA43D64905EBF6D2F2B3660D, (bool)1, NULL);
+		__this->___m_UI_ScrollWheel = L_30;
+		Il2CppCodeGenWriteBarrier((void**)(&__this->___m_UI_ScrollWheel), (void*)L_30);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:951>
+		InputActionMap_tFCE82E0E014319D4DED9F8962B06655DD0420A09* L_31 = __this->___m_UI;
+		NullCheck(L_31);
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_32;
+		L_32 = InputActionMap_FindAction_m94A9B02203CFFA97310EC589FAD4CCB15898F0A3(L_31, _stringLiteral9F84632196531FA2B3BB0B4225C53CDB837E9393, (bool)1, NULL);
+		__this->___m_UI_TrackedDevicePosition = L_32;
+		Il2CppCodeGenWriteBarrier((void**)(&__this->___m_UI_TrackedDevicePosition), (void*)L_32);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:952>
+		InputActionMap_tFCE82E0E014319D4DED9F8962B06655DD0420A09* L_33 = __this->___m_UI;
+		NullCheck(L_33);
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_34;
+		L_34 = InputActionMap_FindAction_m94A9B02203CFFA97310EC589FAD4CCB15898F0A3(L_33, _stringLiteralC63533D7E97B41EB9EC8122A46CB313BA2A0DDC4, (bool)1, NULL);
+		__this->___m_UI_TrackedDeviceOrientation = L_34;
+		Il2CppCodeGenWriteBarrier((void**)(&__this->___m_UI_TrackedDeviceOrientation), (void*)L_34);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:953>
+		return;
+	}
+}
+// Method Definition Index: 88365
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void InputSystem_Actions_Finalize_mEC0CCB1C955B70A4616ABFA06C96C25F15886F4D (InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD* __this, const RuntimeMethod* method) 
+{
+	{
+		auto __finallyBlock = il2cpp::utils::Finally([&]
+		{
+
+FINALLY_0002:
+			{
+				//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:959>
+				Object_Finalize_mC98C96301CCABFE00F1A7EF8E15DF507CACD42B2(__this, NULL);
+				return;
+			}
+		});
+		try
+		{
+			//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:956>
+			goto IL_0009;
+		}
+		catch(Il2CppExceptionWrapper& e)
+		{
+			__finallyBlock.StoreException(e.ex);
+		}
+	}
+
+IL_0009:
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:959>
+		return;
+	}
+}
+// Method Definition Index: 88366
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void InputSystem_Actions_Dispose_m384A32A7679688CA55D4AA21BF39BCAF2CF89ED7 (InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:966>
+		InputActionAsset_tF217AC5223B4AAA46EBCB44B33E9259FB117417D* L_0;
+		L_0 = InputSystem_Actions_get_asset_m6301083B1B60F84A86CB6248836C22A5BDC79647_inline(__this, NULL);
+		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
+		Object_Destroy_mE97D0A766419A81296E8D4E5C23D01D3FE91ACBB(L_0, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:967>
+		return;
+	}
+}
+// Method Definition Index: 88367
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Nullable_1_t11786EE914FE65E70B9671129B0DFC4D0DE80C44 InputSystem_Actions_get_bindingMask_m669BAD9FC8C37AC9943D834B509D259C54C83A2C (InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD* __this, const RuntimeMethod* method) 
+{
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:972>
+		InputActionAsset_tF217AC5223B4AAA46EBCB44B33E9259FB117417D* L_0;
+		L_0 = InputSystem_Actions_get_asset_m6301083B1B60F84A86CB6248836C22A5BDC79647_inline(__this, NULL);
+		NullCheck(L_0);
+		Nullable_1_t11786EE914FE65E70B9671129B0DFC4D0DE80C44 L_1;
+		L_1 = InputActionAsset_get_bindingMask_mD5D2FAC455D221E7BC657DA5E7E4F5402E0B4F6C_inline(L_0, NULL);
+		return L_1;
+	}
+}
+// Method Definition Index: 88368
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void InputSystem_Actions_set_bindingMask_mD77EB7861AD06EE2FB1583F3EAC00766B2F909B9 (InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD* __this, Nullable_1_t11786EE914FE65E70B9671129B0DFC4D0DE80C44 ___0_value, const RuntimeMethod* method) 
+{
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:973>
+		InputActionAsset_tF217AC5223B4AAA46EBCB44B33E9259FB117417D* L_0;
+		L_0 = InputSystem_Actions_get_asset_m6301083B1B60F84A86CB6248836C22A5BDC79647_inline(__this, NULL);
+		Nullable_1_t11786EE914FE65E70B9671129B0DFC4D0DE80C44 L_1 = ___0_value;
+		NullCheck(L_0);
+		InputActionAsset_set_bindingMask_mD621370B859495F593CBE28019D84F44922C94A5(L_0, L_1, NULL);
+		return;
+	}
+}
+// Method Definition Index: 88369
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Nullable_1_t6B4D7100F56DCBBBD57A82F0DE4C93A1BA86EC4D InputSystem_Actions_get_devices_mCDFCEE09718CC6702B126BA480321AB76D213814 (InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD* __this, const RuntimeMethod* method) 
+{
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:979>
+		InputActionAsset_tF217AC5223B4AAA46EBCB44B33E9259FB117417D* L_0;
+		L_0 = InputSystem_Actions_get_asset_m6301083B1B60F84A86CB6248836C22A5BDC79647_inline(__this, NULL);
+		NullCheck(L_0);
+		Nullable_1_t6B4D7100F56DCBBBD57A82F0DE4C93A1BA86EC4D L_1;
+		L_1 = InputActionAsset_get_devices_m8FF856B2C61E23B7360A9279C10F8A6498C72B9C(L_0, NULL);
+		return L_1;
+	}
+}
+// Method Definition Index: 88370
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void InputSystem_Actions_set_devices_mD90D164310A27FC4635D169666D3D26E4EBFABFB (InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD* __this, Nullable_1_t6B4D7100F56DCBBBD57A82F0DE4C93A1BA86EC4D ___0_value, const RuntimeMethod* method) 
+{
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:980>
+		InputActionAsset_tF217AC5223B4AAA46EBCB44B33E9259FB117417D* L_0;
+		L_0 = InputSystem_Actions_get_asset_m6301083B1B60F84A86CB6248836C22A5BDC79647_inline(__this, NULL);
+		Nullable_1_t6B4D7100F56DCBBBD57A82F0DE4C93A1BA86EC4D L_1 = ___0_value;
+		NullCheck(L_0);
+		InputActionAsset_set_devices_m5A513BB841DB76966CD2B39E0E6FA8AFB3EBE38D(L_0, L_1, NULL);
+		return;
+	}
+}
+// Method Definition Index: 88371
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR ReadOnlyArray_1_tC41FC1476A6CC9385BDD74ECC6D3AF66A6C82BF9 InputSystem_Actions_get_controlSchemes_mFC195794B2D5405778C4FB95AFB41627987B55E4 (InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD* __this, const RuntimeMethod* method) 
+{
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:984>
+		InputActionAsset_tF217AC5223B4AAA46EBCB44B33E9259FB117417D* L_0;
+		L_0 = InputSystem_Actions_get_asset_m6301083B1B60F84A86CB6248836C22A5BDC79647_inline(__this, NULL);
+		NullCheck(L_0);
+		ReadOnlyArray_1_tC41FC1476A6CC9385BDD74ECC6D3AF66A6C82BF9 L_1;
+		L_1 = InputActionAsset_get_controlSchemes_m257644C546BD6221DD62251F6C7C2A2CC11BD099(L_0, NULL);
+		return L_1;
+	}
+}
+// Method Definition Index: 88372
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool InputSystem_Actions_Contains_m89BABA55A7AD09367CA1292E838A9ABEF651D748 (InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD* __this, InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* ___0_action, const RuntimeMethod* method) 
+{
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:989>
+		InputActionAsset_tF217AC5223B4AAA46EBCB44B33E9259FB117417D* L_0;
+		L_0 = InputSystem_Actions_get_asset_m6301083B1B60F84A86CB6248836C22A5BDC79647_inline(__this, NULL);
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_1 = ___0_action;
+		NullCheck(L_0);
+		bool L_2;
+		L_2 = InputActionAsset_Contains_mB3B9FBCE562FB5229F9387F14AEC22083FC6CDDE(L_0, L_1, NULL);
+		return L_2;
+	}
+}
+// Method Definition Index: 88373
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* InputSystem_Actions_GetEnumerator_m0E6785B0D9DC963BACA13EC249BD20C85CF9E038 (InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD* __this, const RuntimeMethod* method) 
+{
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:995>
+		InputActionAsset_tF217AC5223B4AAA46EBCB44B33E9259FB117417D* L_0;
+		L_0 = InputSystem_Actions_get_asset_m6301083B1B60F84A86CB6248836C22A5BDC79647_inline(__this, NULL);
+		NullCheck(L_0);
+		RuntimeObject* L_1;
+		L_1 = InputActionAsset_GetEnumerator_m39998F5B21D08AAE328E63B3FDCC0F414620A8A9(L_0, NULL);
+		return L_1;
+	}
+}
+// Method Definition Index: 88374
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* InputSystem_Actions_System_Collections_IEnumerable_GetEnumerator_mFC7436F9CF38B68A6DBF74458610E9C807FB076D (InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD* __this, const RuntimeMethod* method) 
+{
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1001>
+		RuntimeObject* L_0;
+		L_0 = InputSystem_Actions_GetEnumerator_m0E6785B0D9DC963BACA13EC249BD20C85CF9E038(__this, NULL);
+		return L_0;
+	}
+}
+// Method Definition Index: 88375
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void InputSystem_Actions_Enable_mC47B3BC980F118DA59253F7360675EEC1D37033A (InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD* __this, const RuntimeMethod* method) 
+{
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1007>
+		InputActionAsset_tF217AC5223B4AAA46EBCB44B33E9259FB117417D* L_0;
+		L_0 = InputSystem_Actions_get_asset_m6301083B1B60F84A86CB6248836C22A5BDC79647_inline(__this, NULL);
+		NullCheck(L_0);
+		InputActionAsset_Enable_m5102429EE832C7891F73B6979612702CECA8F431(L_0, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1008>
+		return;
+	}
+}
+// Method Definition Index: 88376
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void InputSystem_Actions_Disable_mBAC4A0197FA448EDA3D73CA1BDD81D0880954ED9 (InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD* __this, const RuntimeMethod* method) 
+{
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1013>
+		InputActionAsset_tF217AC5223B4AAA46EBCB44B33E9259FB117417D* L_0;
+		L_0 = InputSystem_Actions_get_asset_m6301083B1B60F84A86CB6248836C22A5BDC79647_inline(__this, NULL);
+		NullCheck(L_0);
+		InputActionAsset_Disable_m62FD8B11BB4EDF6AADAB2BDDC699242D09BAF99C(L_0, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1014>
+		return;
+	}
+}
+// Method Definition Index: 88377
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* InputSystem_Actions_get_bindings_m049D6E114D89122A082B1D032628A138BE186CE6 (InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD* __this, const RuntimeMethod* method) 
+{
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1017>
+		InputActionAsset_tF217AC5223B4AAA46EBCB44B33E9259FB117417D* L_0;
+		L_0 = InputSystem_Actions_get_asset_m6301083B1B60F84A86CB6248836C22A5BDC79647_inline(__this, NULL);
+		NullCheck(L_0);
+		RuntimeObject* L_1;
+		L_1 = InputActionAsset_get_bindings_mB045318575B5D7B13A92B973CABB40E0FEC70FB9(L_0, NULL);
+		return L_1;
+	}
+}
+// Method Definition Index: 88378
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* InputSystem_Actions_FindAction_m2425605338557C3772672BEFB113ED3409FB3093 (InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD* __this, String_t* ___0_actionNameOrId, bool ___1_throwIfNotFound, const RuntimeMethod* method) 
+{
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1022>
+		InputActionAsset_tF217AC5223B4AAA46EBCB44B33E9259FB117417D* L_0;
+		L_0 = InputSystem_Actions_get_asset_m6301083B1B60F84A86CB6248836C22A5BDC79647_inline(__this, NULL);
+		String_t* L_1 = ___0_actionNameOrId;
+		bool L_2 = ___1_throwIfNotFound;
+		NullCheck(L_0);
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_3;
+		L_3 = InputActionAsset_FindAction_m50D07EAFAA8628B9793E7BBEEB2E89C2A9C45C00(L_0, L_1, L_2, NULL);
+		return L_3;
+	}
+}
+// Method Definition Index: 88379
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t InputSystem_Actions_FindBinding_m2BAFEAED7E5AA8D0486D05EE51BCFDF946CEA235 (InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD* __this, InputBinding_t0D75BD1538CF81D29450D568D5C938E111633EC5 ___0_bindingMask, InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD** ___1_action, const RuntimeMethod* method) 
+{
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1028>
+		InputActionAsset_tF217AC5223B4AAA46EBCB44B33E9259FB117417D* L_0;
+		L_0 = InputSystem_Actions_get_asset_m6301083B1B60F84A86CB6248836C22A5BDC79647_inline(__this, NULL);
+		InputBinding_t0D75BD1538CF81D29450D568D5C938E111633EC5 L_1 = ___0_bindingMask;
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD** L_2 = ___1_action;
+		NullCheck(L_0);
+		int32_t L_3;
+		L_3 = InputActionAsset_FindBinding_mB5B36B9DDFAABFD4B528B891653B1B5B895DBDC5(L_0, L_1, L_2, NULL);
+		return L_3;
+	}
+}
+// Method Definition Index: 88380
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B InputSystem_Actions_get_Player_m287A19D199E735CD02DF36C9CAB98A2BFE2FD4B0 (InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD* __this, const RuntimeMethod* method) 
+{
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1158>
+		PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B L_0;
+		memset((&L_0), 0, sizeof(L_0));
+		PlayerActions__ctor_m67DF6D981B73BADE3A73A11B719129089CDCB866_inline((&L_0), __this, NULL);
+		return L_0;
+	}
+}
+// Method Definition Index: 88381
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F InputSystem_Actions_get_UI_m6D13D13123C6C82289ED764BB29EFA635A7C4E53 (InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD* __this, const RuntimeMethod* method) 
+{
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1353>
+		UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F L_0;
+		memset((&L_0), 0, sizeof(L_0));
+		UIActions__ctor_mFC7C5BAD0F255713B9ECFC1FAC09F27A3F0A875E_inline((&L_0), __this, NULL);
+		return L_0;
+	}
+}
+// Method Definition Index: 88382
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR InputControlScheme_tB60FB32F414727140B32E1A0447679DC7ABC8434 InputSystem_Actions_get_KeyboardMouseScheme_mBB729007312637A585577885916513920CEB643A (InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&ReadOnlyArray_1_get_Item_m1B48B5B84CD98353C0E203B6E556E617FD3CA90E_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral017B351DA3E50FAF2CFBB408359C6C0480F02932);
+		s_Il2CppMethodInitialized = true;
+	}
+	ReadOnlyArray_1_tC41FC1476A6CC9385BDD74ECC6D3AF66A6C82BF9 V_0;
+	memset((&V_0), 0, sizeof(V_0));
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1363>
+		int32_t L_0 = __this->___m_KeyboardMouseSchemeIndex;
+		if ((!(((uint32_t)L_0) == ((uint32_t)(-1)))))
+		{
+			goto IL_001f;
+		}
+	}
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1363>
+		InputActionAsset_tF217AC5223B4AAA46EBCB44B33E9259FB117417D* L_1;
+		L_1 = InputSystem_Actions_get_asset_m6301083B1B60F84A86CB6248836C22A5BDC79647_inline(__this, NULL);
+		NullCheck(L_1);
+		int32_t L_2;
+		L_2 = InputActionAsset_FindControlSchemeIndex_m765CEC376752C62AF08B9F005C8893F0D62DED2D(L_1, _stringLiteral017B351DA3E50FAF2CFBB408359C6C0480F02932, NULL);
+		__this->___m_KeyboardMouseSchemeIndex = L_2;
+	}
+
+IL_001f:
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1364>
+		InputActionAsset_tF217AC5223B4AAA46EBCB44B33E9259FB117417D* L_3;
+		L_3 = InputSystem_Actions_get_asset_m6301083B1B60F84A86CB6248836C22A5BDC79647_inline(__this, NULL);
+		NullCheck(L_3);
+		ReadOnlyArray_1_tC41FC1476A6CC9385BDD74ECC6D3AF66A6C82BF9 L_4;
+		L_4 = InputActionAsset_get_controlSchemes_m257644C546BD6221DD62251F6C7C2A2CC11BD099(L_3, NULL);
+		V_0 = L_4;
+		int32_t L_5 = __this->___m_KeyboardMouseSchemeIndex;
+		InputControlScheme_tB60FB32F414727140B32E1A0447679DC7ABC8434 L_6;
+		L_6 = ReadOnlyArray_1_get_Item_m1B48B5B84CD98353C0E203B6E556E617FD3CA90E((&V_0), L_5, ReadOnlyArray_1_get_Item_m1B48B5B84CD98353C0E203B6E556E617FD3CA90E_RuntimeMethod_var);
+		return L_6;
+	}
+}
+// Method Definition Index: 88383
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR InputControlScheme_tB60FB32F414727140B32E1A0447679DC7ABC8434 InputSystem_Actions_get_GamepadScheme_mA5A18FFF71B512A80CCC963DB27D78702F5FBA79 (InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&ReadOnlyArray_1_get_Item_m1B48B5B84CD98353C0E203B6E556E617FD3CA90E_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral61225B335304C6BE91EE0EC8CF385BBE9B633F17);
+		s_Il2CppMethodInitialized = true;
+	}
+	ReadOnlyArray_1_tC41FC1476A6CC9385BDD74ECC6D3AF66A6C82BF9 V_0;
+	memset((&V_0), 0, sizeof(V_0));
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1376>
+		int32_t L_0 = __this->___m_GamepadSchemeIndex;
+		if ((!(((uint32_t)L_0) == ((uint32_t)(-1)))))
+		{
+			goto IL_001f;
+		}
+	}
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1376>
+		InputActionAsset_tF217AC5223B4AAA46EBCB44B33E9259FB117417D* L_1;
+		L_1 = InputSystem_Actions_get_asset_m6301083B1B60F84A86CB6248836C22A5BDC79647_inline(__this, NULL);
+		NullCheck(L_1);
+		int32_t L_2;
+		L_2 = InputActionAsset_FindControlSchemeIndex_m765CEC376752C62AF08B9F005C8893F0D62DED2D(L_1, _stringLiteral61225B335304C6BE91EE0EC8CF385BBE9B633F17, NULL);
+		__this->___m_GamepadSchemeIndex = L_2;
+	}
+
+IL_001f:
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1377>
+		InputActionAsset_tF217AC5223B4AAA46EBCB44B33E9259FB117417D* L_3;
+		L_3 = InputSystem_Actions_get_asset_m6301083B1B60F84A86CB6248836C22A5BDC79647_inline(__this, NULL);
+		NullCheck(L_3);
+		ReadOnlyArray_1_tC41FC1476A6CC9385BDD74ECC6D3AF66A6C82BF9 L_4;
+		L_4 = InputActionAsset_get_controlSchemes_m257644C546BD6221DD62251F6C7C2A2CC11BD099(L_3, NULL);
+		V_0 = L_4;
+		int32_t L_5 = __this->___m_GamepadSchemeIndex;
+		InputControlScheme_tB60FB32F414727140B32E1A0447679DC7ABC8434 L_6;
+		L_6 = ReadOnlyArray_1_get_Item_m1B48B5B84CD98353C0E203B6E556E617FD3CA90E((&V_0), L_5, ReadOnlyArray_1_get_Item_m1B48B5B84CD98353C0E203B6E556E617FD3CA90E_RuntimeMethod_var);
+		return L_6;
+	}
+}
+// Method Definition Index: 88384
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR InputControlScheme_tB60FB32F414727140B32E1A0447679DC7ABC8434 InputSystem_Actions_get_TouchScheme_mAA208256AB9BB76AFB5C784232D3A8F43D5E84D0 (InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&ReadOnlyArray_1_get_Item_m1B48B5B84CD98353C0E203B6E556E617FD3CA90E_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral45EDE4DB19150515241E2FE6610B1490B1DED5C7);
+		s_Il2CppMethodInitialized = true;
+	}
+	ReadOnlyArray_1_tC41FC1476A6CC9385BDD74ECC6D3AF66A6C82BF9 V_0;
+	memset((&V_0), 0, sizeof(V_0));
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1389>
+		int32_t L_0 = __this->___m_TouchSchemeIndex;
+		if ((!(((uint32_t)L_0) == ((uint32_t)(-1)))))
+		{
+			goto IL_001f;
+		}
+	}
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1389>
+		InputActionAsset_tF217AC5223B4AAA46EBCB44B33E9259FB117417D* L_1;
+		L_1 = InputSystem_Actions_get_asset_m6301083B1B60F84A86CB6248836C22A5BDC79647_inline(__this, NULL);
+		NullCheck(L_1);
+		int32_t L_2;
+		L_2 = InputActionAsset_FindControlSchemeIndex_m765CEC376752C62AF08B9F005C8893F0D62DED2D(L_1, _stringLiteral45EDE4DB19150515241E2FE6610B1490B1DED5C7, NULL);
+		__this->___m_TouchSchemeIndex = L_2;
+	}
+
+IL_001f:
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1390>
+		InputActionAsset_tF217AC5223B4AAA46EBCB44B33E9259FB117417D* L_3;
+		L_3 = InputSystem_Actions_get_asset_m6301083B1B60F84A86CB6248836C22A5BDC79647_inline(__this, NULL);
+		NullCheck(L_3);
+		ReadOnlyArray_1_tC41FC1476A6CC9385BDD74ECC6D3AF66A6C82BF9 L_4;
+		L_4 = InputActionAsset_get_controlSchemes_m257644C546BD6221DD62251F6C7C2A2CC11BD099(L_3, NULL);
+		V_0 = L_4;
+		int32_t L_5 = __this->___m_TouchSchemeIndex;
+		InputControlScheme_tB60FB32F414727140B32E1A0447679DC7ABC8434 L_6;
+		L_6 = ReadOnlyArray_1_get_Item_m1B48B5B84CD98353C0E203B6E556E617FD3CA90E((&V_0), L_5, ReadOnlyArray_1_get_Item_m1B48B5B84CD98353C0E203B6E556E617FD3CA90E_RuntimeMethod_var);
+		return L_6;
+	}
+}
+// Method Definition Index: 88385
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR InputControlScheme_tB60FB32F414727140B32E1A0447679DC7ABC8434 InputSystem_Actions_get_JoystickScheme_m0F80C0E7C42823DD165E3F5A4E5F8EDD2FE0E65A (InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&ReadOnlyArray_1_get_Item_m1B48B5B84CD98353C0E203B6E556E617FD3CA90E_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteralB502A186982A83A6C402B5753C1120061504E6EB);
+		s_Il2CppMethodInitialized = true;
+	}
+	ReadOnlyArray_1_tC41FC1476A6CC9385BDD74ECC6D3AF66A6C82BF9 V_0;
+	memset((&V_0), 0, sizeof(V_0));
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1402>
+		int32_t L_0 = __this->___m_JoystickSchemeIndex;
+		if ((!(((uint32_t)L_0) == ((uint32_t)(-1)))))
+		{
+			goto IL_001f;
+		}
+	}
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1402>
+		InputActionAsset_tF217AC5223B4AAA46EBCB44B33E9259FB117417D* L_1;
+		L_1 = InputSystem_Actions_get_asset_m6301083B1B60F84A86CB6248836C22A5BDC79647_inline(__this, NULL);
+		NullCheck(L_1);
+		int32_t L_2;
+		L_2 = InputActionAsset_FindControlSchemeIndex_m765CEC376752C62AF08B9F005C8893F0D62DED2D(L_1, _stringLiteralB502A186982A83A6C402B5753C1120061504E6EB, NULL);
+		__this->___m_JoystickSchemeIndex = L_2;
+	}
+
+IL_001f:
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1403>
+		InputActionAsset_tF217AC5223B4AAA46EBCB44B33E9259FB117417D* L_3;
+		L_3 = InputSystem_Actions_get_asset_m6301083B1B60F84A86CB6248836C22A5BDC79647_inline(__this, NULL);
+		NullCheck(L_3);
+		ReadOnlyArray_1_tC41FC1476A6CC9385BDD74ECC6D3AF66A6C82BF9 L_4;
+		L_4 = InputActionAsset_get_controlSchemes_m257644C546BD6221DD62251F6C7C2A2CC11BD099(L_3, NULL);
+		V_0 = L_4;
+		int32_t L_5 = __this->___m_JoystickSchemeIndex;
+		InputControlScheme_tB60FB32F414727140B32E1A0447679DC7ABC8434 L_6;
+		L_6 = ReadOnlyArray_1_get_Item_m1B48B5B84CD98353C0E203B6E556E617FD3CA90E((&V_0), L_5, ReadOnlyArray_1_get_Item_m1B48B5B84CD98353C0E203B6E556E617FD3CA90E_RuntimeMethod_var);
+		return L_6;
+	}
+}
+// Method Definition Index: 88386
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR InputControlScheme_tB60FB32F414727140B32E1A0447679DC7ABC8434 InputSystem_Actions_get_XRScheme_mD3BD06B9B64046B6F9F36FD850C5253A29C21EA2 (InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&ReadOnlyArray_1_get_Item_m1B48B5B84CD98353C0E203B6E556E617FD3CA90E_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral9FEFD136EF26D7B05E5CCF16376EF651CBFB5E2C);
+		s_Il2CppMethodInitialized = true;
+	}
+	ReadOnlyArray_1_tC41FC1476A6CC9385BDD74ECC6D3AF66A6C82BF9 V_0;
+	memset((&V_0), 0, sizeof(V_0));
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1415>
+		int32_t L_0 = __this->___m_XRSchemeIndex;
+		if ((!(((uint32_t)L_0) == ((uint32_t)(-1)))))
+		{
+			goto IL_001f;
+		}
+	}
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1415>
+		InputActionAsset_tF217AC5223B4AAA46EBCB44B33E9259FB117417D* L_1;
+		L_1 = InputSystem_Actions_get_asset_m6301083B1B60F84A86CB6248836C22A5BDC79647_inline(__this, NULL);
+		NullCheck(L_1);
+		int32_t L_2;
+		L_2 = InputActionAsset_FindControlSchemeIndex_m765CEC376752C62AF08B9F005C8893F0D62DED2D(L_1, _stringLiteral9FEFD136EF26D7B05E5CCF16376EF651CBFB5E2C, NULL);
+		__this->___m_XRSchemeIndex = L_2;
+	}
+
+IL_001f:
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1416>
+		InputActionAsset_tF217AC5223B4AAA46EBCB44B33E9259FB117417D* L_3;
+		L_3 = InputSystem_Actions_get_asset_m6301083B1B60F84A86CB6248836C22A5BDC79647_inline(__this, NULL);
+		NullCheck(L_3);
+		ReadOnlyArray_1_tC41FC1476A6CC9385BDD74ECC6D3AF66A6C82BF9 L_4;
+		L_4 = InputActionAsset_get_controlSchemes_m257644C546BD6221DD62251F6C7C2A2CC11BD099(L_3, NULL);
+		V_0 = L_4;
+		int32_t L_5 = __this->___m_XRSchemeIndex;
+		InputControlScheme_tB60FB32F414727140B32E1A0447679DC7ABC8434 L_6;
+		L_6 = ReadOnlyArray_1_get_Item_m1B48B5B84CD98353C0E203B6E556E617FD3CA90E((&V_0), L_5, ReadOnlyArray_1_get_Item_m1B48B5B84CD98353C0E203B6E556E617FD3CA90E_RuntimeMethod_var);
+		return L_6;
+	}
+}
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+IL2CPP_EXTERN_C void PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B_marshal_pinvoke(const PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B& unmarshaled, PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B_marshaled_pinvoke& marshaled)
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B_0_0_0_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B____m_Wrapper_FieldInfo_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	Exception_t* ___m_WrapperException = il2cpp_codegen_get_marshal_directive_exception("Cannot marshal field '%s' of type '%s': Reference type field marshaling is not supported.", PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B____m_Wrapper_FieldInfo_var, PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B_0_0_0_var);
+	IL2CPP_RAISE_MANAGED_EXCEPTION(___m_WrapperException, NULL);
+}
+IL2CPP_EXTERN_C void PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B_marshal_pinvoke_back(const PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B_marshaled_pinvoke& marshaled, PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B& unmarshaled)
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B_0_0_0_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B____m_Wrapper_FieldInfo_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	Exception_t* ___m_WrapperException = il2cpp_codegen_get_marshal_directive_exception("Cannot marshal field '%s' of type '%s': Reference type field marshaling is not supported.", PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B____m_Wrapper_FieldInfo_var, PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B_0_0_0_var);
+	IL2CPP_RAISE_MANAGED_EXCEPTION(___m_WrapperException, NULL);
+}
+IL2CPP_EXTERN_C void PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B_marshal_pinvoke_cleanup(PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B_marshaled_pinvoke& marshaled)
+{
+}
+IL2CPP_EXTERN_C void PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B_marshal_com(const PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B& unmarshaled, PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B_marshaled_com& marshaled)
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B_0_0_0_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B____m_Wrapper_FieldInfo_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	Exception_t* ___m_WrapperException = il2cpp_codegen_get_marshal_directive_exception("Cannot marshal field '%s' of type '%s': Reference type field marshaling is not supported.", PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B____m_Wrapper_FieldInfo_var, PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B_0_0_0_var);
+	IL2CPP_RAISE_MANAGED_EXCEPTION(___m_WrapperException, NULL);
+}
+IL2CPP_EXTERN_C void PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B_marshal_com_back(const PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B_marshaled_com& marshaled, PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B& unmarshaled)
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B_0_0_0_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B____m_Wrapper_FieldInfo_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	Exception_t* ___m_WrapperException = il2cpp_codegen_get_marshal_directive_exception("Cannot marshal field '%s' of type '%s': Reference type field marshaling is not supported.", PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B____m_Wrapper_FieldInfo_var, PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B_0_0_0_var);
+	IL2CPP_RAISE_MANAGED_EXCEPTION(___m_WrapperException, NULL);
+}
+IL2CPP_EXTERN_C void PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B_marshal_com_cleanup(PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B_marshaled_com& marshaled)
+{
+}
+// Method Definition Index: 88387
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PlayerActions__ctor_m67DF6D981B73BADE3A73A11B719129089CDCB866 (PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B* __this, InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD* ___0_wrapper, const RuntimeMethod* method) 
+{
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1048>
+		InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD* L_0 = ___0_wrapper;
+		__this->___m_Wrapper = L_0;
+		Il2CppCodeGenWriteBarrier((void**)(&__this->___m_Wrapper), (void*)L_0);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1048>
+		return;
+	}
+}
+IL2CPP_EXTERN_C  void PlayerActions__ctor_m67DF6D981B73BADE3A73A11B719129089CDCB866_AdjustorThunk (RuntimeObject* __this, InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD* ___0_wrapper, const RuntimeMethod* method)
+{
+	PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B* _thisAdjusted;
+	int32_t _offset = 1;
+	_thisAdjusted = reinterpret_cast<PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B*>(__this + _offset);
+	PlayerActions__ctor_m67DF6D981B73BADE3A73A11B719129089CDCB866_inline(_thisAdjusted, ___0_wrapper, method);
+}
+// Method Definition Index: 88388
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* PlayerActions_get_Move_mEC5AE75FE5950F812841E8A10E21ECF1D7693D99 (PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B* __this, const RuntimeMethod* method) 
+{
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1052>
+		InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD* L_0 = __this->___m_Wrapper;
+		NullCheck(L_0);
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_1 = L_0->___m_Player_Move;
+		return L_1;
+	}
+}
+IL2CPP_EXTERN_C  InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* PlayerActions_get_Move_mEC5AE75FE5950F812841E8A10E21ECF1D7693D99_AdjustorThunk (RuntimeObject* __this, const RuntimeMethod* method)
+{
+	PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B* _thisAdjusted;
+	int32_t _offset = 1;
+	_thisAdjusted = reinterpret_cast<PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B*>(__this + _offset);
+	InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* _returnValue;
+	_returnValue = PlayerActions_get_Move_mEC5AE75FE5950F812841E8A10E21ECF1D7693D99(_thisAdjusted, method);
+	return _returnValue;
+}
+// Method Definition Index: 88389
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* PlayerActions_get_Look_m1A7BE7BAF257848AFEA5293C9168248930B0EC7D (PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B* __this, const RuntimeMethod* method) 
+{
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1056>
+		InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD* L_0 = __this->___m_Wrapper;
+		NullCheck(L_0);
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_1 = L_0->___m_Player_Look;
+		return L_1;
+	}
+}
+IL2CPP_EXTERN_C  InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* PlayerActions_get_Look_m1A7BE7BAF257848AFEA5293C9168248930B0EC7D_AdjustorThunk (RuntimeObject* __this, const RuntimeMethod* method)
+{
+	PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B* _thisAdjusted;
+	int32_t _offset = 1;
+	_thisAdjusted = reinterpret_cast<PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B*>(__this + _offset);
+	InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* _returnValue;
+	_returnValue = PlayerActions_get_Look_m1A7BE7BAF257848AFEA5293C9168248930B0EC7D(_thisAdjusted, method);
+	return _returnValue;
+}
+// Method Definition Index: 88390
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* PlayerActions_get_Jump_mEE8B1A561604033583ED2E2656926ABFD32177F7 (PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B* __this, const RuntimeMethod* method) 
+{
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1060>
+		InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD* L_0 = __this->___m_Wrapper;
+		NullCheck(L_0);
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_1 = L_0->___m_Player_Jump;
+		return L_1;
+	}
+}
+IL2CPP_EXTERN_C  InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* PlayerActions_get_Jump_mEE8B1A561604033583ED2E2656926ABFD32177F7_AdjustorThunk (RuntimeObject* __this, const RuntimeMethod* method)
+{
+	PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B* _thisAdjusted;
+	int32_t _offset = 1;
+	_thisAdjusted = reinterpret_cast<PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B*>(__this + _offset);
+	InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* _returnValue;
+	_returnValue = PlayerActions_get_Jump_mEE8B1A561604033583ED2E2656926ABFD32177F7(_thisAdjusted, method);
+	return _returnValue;
+}
+// Method Definition Index: 88391
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* PlayerActions_get_Sprint_mF8F8CE6BBB97783D9FCDFC92DBA13FE2B4ED9B62 (PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B* __this, const RuntimeMethod* method) 
+{
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1064>
+		InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD* L_0 = __this->___m_Wrapper;
+		NullCheck(L_0);
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_1 = L_0->___m_Player_Sprint;
+		return L_1;
+	}
+}
+IL2CPP_EXTERN_C  InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* PlayerActions_get_Sprint_mF8F8CE6BBB97783D9FCDFC92DBA13FE2B4ED9B62_AdjustorThunk (RuntimeObject* __this, const RuntimeMethod* method)
+{
+	PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B* _thisAdjusted;
+	int32_t _offset = 1;
+	_thisAdjusted = reinterpret_cast<PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B*>(__this + _offset);
+	InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* _returnValue;
+	_returnValue = PlayerActions_get_Sprint_mF8F8CE6BBB97783D9FCDFC92DBA13FE2B4ED9B62(_thisAdjusted, method);
+	return _returnValue;
+}
+// Method Definition Index: 88392
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR InputActionMap_tFCE82E0E014319D4DED9F8962B06655DD0420A09* PlayerActions_Get_m0F8E6BE52F1B0060FEA8374B24A845B1D29C6C30 (PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B* __this, const RuntimeMethod* method) 
+{
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1068>
+		InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD* L_0 = __this->___m_Wrapper;
+		NullCheck(L_0);
+		InputActionMap_tFCE82E0E014319D4DED9F8962B06655DD0420A09* L_1 = L_0->___m_Player;
+		return L_1;
+	}
+}
+IL2CPP_EXTERN_C  InputActionMap_tFCE82E0E014319D4DED9F8962B06655DD0420A09* PlayerActions_Get_m0F8E6BE52F1B0060FEA8374B24A845B1D29C6C30_AdjustorThunk (RuntimeObject* __this, const RuntimeMethod* method)
+{
+	PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B* _thisAdjusted;
+	int32_t _offset = 1;
+	_thisAdjusted = reinterpret_cast<PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B*>(__this + _offset);
+	InputActionMap_tFCE82E0E014319D4DED9F8962B06655DD0420A09* _returnValue;
+	_returnValue = PlayerActions_Get_m0F8E6BE52F1B0060FEA8374B24A845B1D29C6C30(_thisAdjusted, method);
+	return _returnValue;
+}
+// Method Definition Index: 88393
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PlayerActions_Enable_m33355FF72F86E394E64EFD91E9FB2CA71A451387 (PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B* __this, const RuntimeMethod* method) 
+{
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1070>
+		InputActionMap_tFCE82E0E014319D4DED9F8962B06655DD0420A09* L_0;
+		L_0 = PlayerActions_Get_m0F8E6BE52F1B0060FEA8374B24A845B1D29C6C30(__this, NULL);
+		NullCheck(L_0);
+		InputActionMap_Enable_mAB23F0C4179D27C375F9FA335898B02E336CA4F6(L_0, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1070>
+		return;
+	}
+}
+IL2CPP_EXTERN_C  void PlayerActions_Enable_m33355FF72F86E394E64EFD91E9FB2CA71A451387_AdjustorThunk (RuntimeObject* __this, const RuntimeMethod* method)
+{
+	PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B* _thisAdjusted;
+	int32_t _offset = 1;
+	_thisAdjusted = reinterpret_cast<PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B*>(__this + _offset);
+	PlayerActions_Enable_m33355FF72F86E394E64EFD91E9FB2CA71A451387(_thisAdjusted, method);
+}
+// Method Definition Index: 88394
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PlayerActions_Disable_mDC1E0DEFFE0E44F30334359EEADF85C062D17930 (PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B* __this, const RuntimeMethod* method) 
+{
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1072>
+		InputActionMap_tFCE82E0E014319D4DED9F8962B06655DD0420A09* L_0;
+		L_0 = PlayerActions_Get_m0F8E6BE52F1B0060FEA8374B24A845B1D29C6C30(__this, NULL);
+		NullCheck(L_0);
+		InputActionMap_Disable_m987468348648610F8B84D4F481592FF37AF5445C(L_0, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1072>
+		return;
+	}
+}
+IL2CPP_EXTERN_C  void PlayerActions_Disable_mDC1E0DEFFE0E44F30334359EEADF85C062D17930_AdjustorThunk (RuntimeObject* __this, const RuntimeMethod* method)
+{
+	PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B* _thisAdjusted;
+	int32_t _offset = 1;
+	_thisAdjusted = reinterpret_cast<PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B*>(__this + _offset);
+	PlayerActions_Disable_mDC1E0DEFFE0E44F30334359EEADF85C062D17930(_thisAdjusted, method);
+}
+// Method Definition Index: 88395
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool PlayerActions_get_enabled_m0E992384CC42BAA6A8E3602FE4FA7184E0B60431 (PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B* __this, const RuntimeMethod* method) 
+{
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1074>
+		InputActionMap_tFCE82E0E014319D4DED9F8962B06655DD0420A09* L_0;
+		L_0 = PlayerActions_Get_m0F8E6BE52F1B0060FEA8374B24A845B1D29C6C30(__this, NULL);
+		NullCheck(L_0);
+		bool L_1;
+		L_1 = InputActionMap_get_enabled_mB89FAA20F1EA1884A28829B3E350822D7456E888(L_0, NULL);
+		return L_1;
+	}
+}
+IL2CPP_EXTERN_C  bool PlayerActions_get_enabled_m0E992384CC42BAA6A8E3602FE4FA7184E0B60431_AdjustorThunk (RuntimeObject* __this, const RuntimeMethod* method)
+{
+	PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B* _thisAdjusted;
+	int32_t _offset = 1;
+	_thisAdjusted = reinterpret_cast<PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B*>(__this + _offset);
+	bool _returnValue;
+	_returnValue = PlayerActions_get_enabled_m0E992384CC42BAA6A8E3602FE4FA7184E0B60431(_thisAdjusted, method);
+	return _returnValue;
+}
+// Method Definition Index: 88396
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR InputActionMap_tFCE82E0E014319D4DED9F8962B06655DD0420A09* PlayerActions_op_Implicit_m88CE984087F8CFFBC9A60CBCC3BC436E1C3E2E51 (PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B ___0_set, const RuntimeMethod* method) 
+{
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1078>
+		InputActionMap_tFCE82E0E014319D4DED9F8962B06655DD0420A09* L_0;
+		L_0 = PlayerActions_Get_m0F8E6BE52F1B0060FEA8374B24A845B1D29C6C30((&___0_set), NULL);
+		return L_0;
+	}
+}
+// Method Definition Index: 88397
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PlayerActions_AddCallbacks_m104E48F0C90941B24F43753319713566820DD9E7 (PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B* __this, RuntimeObject* ___0_instance, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&IPlayerActions_t61460CE11D6A4722EC02812DA25783B426E440BF_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&List_1_Add_m1F1E68793013B4E0971364E88FFA504222F6C066_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&List_1_Contains_m6EA67BFD7C3CBD0271186F0ED158DB1938C80777_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1089>
+		RuntimeObject* L_0 = ___0_instance;
+		if (!L_0)
+		{
+			goto IL_0016;
+		}
+	}
+	{
+		InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD* L_1 = __this->___m_Wrapper;
+		NullCheck(L_1);
+		List_1_t726BCA8E2CE69931893FD019F21D4CDE55BF7AF1* L_2 = L_1->___m_PlayerActionsCallbackInterfaces;
+		RuntimeObject* L_3 = ___0_instance;
+		NullCheck(L_2);
+		bool L_4;
+		L_4 = List_1_Contains_m6EA67BFD7C3CBD0271186F0ED158DB1938C80777(L_2, L_3, List_1_Contains_m6EA67BFD7C3CBD0271186F0ED158DB1938C80777_RuntimeMethod_var);
+		if (!L_4)
+		{
+			goto IL_0017;
+		}
+	}
+
+IL_0016:
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1089>
+		return;
+	}
+
+IL_0017:
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1090>
+		InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD* L_5 = __this->___m_Wrapper;
+		NullCheck(L_5);
+		List_1_t726BCA8E2CE69931893FD019F21D4CDE55BF7AF1* L_6 = L_5->___m_PlayerActionsCallbackInterfaces;
+		RuntimeObject* L_7 = ___0_instance;
+		NullCheck(L_6);
+		List_1_Add_m1F1E68793013B4E0971364E88FFA504222F6C066_inline(L_6, L_7, List_1_Add_m1F1E68793013B4E0971364E88FFA504222F6C066_RuntimeMethod_var);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1091>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_8;
+		L_8 = PlayerActions_get_Move_mEC5AE75FE5950F812841E8A10E21ECF1D7693D99(__this, NULL);
+		RuntimeObject* L_9 = ___0_instance;
+		RuntimeObject* L_10 = L_9;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_11 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_11, L_10, (intptr_t)((void*)GetInterfaceMethodInfo(L_10, 0, IPlayerActions_t61460CE11D6A4722EC02812DA25783B426E440BF_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_8);
+		InputAction_add_started_m850C46EBBEEFB3F9760AA83BFD6ECA00850657E5(L_8, L_11, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1092>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_12;
+		L_12 = PlayerActions_get_Move_mEC5AE75FE5950F812841E8A10E21ECF1D7693D99(__this, NULL);
+		RuntimeObject* L_13 = ___0_instance;
+		RuntimeObject* L_14 = L_13;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_15 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_15, L_14, (intptr_t)((void*)GetInterfaceMethodInfo(L_14, 0, IPlayerActions_t61460CE11D6A4722EC02812DA25783B426E440BF_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_12);
+		InputAction_add_performed_m0337FFA16EBEF7AE365C3B558CFDFF7BB9747B54(L_12, L_15, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1093>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_16;
+		L_16 = PlayerActions_get_Move_mEC5AE75FE5950F812841E8A10E21ECF1D7693D99(__this, NULL);
+		RuntimeObject* L_17 = ___0_instance;
+		RuntimeObject* L_18 = L_17;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_19 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_19, L_18, (intptr_t)((void*)GetInterfaceMethodInfo(L_18, 0, IPlayerActions_t61460CE11D6A4722EC02812DA25783B426E440BF_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_16);
+		InputAction_add_canceled_m69EC253E21CC314BFB350A86E294D0651F5ECA77(L_16, L_19, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1094>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_20;
+		L_20 = PlayerActions_get_Look_m1A7BE7BAF257848AFEA5293C9168248930B0EC7D(__this, NULL);
+		RuntimeObject* L_21 = ___0_instance;
+		RuntimeObject* L_22 = L_21;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_23 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_23, L_22, (intptr_t)((void*)GetInterfaceMethodInfo(L_22, 1, IPlayerActions_t61460CE11D6A4722EC02812DA25783B426E440BF_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_20);
+		InputAction_add_started_m850C46EBBEEFB3F9760AA83BFD6ECA00850657E5(L_20, L_23, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1095>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_24;
+		L_24 = PlayerActions_get_Look_m1A7BE7BAF257848AFEA5293C9168248930B0EC7D(__this, NULL);
+		RuntimeObject* L_25 = ___0_instance;
+		RuntimeObject* L_26 = L_25;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_27 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_27, L_26, (intptr_t)((void*)GetInterfaceMethodInfo(L_26, 1, IPlayerActions_t61460CE11D6A4722EC02812DA25783B426E440BF_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_24);
+		InputAction_add_performed_m0337FFA16EBEF7AE365C3B558CFDFF7BB9747B54(L_24, L_27, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1096>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_28;
+		L_28 = PlayerActions_get_Look_m1A7BE7BAF257848AFEA5293C9168248930B0EC7D(__this, NULL);
+		RuntimeObject* L_29 = ___0_instance;
+		RuntimeObject* L_30 = L_29;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_31 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_31, L_30, (intptr_t)((void*)GetInterfaceMethodInfo(L_30, 1, IPlayerActions_t61460CE11D6A4722EC02812DA25783B426E440BF_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_28);
+		InputAction_add_canceled_m69EC253E21CC314BFB350A86E294D0651F5ECA77(L_28, L_31, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1097>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_32;
+		L_32 = PlayerActions_get_Jump_mEE8B1A561604033583ED2E2656926ABFD32177F7(__this, NULL);
+		RuntimeObject* L_33 = ___0_instance;
+		RuntimeObject* L_34 = L_33;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_35 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_35, L_34, (intptr_t)((void*)GetInterfaceMethodInfo(L_34, 2, IPlayerActions_t61460CE11D6A4722EC02812DA25783B426E440BF_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_32);
+		InputAction_add_started_m850C46EBBEEFB3F9760AA83BFD6ECA00850657E5(L_32, L_35, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1098>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_36;
+		L_36 = PlayerActions_get_Jump_mEE8B1A561604033583ED2E2656926ABFD32177F7(__this, NULL);
+		RuntimeObject* L_37 = ___0_instance;
+		RuntimeObject* L_38 = L_37;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_39 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_39, L_38, (intptr_t)((void*)GetInterfaceMethodInfo(L_38, 2, IPlayerActions_t61460CE11D6A4722EC02812DA25783B426E440BF_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_36);
+		InputAction_add_performed_m0337FFA16EBEF7AE365C3B558CFDFF7BB9747B54(L_36, L_39, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1099>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_40;
+		L_40 = PlayerActions_get_Jump_mEE8B1A561604033583ED2E2656926ABFD32177F7(__this, NULL);
+		RuntimeObject* L_41 = ___0_instance;
+		RuntimeObject* L_42 = L_41;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_43 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_43, L_42, (intptr_t)((void*)GetInterfaceMethodInfo(L_42, 2, IPlayerActions_t61460CE11D6A4722EC02812DA25783B426E440BF_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_40);
+		InputAction_add_canceled_m69EC253E21CC314BFB350A86E294D0651F5ECA77(L_40, L_43, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1100>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_44;
+		L_44 = PlayerActions_get_Sprint_mF8F8CE6BBB97783D9FCDFC92DBA13FE2B4ED9B62(__this, NULL);
+		RuntimeObject* L_45 = ___0_instance;
+		RuntimeObject* L_46 = L_45;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_47 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_47, L_46, (intptr_t)((void*)GetInterfaceMethodInfo(L_46, 3, IPlayerActions_t61460CE11D6A4722EC02812DA25783B426E440BF_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_44);
+		InputAction_add_started_m850C46EBBEEFB3F9760AA83BFD6ECA00850657E5(L_44, L_47, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1101>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_48;
+		L_48 = PlayerActions_get_Sprint_mF8F8CE6BBB97783D9FCDFC92DBA13FE2B4ED9B62(__this, NULL);
+		RuntimeObject* L_49 = ___0_instance;
+		RuntimeObject* L_50 = L_49;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_51 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_51, L_50, (intptr_t)((void*)GetInterfaceMethodInfo(L_50, 3, IPlayerActions_t61460CE11D6A4722EC02812DA25783B426E440BF_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_48);
+		InputAction_add_performed_m0337FFA16EBEF7AE365C3B558CFDFF7BB9747B54(L_48, L_51, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1102>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_52;
+		L_52 = PlayerActions_get_Sprint_mF8F8CE6BBB97783D9FCDFC92DBA13FE2B4ED9B62(__this, NULL);
+		RuntimeObject* L_53 = ___0_instance;
+		RuntimeObject* L_54 = L_53;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_55 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_55, L_54, (intptr_t)((void*)GetInterfaceMethodInfo(L_54, 3, IPlayerActions_t61460CE11D6A4722EC02812DA25783B426E440BF_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_52);
+		InputAction_add_canceled_m69EC253E21CC314BFB350A86E294D0651F5ECA77(L_52, L_55, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1103>
+		return;
+	}
+}
+IL2CPP_EXTERN_C  void PlayerActions_AddCallbacks_m104E48F0C90941B24F43753319713566820DD9E7_AdjustorThunk (RuntimeObject* __this, RuntimeObject* ___0_instance, const RuntimeMethod* method)
+{
+	PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B* _thisAdjusted;
+	int32_t _offset = 1;
+	_thisAdjusted = reinterpret_cast<PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B*>(__this + _offset);
+	PlayerActions_AddCallbacks_m104E48F0C90941B24F43753319713566820DD9E7(_thisAdjusted, ___0_instance, method);
+}
+// Method Definition Index: 88398
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PlayerActions_UnregisterCallbacks_mC10CBC55041C97576BE62201FDB46A5480C44F60 (PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B* __this, RuntimeObject* ___0_instance, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&IPlayerActions_t61460CE11D6A4722EC02812DA25783B426E440BF_il2cpp_TypeInfo_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1114>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_0;
+		L_0 = PlayerActions_get_Move_mEC5AE75FE5950F812841E8A10E21ECF1D7693D99(__this, NULL);
+		RuntimeObject* L_1 = ___0_instance;
+		RuntimeObject* L_2 = L_1;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_3 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_3, L_2, (intptr_t)((void*)GetInterfaceMethodInfo(L_2, 0, IPlayerActions_t61460CE11D6A4722EC02812DA25783B426E440BF_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_0);
+		InputAction_remove_started_m0B782C3E7D5EA619502E7079E1271108A3183D68(L_0, L_3, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1115>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_4;
+		L_4 = PlayerActions_get_Move_mEC5AE75FE5950F812841E8A10E21ECF1D7693D99(__this, NULL);
+		RuntimeObject* L_5 = ___0_instance;
+		RuntimeObject* L_6 = L_5;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_7 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_7, L_6, (intptr_t)((void*)GetInterfaceMethodInfo(L_6, 0, IPlayerActions_t61460CE11D6A4722EC02812DA25783B426E440BF_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_4);
+		InputAction_remove_performed_m1BE84CED38F11F17C825FA782B35C92D708E6E44(L_4, L_7, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1116>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_8;
+		L_8 = PlayerActions_get_Move_mEC5AE75FE5950F812841E8A10E21ECF1D7693D99(__this, NULL);
+		RuntimeObject* L_9 = ___0_instance;
+		RuntimeObject* L_10 = L_9;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_11 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_11, L_10, (intptr_t)((void*)GetInterfaceMethodInfo(L_10, 0, IPlayerActions_t61460CE11D6A4722EC02812DA25783B426E440BF_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_8);
+		InputAction_remove_canceled_m7CF8D377C61DB1290E153C56312A7C075544AF7F(L_8, L_11, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1117>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_12;
+		L_12 = PlayerActions_get_Look_m1A7BE7BAF257848AFEA5293C9168248930B0EC7D(__this, NULL);
+		RuntimeObject* L_13 = ___0_instance;
+		RuntimeObject* L_14 = L_13;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_15 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_15, L_14, (intptr_t)((void*)GetInterfaceMethodInfo(L_14, 1, IPlayerActions_t61460CE11D6A4722EC02812DA25783B426E440BF_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_12);
+		InputAction_remove_started_m0B782C3E7D5EA619502E7079E1271108A3183D68(L_12, L_15, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1118>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_16;
+		L_16 = PlayerActions_get_Look_m1A7BE7BAF257848AFEA5293C9168248930B0EC7D(__this, NULL);
+		RuntimeObject* L_17 = ___0_instance;
+		RuntimeObject* L_18 = L_17;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_19 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_19, L_18, (intptr_t)((void*)GetInterfaceMethodInfo(L_18, 1, IPlayerActions_t61460CE11D6A4722EC02812DA25783B426E440BF_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_16);
+		InputAction_remove_performed_m1BE84CED38F11F17C825FA782B35C92D708E6E44(L_16, L_19, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1119>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_20;
+		L_20 = PlayerActions_get_Look_m1A7BE7BAF257848AFEA5293C9168248930B0EC7D(__this, NULL);
+		RuntimeObject* L_21 = ___0_instance;
+		RuntimeObject* L_22 = L_21;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_23 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_23, L_22, (intptr_t)((void*)GetInterfaceMethodInfo(L_22, 1, IPlayerActions_t61460CE11D6A4722EC02812DA25783B426E440BF_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_20);
+		InputAction_remove_canceled_m7CF8D377C61DB1290E153C56312A7C075544AF7F(L_20, L_23, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1120>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_24;
+		L_24 = PlayerActions_get_Jump_mEE8B1A561604033583ED2E2656926ABFD32177F7(__this, NULL);
+		RuntimeObject* L_25 = ___0_instance;
+		RuntimeObject* L_26 = L_25;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_27 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_27, L_26, (intptr_t)((void*)GetInterfaceMethodInfo(L_26, 2, IPlayerActions_t61460CE11D6A4722EC02812DA25783B426E440BF_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_24);
+		InputAction_remove_started_m0B782C3E7D5EA619502E7079E1271108A3183D68(L_24, L_27, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1121>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_28;
+		L_28 = PlayerActions_get_Jump_mEE8B1A561604033583ED2E2656926ABFD32177F7(__this, NULL);
+		RuntimeObject* L_29 = ___0_instance;
+		RuntimeObject* L_30 = L_29;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_31 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_31, L_30, (intptr_t)((void*)GetInterfaceMethodInfo(L_30, 2, IPlayerActions_t61460CE11D6A4722EC02812DA25783B426E440BF_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_28);
+		InputAction_remove_performed_m1BE84CED38F11F17C825FA782B35C92D708E6E44(L_28, L_31, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1122>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_32;
+		L_32 = PlayerActions_get_Jump_mEE8B1A561604033583ED2E2656926ABFD32177F7(__this, NULL);
+		RuntimeObject* L_33 = ___0_instance;
+		RuntimeObject* L_34 = L_33;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_35 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_35, L_34, (intptr_t)((void*)GetInterfaceMethodInfo(L_34, 2, IPlayerActions_t61460CE11D6A4722EC02812DA25783B426E440BF_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_32);
+		InputAction_remove_canceled_m7CF8D377C61DB1290E153C56312A7C075544AF7F(L_32, L_35, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1123>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_36;
+		L_36 = PlayerActions_get_Sprint_mF8F8CE6BBB97783D9FCDFC92DBA13FE2B4ED9B62(__this, NULL);
+		RuntimeObject* L_37 = ___0_instance;
+		RuntimeObject* L_38 = L_37;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_39 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_39, L_38, (intptr_t)((void*)GetInterfaceMethodInfo(L_38, 3, IPlayerActions_t61460CE11D6A4722EC02812DA25783B426E440BF_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_36);
+		InputAction_remove_started_m0B782C3E7D5EA619502E7079E1271108A3183D68(L_36, L_39, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1124>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_40;
+		L_40 = PlayerActions_get_Sprint_mF8F8CE6BBB97783D9FCDFC92DBA13FE2B4ED9B62(__this, NULL);
+		RuntimeObject* L_41 = ___0_instance;
+		RuntimeObject* L_42 = L_41;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_43 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_43, L_42, (intptr_t)((void*)GetInterfaceMethodInfo(L_42, 3, IPlayerActions_t61460CE11D6A4722EC02812DA25783B426E440BF_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_40);
+		InputAction_remove_performed_m1BE84CED38F11F17C825FA782B35C92D708E6E44(L_40, L_43, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1125>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_44;
+		L_44 = PlayerActions_get_Sprint_mF8F8CE6BBB97783D9FCDFC92DBA13FE2B4ED9B62(__this, NULL);
+		RuntimeObject* L_45 = ___0_instance;
+		RuntimeObject* L_46 = L_45;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_47 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_47, L_46, (intptr_t)((void*)GetInterfaceMethodInfo(L_46, 3, IPlayerActions_t61460CE11D6A4722EC02812DA25783B426E440BF_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_44);
+		InputAction_remove_canceled_m7CF8D377C61DB1290E153C56312A7C075544AF7F(L_44, L_47, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1126>
+		return;
+	}
+}
+IL2CPP_EXTERN_C  void PlayerActions_UnregisterCallbacks_mC10CBC55041C97576BE62201FDB46A5480C44F60_AdjustorThunk (RuntimeObject* __this, RuntimeObject* ___0_instance, const RuntimeMethod* method)
+{
+	PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B* _thisAdjusted;
+	int32_t _offset = 1;
+	_thisAdjusted = reinterpret_cast<PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B*>(__this + _offset);
+	PlayerActions_UnregisterCallbacks_mC10CBC55041C97576BE62201FDB46A5480C44F60(_thisAdjusted, ___0_instance, method);
+}
+// Method Definition Index: 88399
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PlayerActions_RemoveCallbacks_m7240DEA6D644B18ECE20F874B9DA5AC4DD5CDC04 (PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B* __this, RuntimeObject* ___0_instance, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&List_1_Remove_m0EAD44CEAB01239582EAFF36D1256643ACDA1072_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1134>
+		InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD* L_0 = __this->___m_Wrapper;
+		NullCheck(L_0);
+		List_1_t726BCA8E2CE69931893FD019F21D4CDE55BF7AF1* L_1 = L_0->___m_PlayerActionsCallbackInterfaces;
+		RuntimeObject* L_2 = ___0_instance;
+		NullCheck(L_1);
+		bool L_3;
+		L_3 = List_1_Remove_m0EAD44CEAB01239582EAFF36D1256643ACDA1072(L_1, L_2, List_1_Remove_m0EAD44CEAB01239582EAFF36D1256643ACDA1072_RuntimeMethod_var);
+		if (!L_3)
+		{
+			goto IL_001a;
+		}
+	}
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1135>
+		RuntimeObject* L_4 = ___0_instance;
+		PlayerActions_UnregisterCallbacks_mC10CBC55041C97576BE62201FDB46A5480C44F60(__this, L_4, NULL);
+	}
+
+IL_001a:
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1136>
+		return;
+	}
+}
+IL2CPP_EXTERN_C  void PlayerActions_RemoveCallbacks_m7240DEA6D644B18ECE20F874B9DA5AC4DD5CDC04_AdjustorThunk (RuntimeObject* __this, RuntimeObject* ___0_instance, const RuntimeMethod* method)
+{
+	PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B* _thisAdjusted;
+	int32_t _offset = 1;
+	_thisAdjusted = reinterpret_cast<PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B*>(__this + _offset);
+	PlayerActions_RemoveCallbacks_m7240DEA6D644B18ECE20F874B9DA5AC4DD5CDC04(_thisAdjusted, ___0_instance, method);
+}
+// Method Definition Index: 88400
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PlayerActions_SetCallbacks_mCFB08C511A7D183C32B188284A2EE5912779CAD0 (PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B* __this, RuntimeObject* ___0_instance, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Enumerator_Dispose_mF09C24C996B3BA69906D53F8012B9517F44EDB75_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Enumerator_MoveNext_m97EBAA546853B431FB7E807A80ED0524859E4E60_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Enumerator_get_Current_mA4CB2EBD69784E36236302D57FC05F6B2C3D55E5_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&List_1_Clear_mF0CA8E57651C55ED07524DDABF14320A43BA53EE_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&List_1_GetEnumerator_mCB25B191C4C40371F8524AE271994C7217580FFF_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	Enumerator_t27BAD2EA8D188E3635D9EF05F4B9FA644AD53728 V_0;
+	memset((&V_0), 0, sizeof(V_0));
+	RuntimeObject* V_1 = NULL;
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1149>
+		InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD* L_0 = __this->___m_Wrapper;
+		NullCheck(L_0);
+		List_1_t726BCA8E2CE69931893FD019F21D4CDE55BF7AF1* L_1 = L_0->___m_PlayerActionsCallbackInterfaces;
+		NullCheck(L_1);
+		Enumerator_t27BAD2EA8D188E3635D9EF05F4B9FA644AD53728 L_2;
+		L_2 = List_1_GetEnumerator_mCB25B191C4C40371F8524AE271994C7217580FFF(L_1, List_1_GetEnumerator_mCB25B191C4C40371F8524AE271994C7217580FFF_RuntimeMethod_var);
+		V_0 = L_2;
+	}
+	{
+		auto __finallyBlock = il2cpp::utils::Finally([&]
+		{
+
+FINALLY_002d:
+			{
+				Enumerator_Dispose_mF09C24C996B3BA69906D53F8012B9517F44EDB75((&V_0), Enumerator_Dispose_mF09C24C996B3BA69906D53F8012B9517F44EDB75_RuntimeMethod_var);
+				return;
+			}
+		});
+		try
+		{
+			{
+				goto IL_0022_1;
+			}
+
+IL_0013_1:
+			{
+				//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1149>
+				RuntimeObject* L_3;
+				L_3 = Enumerator_get_Current_mA4CB2EBD69784E36236302D57FC05F6B2C3D55E5_inline((&V_0), Enumerator_get_Current_mA4CB2EBD69784E36236302D57FC05F6B2C3D55E5_RuntimeMethod_var);
+				V_1 = L_3;
+				//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1150>
+				RuntimeObject* L_4 = V_1;
+				PlayerActions_UnregisterCallbacks_mC10CBC55041C97576BE62201FDB46A5480C44F60(__this, L_4, NULL);
+			}
+
+IL_0022_1:
+			{
+				//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1149>
+				bool L_5;
+				L_5 = Enumerator_MoveNext_m97EBAA546853B431FB7E807A80ED0524859E4E60((&V_0), Enumerator_MoveNext_m97EBAA546853B431FB7E807A80ED0524859E4E60_RuntimeMethod_var);
+				if (L_5)
+				{
+					goto IL_0013_1;
+				}
+			}
+			{
+				goto IL_003b;
+			}
+		}
+		catch(Il2CppExceptionWrapper& e)
+		{
+			__finallyBlock.StoreException(e.ex);
+		}
+	}
+
+IL_003b:
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1151>
+		InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD* L_6 = __this->___m_Wrapper;
+		NullCheck(L_6);
+		List_1_t726BCA8E2CE69931893FD019F21D4CDE55BF7AF1* L_7 = L_6->___m_PlayerActionsCallbackInterfaces;
+		NullCheck(L_7);
+		List_1_Clear_mF0CA8E57651C55ED07524DDABF14320A43BA53EE_inline(L_7, List_1_Clear_mF0CA8E57651C55ED07524DDABF14320A43BA53EE_RuntimeMethod_var);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1152>
+		RuntimeObject* L_8 = ___0_instance;
+		PlayerActions_AddCallbacks_m104E48F0C90941B24F43753319713566820DD9E7(__this, L_8, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1153>
+		return;
+	}
+}
+IL2CPP_EXTERN_C  void PlayerActions_SetCallbacks_mCFB08C511A7D183C32B188284A2EE5912779CAD0_AdjustorThunk (RuntimeObject* __this, RuntimeObject* ___0_instance, const RuntimeMethod* method)
+{
+	PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B* _thisAdjusted;
+	int32_t _offset = 1;
+	_thisAdjusted = reinterpret_cast<PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B*>(__this + _offset);
+	PlayerActions_SetCallbacks_mCFB08C511A7D183C32B188284A2EE5912779CAD0(_thisAdjusted, ___0_instance, method);
+}
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+IL2CPP_EXTERN_C void UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F_marshal_pinvoke(const UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F& unmarshaled, UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F_marshaled_pinvoke& marshaled)
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F_0_0_0_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F____m_Wrapper_FieldInfo_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	Exception_t* ___m_WrapperException = il2cpp_codegen_get_marshal_directive_exception("Cannot marshal field '%s' of type '%s': Reference type field marshaling is not supported.", UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F____m_Wrapper_FieldInfo_var, UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F_0_0_0_var);
+	IL2CPP_RAISE_MANAGED_EXCEPTION(___m_WrapperException, NULL);
+}
+IL2CPP_EXTERN_C void UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F_marshal_pinvoke_back(const UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F_marshaled_pinvoke& marshaled, UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F& unmarshaled)
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F_0_0_0_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F____m_Wrapper_FieldInfo_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	Exception_t* ___m_WrapperException = il2cpp_codegen_get_marshal_directive_exception("Cannot marshal field '%s' of type '%s': Reference type field marshaling is not supported.", UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F____m_Wrapper_FieldInfo_var, UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F_0_0_0_var);
+	IL2CPP_RAISE_MANAGED_EXCEPTION(___m_WrapperException, NULL);
+}
+IL2CPP_EXTERN_C void UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F_marshal_pinvoke_cleanup(UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F_marshaled_pinvoke& marshaled)
+{
+}
+IL2CPP_EXTERN_C void UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F_marshal_com(const UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F& unmarshaled, UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F_marshaled_com& marshaled)
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F_0_0_0_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F____m_Wrapper_FieldInfo_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	Exception_t* ___m_WrapperException = il2cpp_codegen_get_marshal_directive_exception("Cannot marshal field '%s' of type '%s': Reference type field marshaling is not supported.", UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F____m_Wrapper_FieldInfo_var, UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F_0_0_0_var);
+	IL2CPP_RAISE_MANAGED_EXCEPTION(___m_WrapperException, NULL);
+}
+IL2CPP_EXTERN_C void UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F_marshal_com_back(const UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F_marshaled_com& marshaled, UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F& unmarshaled)
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F_0_0_0_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F____m_Wrapper_FieldInfo_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	Exception_t* ___m_WrapperException = il2cpp_codegen_get_marshal_directive_exception("Cannot marshal field '%s' of type '%s': Reference type field marshaling is not supported.", UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F____m_Wrapper_FieldInfo_var, UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F_0_0_0_var);
+	IL2CPP_RAISE_MANAGED_EXCEPTION(___m_WrapperException, NULL);
+}
+IL2CPP_EXTERN_C void UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F_marshal_com_cleanup(UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F_marshaled_com& marshaled)
+{
+}
+// Method Definition Index: 88401
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UIActions__ctor_mFC7C5BAD0F255713B9ECFC1FAC09F27A3F0A875E (UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F* __this, InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD* ___0_wrapper, const RuntimeMethod* method) 
+{
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1183>
+		InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD* L_0 = ___0_wrapper;
+		__this->___m_Wrapper = L_0;
+		Il2CppCodeGenWriteBarrier((void**)(&__this->___m_Wrapper), (void*)L_0);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1183>
+		return;
+	}
+}
+IL2CPP_EXTERN_C  void UIActions__ctor_mFC7C5BAD0F255713B9ECFC1FAC09F27A3F0A875E_AdjustorThunk (RuntimeObject* __this, InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD* ___0_wrapper, const RuntimeMethod* method)
+{
+	UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F* _thisAdjusted;
+	int32_t _offset = 1;
+	_thisAdjusted = reinterpret_cast<UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F*>(__this + _offset);
+	UIActions__ctor_mFC7C5BAD0F255713B9ECFC1FAC09F27A3F0A875E_inline(_thisAdjusted, ___0_wrapper, method);
+}
+// Method Definition Index: 88402
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* UIActions_get_Navigate_mAC84C316963826FBFDC027E8BE224B9E5A4ECE9A (UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F* __this, const RuntimeMethod* method) 
+{
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1187>
+		InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD* L_0 = __this->___m_Wrapper;
+		NullCheck(L_0);
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_1 = L_0->___m_UI_Navigate;
+		return L_1;
+	}
+}
+IL2CPP_EXTERN_C  InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* UIActions_get_Navigate_mAC84C316963826FBFDC027E8BE224B9E5A4ECE9A_AdjustorThunk (RuntimeObject* __this, const RuntimeMethod* method)
+{
+	UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F* _thisAdjusted;
+	int32_t _offset = 1;
+	_thisAdjusted = reinterpret_cast<UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F*>(__this + _offset);
+	InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* _returnValue;
+	_returnValue = UIActions_get_Navigate_mAC84C316963826FBFDC027E8BE224B9E5A4ECE9A(_thisAdjusted, method);
+	return _returnValue;
+}
+// Method Definition Index: 88403
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* UIActions_get_Submit_m4234C11BA109D6257E087936F4E0E35E80B7FB16 (UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F* __this, const RuntimeMethod* method) 
+{
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1191>
+		InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD* L_0 = __this->___m_Wrapper;
+		NullCheck(L_0);
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_1 = L_0->___m_UI_Submit;
+		return L_1;
+	}
+}
+IL2CPP_EXTERN_C  InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* UIActions_get_Submit_m4234C11BA109D6257E087936F4E0E35E80B7FB16_AdjustorThunk (RuntimeObject* __this, const RuntimeMethod* method)
+{
+	UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F* _thisAdjusted;
+	int32_t _offset = 1;
+	_thisAdjusted = reinterpret_cast<UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F*>(__this + _offset);
+	InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* _returnValue;
+	_returnValue = UIActions_get_Submit_m4234C11BA109D6257E087936F4E0E35E80B7FB16(_thisAdjusted, method);
+	return _returnValue;
+}
+// Method Definition Index: 88404
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* UIActions_get_Cancel_m91E2F32FE0097683D0AC2974F256D0F77736E1FC (UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F* __this, const RuntimeMethod* method) 
+{
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1195>
+		InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD* L_0 = __this->___m_Wrapper;
+		NullCheck(L_0);
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_1 = L_0->___m_UI_Cancel;
+		return L_1;
+	}
+}
+IL2CPP_EXTERN_C  InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* UIActions_get_Cancel_m91E2F32FE0097683D0AC2974F256D0F77736E1FC_AdjustorThunk (RuntimeObject* __this, const RuntimeMethod* method)
+{
+	UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F* _thisAdjusted;
+	int32_t _offset = 1;
+	_thisAdjusted = reinterpret_cast<UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F*>(__this + _offset);
+	InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* _returnValue;
+	_returnValue = UIActions_get_Cancel_m91E2F32FE0097683D0AC2974F256D0F77736E1FC(_thisAdjusted, method);
+	return _returnValue;
+}
+// Method Definition Index: 88405
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* UIActions_get_Point_mB533F14B75C25972F0DA5D3969A2602A708E77B9 (UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F* __this, const RuntimeMethod* method) 
+{
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1199>
+		InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD* L_0 = __this->___m_Wrapper;
+		NullCheck(L_0);
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_1 = L_0->___m_UI_Point;
+		return L_1;
+	}
+}
+IL2CPP_EXTERN_C  InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* UIActions_get_Point_mB533F14B75C25972F0DA5D3969A2602A708E77B9_AdjustorThunk (RuntimeObject* __this, const RuntimeMethod* method)
+{
+	UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F* _thisAdjusted;
+	int32_t _offset = 1;
+	_thisAdjusted = reinterpret_cast<UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F*>(__this + _offset);
+	InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* _returnValue;
+	_returnValue = UIActions_get_Point_mB533F14B75C25972F0DA5D3969A2602A708E77B9(_thisAdjusted, method);
+	return _returnValue;
+}
+// Method Definition Index: 88406
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* UIActions_get_Click_mC276E19D2FDDE65F7AD41FAF3FD8065077625495 (UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F* __this, const RuntimeMethod* method) 
+{
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1203>
+		InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD* L_0 = __this->___m_Wrapper;
+		NullCheck(L_0);
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_1 = L_0->___m_UI_Click;
+		return L_1;
+	}
+}
+IL2CPP_EXTERN_C  InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* UIActions_get_Click_mC276E19D2FDDE65F7AD41FAF3FD8065077625495_AdjustorThunk (RuntimeObject* __this, const RuntimeMethod* method)
+{
+	UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F* _thisAdjusted;
+	int32_t _offset = 1;
+	_thisAdjusted = reinterpret_cast<UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F*>(__this + _offset);
+	InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* _returnValue;
+	_returnValue = UIActions_get_Click_mC276E19D2FDDE65F7AD41FAF3FD8065077625495(_thisAdjusted, method);
+	return _returnValue;
+}
+// Method Definition Index: 88407
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* UIActions_get_RightClick_m4535A137506D358DD0850BBCE373B0664D611441 (UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F* __this, const RuntimeMethod* method) 
+{
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1207>
+		InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD* L_0 = __this->___m_Wrapper;
+		NullCheck(L_0);
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_1 = L_0->___m_UI_RightClick;
+		return L_1;
+	}
+}
+IL2CPP_EXTERN_C  InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* UIActions_get_RightClick_m4535A137506D358DD0850BBCE373B0664D611441_AdjustorThunk (RuntimeObject* __this, const RuntimeMethod* method)
+{
+	UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F* _thisAdjusted;
+	int32_t _offset = 1;
+	_thisAdjusted = reinterpret_cast<UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F*>(__this + _offset);
+	InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* _returnValue;
+	_returnValue = UIActions_get_RightClick_m4535A137506D358DD0850BBCE373B0664D611441(_thisAdjusted, method);
+	return _returnValue;
+}
+// Method Definition Index: 88408
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* UIActions_get_MiddleClick_mF2B2BF29AC024E6CCB36905400315B7FA6B9C618 (UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F* __this, const RuntimeMethod* method) 
+{
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1211>
+		InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD* L_0 = __this->___m_Wrapper;
+		NullCheck(L_0);
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_1 = L_0->___m_UI_MiddleClick;
+		return L_1;
+	}
+}
+IL2CPP_EXTERN_C  InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* UIActions_get_MiddleClick_mF2B2BF29AC024E6CCB36905400315B7FA6B9C618_AdjustorThunk (RuntimeObject* __this, const RuntimeMethod* method)
+{
+	UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F* _thisAdjusted;
+	int32_t _offset = 1;
+	_thisAdjusted = reinterpret_cast<UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F*>(__this + _offset);
+	InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* _returnValue;
+	_returnValue = UIActions_get_MiddleClick_mF2B2BF29AC024E6CCB36905400315B7FA6B9C618(_thisAdjusted, method);
+	return _returnValue;
+}
+// Method Definition Index: 88409
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* UIActions_get_ScrollWheel_mAA9B17A295A98F8665A8312DF28BC452F92569E3 (UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F* __this, const RuntimeMethod* method) 
+{
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1215>
+		InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD* L_0 = __this->___m_Wrapper;
+		NullCheck(L_0);
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_1 = L_0->___m_UI_ScrollWheel;
+		return L_1;
+	}
+}
+IL2CPP_EXTERN_C  InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* UIActions_get_ScrollWheel_mAA9B17A295A98F8665A8312DF28BC452F92569E3_AdjustorThunk (RuntimeObject* __this, const RuntimeMethod* method)
+{
+	UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F* _thisAdjusted;
+	int32_t _offset = 1;
+	_thisAdjusted = reinterpret_cast<UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F*>(__this + _offset);
+	InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* _returnValue;
+	_returnValue = UIActions_get_ScrollWheel_mAA9B17A295A98F8665A8312DF28BC452F92569E3(_thisAdjusted, method);
+	return _returnValue;
+}
+// Method Definition Index: 88410
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* UIActions_get_TrackedDevicePosition_m952E57A42D0682DFCC660EB371818AF08A6EF5AD (UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F* __this, const RuntimeMethod* method) 
+{
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1219>
+		InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD* L_0 = __this->___m_Wrapper;
+		NullCheck(L_0);
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_1 = L_0->___m_UI_TrackedDevicePosition;
+		return L_1;
+	}
+}
+IL2CPP_EXTERN_C  InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* UIActions_get_TrackedDevicePosition_m952E57A42D0682DFCC660EB371818AF08A6EF5AD_AdjustorThunk (RuntimeObject* __this, const RuntimeMethod* method)
+{
+	UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F* _thisAdjusted;
+	int32_t _offset = 1;
+	_thisAdjusted = reinterpret_cast<UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F*>(__this + _offset);
+	InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* _returnValue;
+	_returnValue = UIActions_get_TrackedDevicePosition_m952E57A42D0682DFCC660EB371818AF08A6EF5AD(_thisAdjusted, method);
+	return _returnValue;
+}
+// Method Definition Index: 88411
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* UIActions_get_TrackedDeviceOrientation_m0C79BFB9C9670B916DB68AB4039FE90D46325156 (UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F* __this, const RuntimeMethod* method) 
+{
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1223>
+		InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD* L_0 = __this->___m_Wrapper;
+		NullCheck(L_0);
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_1 = L_0->___m_UI_TrackedDeviceOrientation;
+		return L_1;
+	}
+}
+IL2CPP_EXTERN_C  InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* UIActions_get_TrackedDeviceOrientation_m0C79BFB9C9670B916DB68AB4039FE90D46325156_AdjustorThunk (RuntimeObject* __this, const RuntimeMethod* method)
+{
+	UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F* _thisAdjusted;
+	int32_t _offset = 1;
+	_thisAdjusted = reinterpret_cast<UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F*>(__this + _offset);
+	InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* _returnValue;
+	_returnValue = UIActions_get_TrackedDeviceOrientation_m0C79BFB9C9670B916DB68AB4039FE90D46325156(_thisAdjusted, method);
+	return _returnValue;
+}
+// Method Definition Index: 88412
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR InputActionMap_tFCE82E0E014319D4DED9F8962B06655DD0420A09* UIActions_Get_m4751998C33837D9F77599FF9AF97584C80D1843F (UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F* __this, const RuntimeMethod* method) 
+{
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1227>
+		InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD* L_0 = __this->___m_Wrapper;
+		NullCheck(L_0);
+		InputActionMap_tFCE82E0E014319D4DED9F8962B06655DD0420A09* L_1 = L_0->___m_UI;
+		return L_1;
+	}
+}
+IL2CPP_EXTERN_C  InputActionMap_tFCE82E0E014319D4DED9F8962B06655DD0420A09* UIActions_Get_m4751998C33837D9F77599FF9AF97584C80D1843F_AdjustorThunk (RuntimeObject* __this, const RuntimeMethod* method)
+{
+	UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F* _thisAdjusted;
+	int32_t _offset = 1;
+	_thisAdjusted = reinterpret_cast<UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F*>(__this + _offset);
+	InputActionMap_tFCE82E0E014319D4DED9F8962B06655DD0420A09* _returnValue;
+	_returnValue = UIActions_Get_m4751998C33837D9F77599FF9AF97584C80D1843F(_thisAdjusted, method);
+	return _returnValue;
+}
+// Method Definition Index: 88413
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UIActions_Enable_mAEAE14ED4706BA6B02CBB83012A2AC12A111BE8E (UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F* __this, const RuntimeMethod* method) 
+{
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1229>
+		InputActionMap_tFCE82E0E014319D4DED9F8962B06655DD0420A09* L_0;
+		L_0 = UIActions_Get_m4751998C33837D9F77599FF9AF97584C80D1843F(__this, NULL);
+		NullCheck(L_0);
+		InputActionMap_Enable_mAB23F0C4179D27C375F9FA335898B02E336CA4F6(L_0, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1229>
+		return;
+	}
+}
+IL2CPP_EXTERN_C  void UIActions_Enable_mAEAE14ED4706BA6B02CBB83012A2AC12A111BE8E_AdjustorThunk (RuntimeObject* __this, const RuntimeMethod* method)
+{
+	UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F* _thisAdjusted;
+	int32_t _offset = 1;
+	_thisAdjusted = reinterpret_cast<UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F*>(__this + _offset);
+	UIActions_Enable_mAEAE14ED4706BA6B02CBB83012A2AC12A111BE8E(_thisAdjusted, method);
+}
+// Method Definition Index: 88414
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UIActions_Disable_m4215BDDD72FA62CEE8A977281C9FF4BAD865E0FF (UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F* __this, const RuntimeMethod* method) 
+{
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1231>
+		InputActionMap_tFCE82E0E014319D4DED9F8962B06655DD0420A09* L_0;
+		L_0 = UIActions_Get_m4751998C33837D9F77599FF9AF97584C80D1843F(__this, NULL);
+		NullCheck(L_0);
+		InputActionMap_Disable_m987468348648610F8B84D4F481592FF37AF5445C(L_0, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1231>
+		return;
+	}
+}
+IL2CPP_EXTERN_C  void UIActions_Disable_m4215BDDD72FA62CEE8A977281C9FF4BAD865E0FF_AdjustorThunk (RuntimeObject* __this, const RuntimeMethod* method)
+{
+	UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F* _thisAdjusted;
+	int32_t _offset = 1;
+	_thisAdjusted = reinterpret_cast<UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F*>(__this + _offset);
+	UIActions_Disable_m4215BDDD72FA62CEE8A977281C9FF4BAD865E0FF(_thisAdjusted, method);
+}
+// Method Definition Index: 88415
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool UIActions_get_enabled_mC7774F279D56D2DF073622CB9F4900D5C8CAA198 (UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F* __this, const RuntimeMethod* method) 
+{
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1233>
+		InputActionMap_tFCE82E0E014319D4DED9F8962B06655DD0420A09* L_0;
+		L_0 = UIActions_Get_m4751998C33837D9F77599FF9AF97584C80D1843F(__this, NULL);
+		NullCheck(L_0);
+		bool L_1;
+		L_1 = InputActionMap_get_enabled_mB89FAA20F1EA1884A28829B3E350822D7456E888(L_0, NULL);
+		return L_1;
+	}
+}
+IL2CPP_EXTERN_C  bool UIActions_get_enabled_mC7774F279D56D2DF073622CB9F4900D5C8CAA198_AdjustorThunk (RuntimeObject* __this, const RuntimeMethod* method)
+{
+	UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F* _thisAdjusted;
+	int32_t _offset = 1;
+	_thisAdjusted = reinterpret_cast<UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F*>(__this + _offset);
+	bool _returnValue;
+	_returnValue = UIActions_get_enabled_mC7774F279D56D2DF073622CB9F4900D5C8CAA198(_thisAdjusted, method);
+	return _returnValue;
+}
+// Method Definition Index: 88416
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR InputActionMap_tFCE82E0E014319D4DED9F8962B06655DD0420A09* UIActions_op_Implicit_m12C9B9B8E5140415C1BED8EC1FF3FCBEF25B3A89 (UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F ___0_set, const RuntimeMethod* method) 
+{
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1237>
+		InputActionMap_tFCE82E0E014319D4DED9F8962B06655DD0420A09* L_0;
+		L_0 = UIActions_Get_m4751998C33837D9F77599FF9AF97584C80D1843F((&___0_set), NULL);
+		return L_0;
+	}
+}
+// Method Definition Index: 88417
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UIActions_AddCallbacks_mEA0B9C2F984166ABC365CEB130F2EF5655D1F137 (UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F* __this, RuntimeObject* ___0_instance, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&IUIActions_t3C08E724C20337D4E2DCC43D5AE7DEFA6AAEDB9E_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&List_1_Add_m0FF84BC5FFDBF63CC037396F0091B0BA784EF1BD_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&List_1_Contains_mC0F5B9212196C1F030DFA8B0DCBDDC8D93D3FB90_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1248>
+		RuntimeObject* L_0 = ___0_instance;
+		if (!L_0)
+		{
+			goto IL_0016;
+		}
+	}
+	{
+		InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD* L_1 = __this->___m_Wrapper;
+		NullCheck(L_1);
+		List_1_t7B4BA466ED2E0B53AA92432404A8E418878C1E6B* L_2 = L_1->___m_UIActionsCallbackInterfaces;
+		RuntimeObject* L_3 = ___0_instance;
+		NullCheck(L_2);
+		bool L_4;
+		L_4 = List_1_Contains_mC0F5B9212196C1F030DFA8B0DCBDDC8D93D3FB90(L_2, L_3, List_1_Contains_mC0F5B9212196C1F030DFA8B0DCBDDC8D93D3FB90_RuntimeMethod_var);
+		if (!L_4)
+		{
+			goto IL_0017;
+		}
+	}
+
+IL_0016:
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1248>
+		return;
+	}
+
+IL_0017:
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1249>
+		InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD* L_5 = __this->___m_Wrapper;
+		NullCheck(L_5);
+		List_1_t7B4BA466ED2E0B53AA92432404A8E418878C1E6B* L_6 = L_5->___m_UIActionsCallbackInterfaces;
+		RuntimeObject* L_7 = ___0_instance;
+		NullCheck(L_6);
+		List_1_Add_m0FF84BC5FFDBF63CC037396F0091B0BA784EF1BD_inline(L_6, L_7, List_1_Add_m0FF84BC5FFDBF63CC037396F0091B0BA784EF1BD_RuntimeMethod_var);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1250>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_8;
+		L_8 = UIActions_get_Navigate_mAC84C316963826FBFDC027E8BE224B9E5A4ECE9A(__this, NULL);
+		RuntimeObject* L_9 = ___0_instance;
+		RuntimeObject* L_10 = L_9;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_11 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_11, L_10, (intptr_t)((void*)GetInterfaceMethodInfo(L_10, 0, IUIActions_t3C08E724C20337D4E2DCC43D5AE7DEFA6AAEDB9E_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_8);
+		InputAction_add_started_m850C46EBBEEFB3F9760AA83BFD6ECA00850657E5(L_8, L_11, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1251>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_12;
+		L_12 = UIActions_get_Navigate_mAC84C316963826FBFDC027E8BE224B9E5A4ECE9A(__this, NULL);
+		RuntimeObject* L_13 = ___0_instance;
+		RuntimeObject* L_14 = L_13;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_15 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_15, L_14, (intptr_t)((void*)GetInterfaceMethodInfo(L_14, 0, IUIActions_t3C08E724C20337D4E2DCC43D5AE7DEFA6AAEDB9E_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_12);
+		InputAction_add_performed_m0337FFA16EBEF7AE365C3B558CFDFF7BB9747B54(L_12, L_15, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1252>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_16;
+		L_16 = UIActions_get_Navigate_mAC84C316963826FBFDC027E8BE224B9E5A4ECE9A(__this, NULL);
+		RuntimeObject* L_17 = ___0_instance;
+		RuntimeObject* L_18 = L_17;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_19 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_19, L_18, (intptr_t)((void*)GetInterfaceMethodInfo(L_18, 0, IUIActions_t3C08E724C20337D4E2DCC43D5AE7DEFA6AAEDB9E_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_16);
+		InputAction_add_canceled_m69EC253E21CC314BFB350A86E294D0651F5ECA77(L_16, L_19, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1253>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_20;
+		L_20 = UIActions_get_Submit_m4234C11BA109D6257E087936F4E0E35E80B7FB16(__this, NULL);
+		RuntimeObject* L_21 = ___0_instance;
+		RuntimeObject* L_22 = L_21;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_23 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_23, L_22, (intptr_t)((void*)GetInterfaceMethodInfo(L_22, 1, IUIActions_t3C08E724C20337D4E2DCC43D5AE7DEFA6AAEDB9E_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_20);
+		InputAction_add_started_m850C46EBBEEFB3F9760AA83BFD6ECA00850657E5(L_20, L_23, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1254>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_24;
+		L_24 = UIActions_get_Submit_m4234C11BA109D6257E087936F4E0E35E80B7FB16(__this, NULL);
+		RuntimeObject* L_25 = ___0_instance;
+		RuntimeObject* L_26 = L_25;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_27 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_27, L_26, (intptr_t)((void*)GetInterfaceMethodInfo(L_26, 1, IUIActions_t3C08E724C20337D4E2DCC43D5AE7DEFA6AAEDB9E_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_24);
+		InputAction_add_performed_m0337FFA16EBEF7AE365C3B558CFDFF7BB9747B54(L_24, L_27, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1255>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_28;
+		L_28 = UIActions_get_Submit_m4234C11BA109D6257E087936F4E0E35E80B7FB16(__this, NULL);
+		RuntimeObject* L_29 = ___0_instance;
+		RuntimeObject* L_30 = L_29;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_31 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_31, L_30, (intptr_t)((void*)GetInterfaceMethodInfo(L_30, 1, IUIActions_t3C08E724C20337D4E2DCC43D5AE7DEFA6AAEDB9E_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_28);
+		InputAction_add_canceled_m69EC253E21CC314BFB350A86E294D0651F5ECA77(L_28, L_31, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1256>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_32;
+		L_32 = UIActions_get_Cancel_m91E2F32FE0097683D0AC2974F256D0F77736E1FC(__this, NULL);
+		RuntimeObject* L_33 = ___0_instance;
+		RuntimeObject* L_34 = L_33;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_35 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_35, L_34, (intptr_t)((void*)GetInterfaceMethodInfo(L_34, 2, IUIActions_t3C08E724C20337D4E2DCC43D5AE7DEFA6AAEDB9E_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_32);
+		InputAction_add_started_m850C46EBBEEFB3F9760AA83BFD6ECA00850657E5(L_32, L_35, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1257>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_36;
+		L_36 = UIActions_get_Cancel_m91E2F32FE0097683D0AC2974F256D0F77736E1FC(__this, NULL);
+		RuntimeObject* L_37 = ___0_instance;
+		RuntimeObject* L_38 = L_37;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_39 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_39, L_38, (intptr_t)((void*)GetInterfaceMethodInfo(L_38, 2, IUIActions_t3C08E724C20337D4E2DCC43D5AE7DEFA6AAEDB9E_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_36);
+		InputAction_add_performed_m0337FFA16EBEF7AE365C3B558CFDFF7BB9747B54(L_36, L_39, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1258>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_40;
+		L_40 = UIActions_get_Cancel_m91E2F32FE0097683D0AC2974F256D0F77736E1FC(__this, NULL);
+		RuntimeObject* L_41 = ___0_instance;
+		RuntimeObject* L_42 = L_41;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_43 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_43, L_42, (intptr_t)((void*)GetInterfaceMethodInfo(L_42, 2, IUIActions_t3C08E724C20337D4E2DCC43D5AE7DEFA6AAEDB9E_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_40);
+		InputAction_add_canceled_m69EC253E21CC314BFB350A86E294D0651F5ECA77(L_40, L_43, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1259>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_44;
+		L_44 = UIActions_get_Point_mB533F14B75C25972F0DA5D3969A2602A708E77B9(__this, NULL);
+		RuntimeObject* L_45 = ___0_instance;
+		RuntimeObject* L_46 = L_45;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_47 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_47, L_46, (intptr_t)((void*)GetInterfaceMethodInfo(L_46, 3, IUIActions_t3C08E724C20337D4E2DCC43D5AE7DEFA6AAEDB9E_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_44);
+		InputAction_add_started_m850C46EBBEEFB3F9760AA83BFD6ECA00850657E5(L_44, L_47, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1260>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_48;
+		L_48 = UIActions_get_Point_mB533F14B75C25972F0DA5D3969A2602A708E77B9(__this, NULL);
+		RuntimeObject* L_49 = ___0_instance;
+		RuntimeObject* L_50 = L_49;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_51 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_51, L_50, (intptr_t)((void*)GetInterfaceMethodInfo(L_50, 3, IUIActions_t3C08E724C20337D4E2DCC43D5AE7DEFA6AAEDB9E_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_48);
+		InputAction_add_performed_m0337FFA16EBEF7AE365C3B558CFDFF7BB9747B54(L_48, L_51, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1261>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_52;
+		L_52 = UIActions_get_Point_mB533F14B75C25972F0DA5D3969A2602A708E77B9(__this, NULL);
+		RuntimeObject* L_53 = ___0_instance;
+		RuntimeObject* L_54 = L_53;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_55 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_55, L_54, (intptr_t)((void*)GetInterfaceMethodInfo(L_54, 3, IUIActions_t3C08E724C20337D4E2DCC43D5AE7DEFA6AAEDB9E_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_52);
+		InputAction_add_canceled_m69EC253E21CC314BFB350A86E294D0651F5ECA77(L_52, L_55, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1262>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_56;
+		L_56 = UIActions_get_Click_mC276E19D2FDDE65F7AD41FAF3FD8065077625495(__this, NULL);
+		RuntimeObject* L_57 = ___0_instance;
+		RuntimeObject* L_58 = L_57;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_59 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_59, L_58, (intptr_t)((void*)GetInterfaceMethodInfo(L_58, 4, IUIActions_t3C08E724C20337D4E2DCC43D5AE7DEFA6AAEDB9E_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_56);
+		InputAction_add_started_m850C46EBBEEFB3F9760AA83BFD6ECA00850657E5(L_56, L_59, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1263>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_60;
+		L_60 = UIActions_get_Click_mC276E19D2FDDE65F7AD41FAF3FD8065077625495(__this, NULL);
+		RuntimeObject* L_61 = ___0_instance;
+		RuntimeObject* L_62 = L_61;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_63 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_63, L_62, (intptr_t)((void*)GetInterfaceMethodInfo(L_62, 4, IUIActions_t3C08E724C20337D4E2DCC43D5AE7DEFA6AAEDB9E_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_60);
+		InputAction_add_performed_m0337FFA16EBEF7AE365C3B558CFDFF7BB9747B54(L_60, L_63, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1264>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_64;
+		L_64 = UIActions_get_Click_mC276E19D2FDDE65F7AD41FAF3FD8065077625495(__this, NULL);
+		RuntimeObject* L_65 = ___0_instance;
+		RuntimeObject* L_66 = L_65;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_67 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_67, L_66, (intptr_t)((void*)GetInterfaceMethodInfo(L_66, 4, IUIActions_t3C08E724C20337D4E2DCC43D5AE7DEFA6AAEDB9E_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_64);
+		InputAction_add_canceled_m69EC253E21CC314BFB350A86E294D0651F5ECA77(L_64, L_67, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1265>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_68;
+		L_68 = UIActions_get_RightClick_m4535A137506D358DD0850BBCE373B0664D611441(__this, NULL);
+		RuntimeObject* L_69 = ___0_instance;
+		RuntimeObject* L_70 = L_69;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_71 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_71, L_70, (intptr_t)((void*)GetInterfaceMethodInfo(L_70, 5, IUIActions_t3C08E724C20337D4E2DCC43D5AE7DEFA6AAEDB9E_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_68);
+		InputAction_add_started_m850C46EBBEEFB3F9760AA83BFD6ECA00850657E5(L_68, L_71, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1266>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_72;
+		L_72 = UIActions_get_RightClick_m4535A137506D358DD0850BBCE373B0664D611441(__this, NULL);
+		RuntimeObject* L_73 = ___0_instance;
+		RuntimeObject* L_74 = L_73;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_75 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_75, L_74, (intptr_t)((void*)GetInterfaceMethodInfo(L_74, 5, IUIActions_t3C08E724C20337D4E2DCC43D5AE7DEFA6AAEDB9E_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_72);
+		InputAction_add_performed_m0337FFA16EBEF7AE365C3B558CFDFF7BB9747B54(L_72, L_75, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1267>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_76;
+		L_76 = UIActions_get_RightClick_m4535A137506D358DD0850BBCE373B0664D611441(__this, NULL);
+		RuntimeObject* L_77 = ___0_instance;
+		RuntimeObject* L_78 = L_77;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_79 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_79, L_78, (intptr_t)((void*)GetInterfaceMethodInfo(L_78, 5, IUIActions_t3C08E724C20337D4E2DCC43D5AE7DEFA6AAEDB9E_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_76);
+		InputAction_add_canceled_m69EC253E21CC314BFB350A86E294D0651F5ECA77(L_76, L_79, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1268>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_80;
+		L_80 = UIActions_get_MiddleClick_mF2B2BF29AC024E6CCB36905400315B7FA6B9C618(__this, NULL);
+		RuntimeObject* L_81 = ___0_instance;
+		RuntimeObject* L_82 = L_81;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_83 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_83, L_82, (intptr_t)((void*)GetInterfaceMethodInfo(L_82, 6, IUIActions_t3C08E724C20337D4E2DCC43D5AE7DEFA6AAEDB9E_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_80);
+		InputAction_add_started_m850C46EBBEEFB3F9760AA83BFD6ECA00850657E5(L_80, L_83, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1269>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_84;
+		L_84 = UIActions_get_MiddleClick_mF2B2BF29AC024E6CCB36905400315B7FA6B9C618(__this, NULL);
+		RuntimeObject* L_85 = ___0_instance;
+		RuntimeObject* L_86 = L_85;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_87 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_87, L_86, (intptr_t)((void*)GetInterfaceMethodInfo(L_86, 6, IUIActions_t3C08E724C20337D4E2DCC43D5AE7DEFA6AAEDB9E_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_84);
+		InputAction_add_performed_m0337FFA16EBEF7AE365C3B558CFDFF7BB9747B54(L_84, L_87, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1270>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_88;
+		L_88 = UIActions_get_MiddleClick_mF2B2BF29AC024E6CCB36905400315B7FA6B9C618(__this, NULL);
+		RuntimeObject* L_89 = ___0_instance;
+		RuntimeObject* L_90 = L_89;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_91 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_91, L_90, (intptr_t)((void*)GetInterfaceMethodInfo(L_90, 6, IUIActions_t3C08E724C20337D4E2DCC43D5AE7DEFA6AAEDB9E_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_88);
+		InputAction_add_canceled_m69EC253E21CC314BFB350A86E294D0651F5ECA77(L_88, L_91, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1271>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_92;
+		L_92 = UIActions_get_ScrollWheel_mAA9B17A295A98F8665A8312DF28BC452F92569E3(__this, NULL);
+		RuntimeObject* L_93 = ___0_instance;
+		RuntimeObject* L_94 = L_93;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_95 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_95, L_94, (intptr_t)((void*)GetInterfaceMethodInfo(L_94, 7, IUIActions_t3C08E724C20337D4E2DCC43D5AE7DEFA6AAEDB9E_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_92);
+		InputAction_add_started_m850C46EBBEEFB3F9760AA83BFD6ECA00850657E5(L_92, L_95, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1272>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_96;
+		L_96 = UIActions_get_ScrollWheel_mAA9B17A295A98F8665A8312DF28BC452F92569E3(__this, NULL);
+		RuntimeObject* L_97 = ___0_instance;
+		RuntimeObject* L_98 = L_97;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_99 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_99, L_98, (intptr_t)((void*)GetInterfaceMethodInfo(L_98, 7, IUIActions_t3C08E724C20337D4E2DCC43D5AE7DEFA6AAEDB9E_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_96);
+		InputAction_add_performed_m0337FFA16EBEF7AE365C3B558CFDFF7BB9747B54(L_96, L_99, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1273>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_100;
+		L_100 = UIActions_get_ScrollWheel_mAA9B17A295A98F8665A8312DF28BC452F92569E3(__this, NULL);
+		RuntimeObject* L_101 = ___0_instance;
+		RuntimeObject* L_102 = L_101;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_103 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_103, L_102, (intptr_t)((void*)GetInterfaceMethodInfo(L_102, 7, IUIActions_t3C08E724C20337D4E2DCC43D5AE7DEFA6AAEDB9E_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_100);
+		InputAction_add_canceled_m69EC253E21CC314BFB350A86E294D0651F5ECA77(L_100, L_103, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1274>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_104;
+		L_104 = UIActions_get_TrackedDevicePosition_m952E57A42D0682DFCC660EB371818AF08A6EF5AD(__this, NULL);
+		RuntimeObject* L_105 = ___0_instance;
+		RuntimeObject* L_106 = L_105;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_107 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_107, L_106, (intptr_t)((void*)GetInterfaceMethodInfo(L_106, 8, IUIActions_t3C08E724C20337D4E2DCC43D5AE7DEFA6AAEDB9E_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_104);
+		InputAction_add_started_m850C46EBBEEFB3F9760AA83BFD6ECA00850657E5(L_104, L_107, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1275>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_108;
+		L_108 = UIActions_get_TrackedDevicePosition_m952E57A42D0682DFCC660EB371818AF08A6EF5AD(__this, NULL);
+		RuntimeObject* L_109 = ___0_instance;
+		RuntimeObject* L_110 = L_109;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_111 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_111, L_110, (intptr_t)((void*)GetInterfaceMethodInfo(L_110, 8, IUIActions_t3C08E724C20337D4E2DCC43D5AE7DEFA6AAEDB9E_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_108);
+		InputAction_add_performed_m0337FFA16EBEF7AE365C3B558CFDFF7BB9747B54(L_108, L_111, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1276>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_112;
+		L_112 = UIActions_get_TrackedDevicePosition_m952E57A42D0682DFCC660EB371818AF08A6EF5AD(__this, NULL);
+		RuntimeObject* L_113 = ___0_instance;
+		RuntimeObject* L_114 = L_113;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_115 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_115, L_114, (intptr_t)((void*)GetInterfaceMethodInfo(L_114, 8, IUIActions_t3C08E724C20337D4E2DCC43D5AE7DEFA6AAEDB9E_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_112);
+		InputAction_add_canceled_m69EC253E21CC314BFB350A86E294D0651F5ECA77(L_112, L_115, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1277>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_116;
+		L_116 = UIActions_get_TrackedDeviceOrientation_m0C79BFB9C9670B916DB68AB4039FE90D46325156(__this, NULL);
+		RuntimeObject* L_117 = ___0_instance;
+		RuntimeObject* L_118 = L_117;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_119 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_119, L_118, (intptr_t)((void*)GetInterfaceMethodInfo(L_118, 9, IUIActions_t3C08E724C20337D4E2DCC43D5AE7DEFA6AAEDB9E_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_116);
+		InputAction_add_started_m850C46EBBEEFB3F9760AA83BFD6ECA00850657E5(L_116, L_119, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1278>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_120;
+		L_120 = UIActions_get_TrackedDeviceOrientation_m0C79BFB9C9670B916DB68AB4039FE90D46325156(__this, NULL);
+		RuntimeObject* L_121 = ___0_instance;
+		RuntimeObject* L_122 = L_121;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_123 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_123, L_122, (intptr_t)((void*)GetInterfaceMethodInfo(L_122, 9, IUIActions_t3C08E724C20337D4E2DCC43D5AE7DEFA6AAEDB9E_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_120);
+		InputAction_add_performed_m0337FFA16EBEF7AE365C3B558CFDFF7BB9747B54(L_120, L_123, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1279>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_124;
+		L_124 = UIActions_get_TrackedDeviceOrientation_m0C79BFB9C9670B916DB68AB4039FE90D46325156(__this, NULL);
+		RuntimeObject* L_125 = ___0_instance;
+		RuntimeObject* L_126 = L_125;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_127 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_127, L_126, (intptr_t)((void*)GetInterfaceMethodInfo(L_126, 9, IUIActions_t3C08E724C20337D4E2DCC43D5AE7DEFA6AAEDB9E_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_124);
+		InputAction_add_canceled_m69EC253E21CC314BFB350A86E294D0651F5ECA77(L_124, L_127, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1280>
+		return;
+	}
+}
+IL2CPP_EXTERN_C  void UIActions_AddCallbacks_mEA0B9C2F984166ABC365CEB130F2EF5655D1F137_AdjustorThunk (RuntimeObject* __this, RuntimeObject* ___0_instance, const RuntimeMethod* method)
+{
+	UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F* _thisAdjusted;
+	int32_t _offset = 1;
+	_thisAdjusted = reinterpret_cast<UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F*>(__this + _offset);
+	UIActions_AddCallbacks_mEA0B9C2F984166ABC365CEB130F2EF5655D1F137(_thisAdjusted, ___0_instance, method);
+}
+// Method Definition Index: 88418
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UIActions_UnregisterCallbacks_m27FF808882A72122103E3FB3D75F0E380C8EA48E (UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F* __this, RuntimeObject* ___0_instance, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&IUIActions_t3C08E724C20337D4E2DCC43D5AE7DEFA6AAEDB9E_il2cpp_TypeInfo_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1291>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_0;
+		L_0 = UIActions_get_Navigate_mAC84C316963826FBFDC027E8BE224B9E5A4ECE9A(__this, NULL);
+		RuntimeObject* L_1 = ___0_instance;
+		RuntimeObject* L_2 = L_1;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_3 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_3, L_2, (intptr_t)((void*)GetInterfaceMethodInfo(L_2, 0, IUIActions_t3C08E724C20337D4E2DCC43D5AE7DEFA6AAEDB9E_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_0);
+		InputAction_remove_started_m0B782C3E7D5EA619502E7079E1271108A3183D68(L_0, L_3, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1292>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_4;
+		L_4 = UIActions_get_Navigate_mAC84C316963826FBFDC027E8BE224B9E5A4ECE9A(__this, NULL);
+		RuntimeObject* L_5 = ___0_instance;
+		RuntimeObject* L_6 = L_5;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_7 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_7, L_6, (intptr_t)((void*)GetInterfaceMethodInfo(L_6, 0, IUIActions_t3C08E724C20337D4E2DCC43D5AE7DEFA6AAEDB9E_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_4);
+		InputAction_remove_performed_m1BE84CED38F11F17C825FA782B35C92D708E6E44(L_4, L_7, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1293>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_8;
+		L_8 = UIActions_get_Navigate_mAC84C316963826FBFDC027E8BE224B9E5A4ECE9A(__this, NULL);
+		RuntimeObject* L_9 = ___0_instance;
+		RuntimeObject* L_10 = L_9;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_11 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_11, L_10, (intptr_t)((void*)GetInterfaceMethodInfo(L_10, 0, IUIActions_t3C08E724C20337D4E2DCC43D5AE7DEFA6AAEDB9E_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_8);
+		InputAction_remove_canceled_m7CF8D377C61DB1290E153C56312A7C075544AF7F(L_8, L_11, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1294>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_12;
+		L_12 = UIActions_get_Submit_m4234C11BA109D6257E087936F4E0E35E80B7FB16(__this, NULL);
+		RuntimeObject* L_13 = ___0_instance;
+		RuntimeObject* L_14 = L_13;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_15 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_15, L_14, (intptr_t)((void*)GetInterfaceMethodInfo(L_14, 1, IUIActions_t3C08E724C20337D4E2DCC43D5AE7DEFA6AAEDB9E_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_12);
+		InputAction_remove_started_m0B782C3E7D5EA619502E7079E1271108A3183D68(L_12, L_15, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1295>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_16;
+		L_16 = UIActions_get_Submit_m4234C11BA109D6257E087936F4E0E35E80B7FB16(__this, NULL);
+		RuntimeObject* L_17 = ___0_instance;
+		RuntimeObject* L_18 = L_17;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_19 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_19, L_18, (intptr_t)((void*)GetInterfaceMethodInfo(L_18, 1, IUIActions_t3C08E724C20337D4E2DCC43D5AE7DEFA6AAEDB9E_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_16);
+		InputAction_remove_performed_m1BE84CED38F11F17C825FA782B35C92D708E6E44(L_16, L_19, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1296>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_20;
+		L_20 = UIActions_get_Submit_m4234C11BA109D6257E087936F4E0E35E80B7FB16(__this, NULL);
+		RuntimeObject* L_21 = ___0_instance;
+		RuntimeObject* L_22 = L_21;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_23 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_23, L_22, (intptr_t)((void*)GetInterfaceMethodInfo(L_22, 1, IUIActions_t3C08E724C20337D4E2DCC43D5AE7DEFA6AAEDB9E_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_20);
+		InputAction_remove_canceled_m7CF8D377C61DB1290E153C56312A7C075544AF7F(L_20, L_23, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1297>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_24;
+		L_24 = UIActions_get_Cancel_m91E2F32FE0097683D0AC2974F256D0F77736E1FC(__this, NULL);
+		RuntimeObject* L_25 = ___0_instance;
+		RuntimeObject* L_26 = L_25;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_27 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_27, L_26, (intptr_t)((void*)GetInterfaceMethodInfo(L_26, 2, IUIActions_t3C08E724C20337D4E2DCC43D5AE7DEFA6AAEDB9E_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_24);
+		InputAction_remove_started_m0B782C3E7D5EA619502E7079E1271108A3183D68(L_24, L_27, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1298>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_28;
+		L_28 = UIActions_get_Cancel_m91E2F32FE0097683D0AC2974F256D0F77736E1FC(__this, NULL);
+		RuntimeObject* L_29 = ___0_instance;
+		RuntimeObject* L_30 = L_29;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_31 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_31, L_30, (intptr_t)((void*)GetInterfaceMethodInfo(L_30, 2, IUIActions_t3C08E724C20337D4E2DCC43D5AE7DEFA6AAEDB9E_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_28);
+		InputAction_remove_performed_m1BE84CED38F11F17C825FA782B35C92D708E6E44(L_28, L_31, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1299>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_32;
+		L_32 = UIActions_get_Cancel_m91E2F32FE0097683D0AC2974F256D0F77736E1FC(__this, NULL);
+		RuntimeObject* L_33 = ___0_instance;
+		RuntimeObject* L_34 = L_33;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_35 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_35, L_34, (intptr_t)((void*)GetInterfaceMethodInfo(L_34, 2, IUIActions_t3C08E724C20337D4E2DCC43D5AE7DEFA6AAEDB9E_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_32);
+		InputAction_remove_canceled_m7CF8D377C61DB1290E153C56312A7C075544AF7F(L_32, L_35, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1300>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_36;
+		L_36 = UIActions_get_Point_mB533F14B75C25972F0DA5D3969A2602A708E77B9(__this, NULL);
+		RuntimeObject* L_37 = ___0_instance;
+		RuntimeObject* L_38 = L_37;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_39 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_39, L_38, (intptr_t)((void*)GetInterfaceMethodInfo(L_38, 3, IUIActions_t3C08E724C20337D4E2DCC43D5AE7DEFA6AAEDB9E_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_36);
+		InputAction_remove_started_m0B782C3E7D5EA619502E7079E1271108A3183D68(L_36, L_39, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1301>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_40;
+		L_40 = UIActions_get_Point_mB533F14B75C25972F0DA5D3969A2602A708E77B9(__this, NULL);
+		RuntimeObject* L_41 = ___0_instance;
+		RuntimeObject* L_42 = L_41;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_43 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_43, L_42, (intptr_t)((void*)GetInterfaceMethodInfo(L_42, 3, IUIActions_t3C08E724C20337D4E2DCC43D5AE7DEFA6AAEDB9E_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_40);
+		InputAction_remove_performed_m1BE84CED38F11F17C825FA782B35C92D708E6E44(L_40, L_43, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1302>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_44;
+		L_44 = UIActions_get_Point_mB533F14B75C25972F0DA5D3969A2602A708E77B9(__this, NULL);
+		RuntimeObject* L_45 = ___0_instance;
+		RuntimeObject* L_46 = L_45;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_47 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_47, L_46, (intptr_t)((void*)GetInterfaceMethodInfo(L_46, 3, IUIActions_t3C08E724C20337D4E2DCC43D5AE7DEFA6AAEDB9E_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_44);
+		InputAction_remove_canceled_m7CF8D377C61DB1290E153C56312A7C075544AF7F(L_44, L_47, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1303>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_48;
+		L_48 = UIActions_get_Click_mC276E19D2FDDE65F7AD41FAF3FD8065077625495(__this, NULL);
+		RuntimeObject* L_49 = ___0_instance;
+		RuntimeObject* L_50 = L_49;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_51 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_51, L_50, (intptr_t)((void*)GetInterfaceMethodInfo(L_50, 4, IUIActions_t3C08E724C20337D4E2DCC43D5AE7DEFA6AAEDB9E_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_48);
+		InputAction_remove_started_m0B782C3E7D5EA619502E7079E1271108A3183D68(L_48, L_51, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1304>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_52;
+		L_52 = UIActions_get_Click_mC276E19D2FDDE65F7AD41FAF3FD8065077625495(__this, NULL);
+		RuntimeObject* L_53 = ___0_instance;
+		RuntimeObject* L_54 = L_53;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_55 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_55, L_54, (intptr_t)((void*)GetInterfaceMethodInfo(L_54, 4, IUIActions_t3C08E724C20337D4E2DCC43D5AE7DEFA6AAEDB9E_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_52);
+		InputAction_remove_performed_m1BE84CED38F11F17C825FA782B35C92D708E6E44(L_52, L_55, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1305>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_56;
+		L_56 = UIActions_get_Click_mC276E19D2FDDE65F7AD41FAF3FD8065077625495(__this, NULL);
+		RuntimeObject* L_57 = ___0_instance;
+		RuntimeObject* L_58 = L_57;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_59 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_59, L_58, (intptr_t)((void*)GetInterfaceMethodInfo(L_58, 4, IUIActions_t3C08E724C20337D4E2DCC43D5AE7DEFA6AAEDB9E_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_56);
+		InputAction_remove_canceled_m7CF8D377C61DB1290E153C56312A7C075544AF7F(L_56, L_59, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1306>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_60;
+		L_60 = UIActions_get_RightClick_m4535A137506D358DD0850BBCE373B0664D611441(__this, NULL);
+		RuntimeObject* L_61 = ___0_instance;
+		RuntimeObject* L_62 = L_61;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_63 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_63, L_62, (intptr_t)((void*)GetInterfaceMethodInfo(L_62, 5, IUIActions_t3C08E724C20337D4E2DCC43D5AE7DEFA6AAEDB9E_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_60);
+		InputAction_remove_started_m0B782C3E7D5EA619502E7079E1271108A3183D68(L_60, L_63, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1307>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_64;
+		L_64 = UIActions_get_RightClick_m4535A137506D358DD0850BBCE373B0664D611441(__this, NULL);
+		RuntimeObject* L_65 = ___0_instance;
+		RuntimeObject* L_66 = L_65;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_67 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_67, L_66, (intptr_t)((void*)GetInterfaceMethodInfo(L_66, 5, IUIActions_t3C08E724C20337D4E2DCC43D5AE7DEFA6AAEDB9E_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_64);
+		InputAction_remove_performed_m1BE84CED38F11F17C825FA782B35C92D708E6E44(L_64, L_67, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1308>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_68;
+		L_68 = UIActions_get_RightClick_m4535A137506D358DD0850BBCE373B0664D611441(__this, NULL);
+		RuntimeObject* L_69 = ___0_instance;
+		RuntimeObject* L_70 = L_69;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_71 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_71, L_70, (intptr_t)((void*)GetInterfaceMethodInfo(L_70, 5, IUIActions_t3C08E724C20337D4E2DCC43D5AE7DEFA6AAEDB9E_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_68);
+		InputAction_remove_canceled_m7CF8D377C61DB1290E153C56312A7C075544AF7F(L_68, L_71, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1309>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_72;
+		L_72 = UIActions_get_MiddleClick_mF2B2BF29AC024E6CCB36905400315B7FA6B9C618(__this, NULL);
+		RuntimeObject* L_73 = ___0_instance;
+		RuntimeObject* L_74 = L_73;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_75 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_75, L_74, (intptr_t)((void*)GetInterfaceMethodInfo(L_74, 6, IUIActions_t3C08E724C20337D4E2DCC43D5AE7DEFA6AAEDB9E_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_72);
+		InputAction_remove_started_m0B782C3E7D5EA619502E7079E1271108A3183D68(L_72, L_75, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1310>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_76;
+		L_76 = UIActions_get_MiddleClick_mF2B2BF29AC024E6CCB36905400315B7FA6B9C618(__this, NULL);
+		RuntimeObject* L_77 = ___0_instance;
+		RuntimeObject* L_78 = L_77;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_79 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_79, L_78, (intptr_t)((void*)GetInterfaceMethodInfo(L_78, 6, IUIActions_t3C08E724C20337D4E2DCC43D5AE7DEFA6AAEDB9E_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_76);
+		InputAction_remove_performed_m1BE84CED38F11F17C825FA782B35C92D708E6E44(L_76, L_79, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1311>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_80;
+		L_80 = UIActions_get_MiddleClick_mF2B2BF29AC024E6CCB36905400315B7FA6B9C618(__this, NULL);
+		RuntimeObject* L_81 = ___0_instance;
+		RuntimeObject* L_82 = L_81;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_83 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_83, L_82, (intptr_t)((void*)GetInterfaceMethodInfo(L_82, 6, IUIActions_t3C08E724C20337D4E2DCC43D5AE7DEFA6AAEDB9E_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_80);
+		InputAction_remove_canceled_m7CF8D377C61DB1290E153C56312A7C075544AF7F(L_80, L_83, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1312>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_84;
+		L_84 = UIActions_get_ScrollWheel_mAA9B17A295A98F8665A8312DF28BC452F92569E3(__this, NULL);
+		RuntimeObject* L_85 = ___0_instance;
+		RuntimeObject* L_86 = L_85;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_87 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_87, L_86, (intptr_t)((void*)GetInterfaceMethodInfo(L_86, 7, IUIActions_t3C08E724C20337D4E2DCC43D5AE7DEFA6AAEDB9E_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_84);
+		InputAction_remove_started_m0B782C3E7D5EA619502E7079E1271108A3183D68(L_84, L_87, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1313>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_88;
+		L_88 = UIActions_get_ScrollWheel_mAA9B17A295A98F8665A8312DF28BC452F92569E3(__this, NULL);
+		RuntimeObject* L_89 = ___0_instance;
+		RuntimeObject* L_90 = L_89;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_91 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_91, L_90, (intptr_t)((void*)GetInterfaceMethodInfo(L_90, 7, IUIActions_t3C08E724C20337D4E2DCC43D5AE7DEFA6AAEDB9E_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_88);
+		InputAction_remove_performed_m1BE84CED38F11F17C825FA782B35C92D708E6E44(L_88, L_91, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1314>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_92;
+		L_92 = UIActions_get_ScrollWheel_mAA9B17A295A98F8665A8312DF28BC452F92569E3(__this, NULL);
+		RuntimeObject* L_93 = ___0_instance;
+		RuntimeObject* L_94 = L_93;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_95 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_95, L_94, (intptr_t)((void*)GetInterfaceMethodInfo(L_94, 7, IUIActions_t3C08E724C20337D4E2DCC43D5AE7DEFA6AAEDB9E_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_92);
+		InputAction_remove_canceled_m7CF8D377C61DB1290E153C56312A7C075544AF7F(L_92, L_95, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1315>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_96;
+		L_96 = UIActions_get_TrackedDevicePosition_m952E57A42D0682DFCC660EB371818AF08A6EF5AD(__this, NULL);
+		RuntimeObject* L_97 = ___0_instance;
+		RuntimeObject* L_98 = L_97;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_99 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_99, L_98, (intptr_t)((void*)GetInterfaceMethodInfo(L_98, 8, IUIActions_t3C08E724C20337D4E2DCC43D5AE7DEFA6AAEDB9E_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_96);
+		InputAction_remove_started_m0B782C3E7D5EA619502E7079E1271108A3183D68(L_96, L_99, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1316>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_100;
+		L_100 = UIActions_get_TrackedDevicePosition_m952E57A42D0682DFCC660EB371818AF08A6EF5AD(__this, NULL);
+		RuntimeObject* L_101 = ___0_instance;
+		RuntimeObject* L_102 = L_101;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_103 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_103, L_102, (intptr_t)((void*)GetInterfaceMethodInfo(L_102, 8, IUIActions_t3C08E724C20337D4E2DCC43D5AE7DEFA6AAEDB9E_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_100);
+		InputAction_remove_performed_m1BE84CED38F11F17C825FA782B35C92D708E6E44(L_100, L_103, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1317>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_104;
+		L_104 = UIActions_get_TrackedDevicePosition_m952E57A42D0682DFCC660EB371818AF08A6EF5AD(__this, NULL);
+		RuntimeObject* L_105 = ___0_instance;
+		RuntimeObject* L_106 = L_105;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_107 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_107, L_106, (intptr_t)((void*)GetInterfaceMethodInfo(L_106, 8, IUIActions_t3C08E724C20337D4E2DCC43D5AE7DEFA6AAEDB9E_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_104);
+		InputAction_remove_canceled_m7CF8D377C61DB1290E153C56312A7C075544AF7F(L_104, L_107, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1318>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_108;
+		L_108 = UIActions_get_TrackedDeviceOrientation_m0C79BFB9C9670B916DB68AB4039FE90D46325156(__this, NULL);
+		RuntimeObject* L_109 = ___0_instance;
+		RuntimeObject* L_110 = L_109;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_111 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_111, L_110, (intptr_t)((void*)GetInterfaceMethodInfo(L_110, 9, IUIActions_t3C08E724C20337D4E2DCC43D5AE7DEFA6AAEDB9E_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_108);
+		InputAction_remove_started_m0B782C3E7D5EA619502E7079E1271108A3183D68(L_108, L_111, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1319>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_112;
+		L_112 = UIActions_get_TrackedDeviceOrientation_m0C79BFB9C9670B916DB68AB4039FE90D46325156(__this, NULL);
+		RuntimeObject* L_113 = ___0_instance;
+		RuntimeObject* L_114 = L_113;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_115 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_115, L_114, (intptr_t)((void*)GetInterfaceMethodInfo(L_114, 9, IUIActions_t3C08E724C20337D4E2DCC43D5AE7DEFA6AAEDB9E_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_112);
+		InputAction_remove_performed_m1BE84CED38F11F17C825FA782B35C92D708E6E44(L_112, L_115, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1320>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_116;
+		L_116 = UIActions_get_TrackedDeviceOrientation_m0C79BFB9C9670B916DB68AB4039FE90D46325156(__this, NULL);
+		RuntimeObject* L_117 = ___0_instance;
+		RuntimeObject* L_118 = L_117;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_119 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_119, L_118, (intptr_t)((void*)GetInterfaceMethodInfo(L_118, 9, IUIActions_t3C08E724C20337D4E2DCC43D5AE7DEFA6AAEDB9E_il2cpp_TypeInfo_var)), NULL);
+		NullCheck(L_116);
+		InputAction_remove_canceled_m7CF8D377C61DB1290E153C56312A7C075544AF7F(L_116, L_119, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1321>
+		return;
+	}
+}
+IL2CPP_EXTERN_C  void UIActions_UnregisterCallbacks_m27FF808882A72122103E3FB3D75F0E380C8EA48E_AdjustorThunk (RuntimeObject* __this, RuntimeObject* ___0_instance, const RuntimeMethod* method)
+{
+	UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F* _thisAdjusted;
+	int32_t _offset = 1;
+	_thisAdjusted = reinterpret_cast<UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F*>(__this + _offset);
+	UIActions_UnregisterCallbacks_m27FF808882A72122103E3FB3D75F0E380C8EA48E(_thisAdjusted, ___0_instance, method);
+}
+// Method Definition Index: 88419
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UIActions_RemoveCallbacks_mE46687BC709E316FA24F4E46F0C65461B8223FA4 (UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F* __this, RuntimeObject* ___0_instance, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&List_1_Remove_mFB2CF6040001477CF3ECC8EE759E3EB739F99626_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1329>
+		InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD* L_0 = __this->___m_Wrapper;
+		NullCheck(L_0);
+		List_1_t7B4BA466ED2E0B53AA92432404A8E418878C1E6B* L_1 = L_0->___m_UIActionsCallbackInterfaces;
+		RuntimeObject* L_2 = ___0_instance;
+		NullCheck(L_1);
+		bool L_3;
+		L_3 = List_1_Remove_mFB2CF6040001477CF3ECC8EE759E3EB739F99626(L_1, L_2, List_1_Remove_mFB2CF6040001477CF3ECC8EE759E3EB739F99626_RuntimeMethod_var);
+		if (!L_3)
+		{
+			goto IL_001a;
+		}
+	}
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1330>
+		RuntimeObject* L_4 = ___0_instance;
+		UIActions_UnregisterCallbacks_m27FF808882A72122103E3FB3D75F0E380C8EA48E(__this, L_4, NULL);
+	}
+
+IL_001a:
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1331>
+		return;
+	}
+}
+IL2CPP_EXTERN_C  void UIActions_RemoveCallbacks_mE46687BC709E316FA24F4E46F0C65461B8223FA4_AdjustorThunk (RuntimeObject* __this, RuntimeObject* ___0_instance, const RuntimeMethod* method)
+{
+	UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F* _thisAdjusted;
+	int32_t _offset = 1;
+	_thisAdjusted = reinterpret_cast<UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F*>(__this + _offset);
+	UIActions_RemoveCallbacks_mE46687BC709E316FA24F4E46F0C65461B8223FA4(_thisAdjusted, ___0_instance, method);
+}
+// Method Definition Index: 88420
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UIActions_SetCallbacks_mF7EE3697E4DBB24619A95537F8D0F6725ED1C53D (UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F* __this, RuntimeObject* ___0_instance, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Enumerator_Dispose_mB5A41DDAD69C2DA36C5F132C906968AA66EA2C9B_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Enumerator_MoveNext_m91E74F18B1B366D460E7845CCDF9C6A8AE08B433_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Enumerator_get_Current_mEA87F0F926CC57E37206C083B90E51F6C876BFFB_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&List_1_Clear_m676E82FF51DB57E8C4ACF8159C19EC723DA12CF1_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&List_1_GetEnumerator_mDAA429DEB808201EFCBFA57307B083D8DF4CB807_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	Enumerator_t5EE35005E57399519841D87BC67A367A9E105343 V_0;
+	memset((&V_0), 0, sizeof(V_0));
+	RuntimeObject* V_1 = NULL;
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1344>
+		InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD* L_0 = __this->___m_Wrapper;
+		NullCheck(L_0);
+		List_1_t7B4BA466ED2E0B53AA92432404A8E418878C1E6B* L_1 = L_0->___m_UIActionsCallbackInterfaces;
+		NullCheck(L_1);
+		Enumerator_t5EE35005E57399519841D87BC67A367A9E105343 L_2;
+		L_2 = List_1_GetEnumerator_mDAA429DEB808201EFCBFA57307B083D8DF4CB807(L_1, List_1_GetEnumerator_mDAA429DEB808201EFCBFA57307B083D8DF4CB807_RuntimeMethod_var);
+		V_0 = L_2;
+	}
+	{
+		auto __finallyBlock = il2cpp::utils::Finally([&]
+		{
+
+FINALLY_002d:
+			{
+				Enumerator_Dispose_mB5A41DDAD69C2DA36C5F132C906968AA66EA2C9B((&V_0), Enumerator_Dispose_mB5A41DDAD69C2DA36C5F132C906968AA66EA2C9B_RuntimeMethod_var);
+				return;
+			}
+		});
+		try
+		{
+			{
+				goto IL_0022_1;
+			}
+
+IL_0013_1:
+			{
+				//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1344>
+				RuntimeObject* L_3;
+				L_3 = Enumerator_get_Current_mEA87F0F926CC57E37206C083B90E51F6C876BFFB_inline((&V_0), Enumerator_get_Current_mEA87F0F926CC57E37206C083B90E51F6C876BFFB_RuntimeMethod_var);
+				V_1 = L_3;
+				//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1345>
+				RuntimeObject* L_4 = V_1;
+				UIActions_UnregisterCallbacks_m27FF808882A72122103E3FB3D75F0E380C8EA48E(__this, L_4, NULL);
+			}
+
+IL_0022_1:
+			{
+				//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1344>
+				bool L_5;
+				L_5 = Enumerator_MoveNext_m91E74F18B1B366D460E7845CCDF9C6A8AE08B433((&V_0), Enumerator_MoveNext_m91E74F18B1B366D460E7845CCDF9C6A8AE08B433_RuntimeMethod_var);
+				if (L_5)
+				{
+					goto IL_0013_1;
+				}
+			}
+			{
+				goto IL_003b;
+			}
+		}
+		catch(Il2CppExceptionWrapper& e)
+		{
+			__finallyBlock.StoreException(e.ex);
+		}
+	}
+
+IL_003b:
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1346>
+		InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD* L_6 = __this->___m_Wrapper;
+		NullCheck(L_6);
+		List_1_t7B4BA466ED2E0B53AA92432404A8E418878C1E6B* L_7 = L_6->___m_UIActionsCallbackInterfaces;
+		NullCheck(L_7);
+		List_1_Clear_m676E82FF51DB57E8C4ACF8159C19EC723DA12CF1_inline(L_7, List_1_Clear_m676E82FF51DB57E8C4ACF8159C19EC723DA12CF1_RuntimeMethod_var);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1347>
+		RuntimeObject* L_8 = ___0_instance;
+		UIActions_AddCallbacks_mEA0B9C2F984166ABC365CEB130F2EF5655D1F137(__this, L_8, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1348>
+		return;
+	}
+}
+IL2CPP_EXTERN_C  void UIActions_SetCallbacks_mF7EE3697E4DBB24619A95537F8D0F6725ED1C53D_AdjustorThunk (RuntimeObject* __this, RuntimeObject* ___0_instance, const RuntimeMethod* method)
+{
+	UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F* _thisAdjusted;
+	int32_t _offset = 1;
+	_thisAdjusted = reinterpret_cast<UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F*>(__this + _offset);
+	UIActions_SetCallbacks_mF7EE3697E4DBB24619A95537F8D0F6725ED1C53D(_thisAdjusted, ___0_instance, method);
+}
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+// Method Definition Index: 88435
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Move_Awake_m1F611BE26B1AEFB285ECC8C911EB3969F8AC6F96 (Move_t854202AD2D0D0CBADCAA68583489F1054C5BC0E4* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Component_GetComponent_TisCharacterController_t847C1A2719F60547D7D6077B648D6CE2D1EF3A6A_m96B48A644EDC97C5C82F154D1FEA551B2E392040_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Move_U3CAwakeU3Eb__12_0_mAF25A39198EB8E780E75C99FABB95061D784D428_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Move_U3CAwakeU3Eb__12_1_m9B30E06F9424A8F4A0EC93773451A517456077AF_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Move_U3CAwakeU3Eb__12_2_m9441515B22B883B37D47252C3EFEFD5944484F8B_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Move_U3CAwakeU3Eb__12_3_m34AA6249F498CB566D7D82FF4D76441930185956_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Move_U3CAwakeU3Eb__12_4_mFB3D012C4F3EFCF884E1DA8FF203F7EFE338FD6D_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Move_U3CAwakeU3Eb__12_5_m4E70A2A43E16F4C8822DEE54A673DEC715F11C29_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B V_0;
+	memset((&V_0), 0, sizeof(V_0));
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/Move.cs:25>
+		CharacterController_t847C1A2719F60547D7D6077B648D6CE2D1EF3A6A* L_0;
+		L_0 = Component_GetComponent_TisCharacterController_t847C1A2719F60547D7D6077B648D6CE2D1EF3A6A_m96B48A644EDC97C5C82F154D1FEA551B2E392040(__this, Component_GetComponent_TisCharacterController_t847C1A2719F60547D7D6077B648D6CE2D1EF3A6A_m96B48A644EDC97C5C82F154D1FEA551B2E392040_RuntimeMethod_var);
+		__this->___characterController = L_0;
+		Il2CppCodeGenWriteBarrier((void**)(&__this->___characterController), (void*)L_0);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/Move.cs:26>
+		InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD* L_1 = (InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD*)il2cpp_codegen_object_new(InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD_il2cpp_TypeInfo_var);
+		InputSystem_Actions__ctor_mD627972DD6F7D98943749B5BA538E124B47D4610(L_1, NULL);
+		__this->___inputActions = L_1;
+		Il2CppCodeGenWriteBarrier((void**)(&__this->___inputActions), (void*)L_1);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/Move.cs:27>
+		InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD* L_2 = __this->___inputActions;
+		NullCheck(L_2);
+		PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B L_3;
+		L_3 = InputSystem_Actions_get_Player_m287A19D199E735CD02DF36C9CAB98A2BFE2FD4B0(L_2, NULL);
+		V_0 = L_3;
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_4;
+		L_4 = PlayerActions_get_Move_mEC5AE75FE5950F812841E8A10E21ECF1D7693D99((&V_0), NULL);
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_5 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_5, __this, (intptr_t)((void*)Move_U3CAwakeU3Eb__12_0_mAF25A39198EB8E780E75C99FABB95061D784D428_RuntimeMethod_var), NULL);
+		NullCheck(L_4);
+		InputAction_add_performed_m0337FFA16EBEF7AE365C3B558CFDFF7BB9747B54(L_4, L_5, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/Move.cs:28>
+		InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD* L_6 = __this->___inputActions;
+		NullCheck(L_6);
+		PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B L_7;
+		L_7 = InputSystem_Actions_get_Player_m287A19D199E735CD02DF36C9CAB98A2BFE2FD4B0(L_6, NULL);
+		V_0 = L_7;
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_8;
+		L_8 = PlayerActions_get_Move_mEC5AE75FE5950F812841E8A10E21ECF1D7693D99((&V_0), NULL);
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_9 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_9, __this, (intptr_t)((void*)Move_U3CAwakeU3Eb__12_1_m9B30E06F9424A8F4A0EC93773451A517456077AF_RuntimeMethod_var), NULL);
+		NullCheck(L_8);
+		InputAction_add_canceled_m69EC253E21CC314BFB350A86E294D0651F5ECA77(L_8, L_9, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/Move.cs:29>
+		InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD* L_10 = __this->___inputActions;
+		NullCheck(L_10);
+		PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B L_11;
+		L_11 = InputSystem_Actions_get_Player_m287A19D199E735CD02DF36C9CAB98A2BFE2FD4B0(L_10, NULL);
+		V_0 = L_11;
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_12;
+		L_12 = PlayerActions_get_Sprint_mF8F8CE6BBB97783D9FCDFC92DBA13FE2B4ED9B62((&V_0), NULL);
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_13 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_13, __this, (intptr_t)((void*)Move_U3CAwakeU3Eb__12_2_m9441515B22B883B37D47252C3EFEFD5944484F8B_RuntimeMethod_var), NULL);
+		NullCheck(L_12);
+		InputAction_add_performed_m0337FFA16EBEF7AE365C3B558CFDFF7BB9747B54(L_12, L_13, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/Move.cs:30>
+		InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD* L_14 = __this->___inputActions;
+		NullCheck(L_14);
+		PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B L_15;
+		L_15 = InputSystem_Actions_get_Player_m287A19D199E735CD02DF36C9CAB98A2BFE2FD4B0(L_14, NULL);
+		V_0 = L_15;
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_16;
+		L_16 = PlayerActions_get_Sprint_mF8F8CE6BBB97783D9FCDFC92DBA13FE2B4ED9B62((&V_0), NULL);
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_17 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_17, __this, (intptr_t)((void*)Move_U3CAwakeU3Eb__12_3_m34AA6249F498CB566D7D82FF4D76441930185956_RuntimeMethod_var), NULL);
+		NullCheck(L_16);
+		InputAction_add_canceled_m69EC253E21CC314BFB350A86E294D0651F5ECA77(L_16, L_17, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/Move.cs:31>
+		InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD* L_18 = __this->___inputActions;
+		NullCheck(L_18);
+		PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B L_19;
+		L_19 = InputSystem_Actions_get_Player_m287A19D199E735CD02DF36C9CAB98A2BFE2FD4B0(L_18, NULL);
+		V_0 = L_19;
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_20;
+		L_20 = PlayerActions_get_Look_m1A7BE7BAF257848AFEA5293C9168248930B0EC7D((&V_0), NULL);
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_21 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_21, __this, (intptr_t)((void*)Move_U3CAwakeU3Eb__12_4_mFB3D012C4F3EFCF884E1DA8FF203F7EFE338FD6D_RuntimeMethod_var), NULL);
+		NullCheck(L_20);
+		InputAction_add_performed_m0337FFA16EBEF7AE365C3B558CFDFF7BB9747B54(L_20, L_21, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/Move.cs:32>
+		InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD* L_22 = __this->___inputActions;
+		NullCheck(L_22);
+		PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B L_23;
+		L_23 = InputSystem_Actions_get_Player_m287A19D199E735CD02DF36C9CAB98A2BFE2FD4B0(L_22, NULL);
+		V_0 = L_23;
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_24;
+		L_24 = PlayerActions_get_Look_m1A7BE7BAF257848AFEA5293C9168248930B0EC7D((&V_0), NULL);
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_25 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_25, __this, (intptr_t)((void*)Move_U3CAwakeU3Eb__12_5_m4E70A2A43E16F4C8822DEE54A673DEC715F11C29_RuntimeMethod_var), NULL);
+		NullCheck(L_24);
+		InputAction_add_canceled_m69EC253E21CC314BFB350A86E294D0651F5ECA77(L_24, L_25, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/Move.cs:33>
+		return;
+	}
+}
+// Method Definition Index: 88436
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Move_OnEnable_mA5E7C3220D5C412F6A06425BD266E43A56806973 (Move_t854202AD2D0D0CBADCAA68583489F1054C5BC0E4* __this, const RuntimeMethod* method) 
+{
+	PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B V_0;
+	memset((&V_0), 0, sizeof(V_0));
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/Move.cs:36>
+		InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD* L_0 = __this->___inputActions;
+		NullCheck(L_0);
+		PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B L_1;
+		L_1 = InputSystem_Actions_get_Player_m287A19D199E735CD02DF36C9CAB98A2BFE2FD4B0(L_0, NULL);
+		V_0 = L_1;
+		PlayerActions_Enable_m33355FF72F86E394E64EFD91E9FB2CA71A451387((&V_0), NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/Move.cs:37>
+		return;
+	}
+}
+// Method Definition Index: 88437
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Move_OnDisable_m19065703C79A2BDFC520A043FD9296D22D86778A (Move_t854202AD2D0D0CBADCAA68583489F1054C5BC0E4* __this, const RuntimeMethod* method) 
+{
+	PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B V_0;
+	memset((&V_0), 0, sizeof(V_0));
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/Move.cs:40>
+		InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD* L_0 = __this->___inputActions;
+		NullCheck(L_0);
+		PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B L_1;
+		L_1 = InputSystem_Actions_get_Player_m287A19D199E735CD02DF36C9CAB98A2BFE2FD4B0(L_0, NULL);
+		V_0 = L_1;
+		PlayerActions_Disable_mDC1E0DEFFE0E44F30334359EEADF85C062D17930((&V_0), NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/Move.cs:41>
+		return;
+	}
+}
+// Method Definition Index: 88438
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Move_Update_mA8230EF12ABFDB1275E464746004DD9E8DCBB444 (Move_t854202AD2D0D0CBADCAA68583489F1054C5BC0E4* __this, const RuntimeMethod* method) 
+{
+	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 V_0;
+	memset((&V_0), 0, sizeof(V_0));
+	float V_1 = 0.0f;
+	float V_2 = 0.0f;
+	float G_B6_0 = 0.0f;
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/Move.cs:47>
+		CharacterController_t847C1A2719F60547D7D6077B648D6CE2D1EF3A6A* L_0 = __this->___characterController;
+		NullCheck(L_0);
+		bool L_1;
+		L_1 = CharacterController_get_isGrounded_m548072EC190878925C0F97595B6C307714EFDD67(L_0, NULL);
+		__this->___isGrounded = L_1;
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/Move.cs:48>
+		bool L_2 = __this->___isGrounded;
+		if (!L_2)
+		{
+			goto IL_003b;
+		}
+	}
+	{
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2* L_3 = (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2*)(&__this->___velocity);
+		float L_4 = L_3->___y;
+		if ((!(((float)L_4) < ((float)(0.0f)))))
+		{
+			goto IL_003b;
+		}
+	}
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/Move.cs:50>
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2* L_5 = (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2*)(&__this->___velocity);
+		L_5->___y = (-2.0f);
+	}
+
+IL_003b:
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/Move.cs:52>
+		Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7* L_6 = (Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7*)(&__this->___moveInput);
+		float L_7 = L_6->___x;
+		Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7* L_8 = (Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7*)(&__this->___moveInput);
+		float L_9 = L_8->___y;
+		Vector3__ctor_m376936E6B999EF1ECBE57D990A386303E2283DE0_inline((&V_0), L_7, (0.0f), L_9, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/Move.cs:53>
+		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_10;
+		L_10 = Component_get_transform_m2919A1D81931E6932C7F06D4C2F0AB8DDA9A5371(__this, NULL);
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_11 = V_0;
+		NullCheck(L_10);
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_12;
+		L_12 = Transform_TransformDirection_m9BE1261DF2D48B7A4A27D31EE24D2D97F89E7757(L_10, L_11, NULL);
+		V_0 = L_12;
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/Move.cs:54>
+		bool L_13 = __this->___isRunning;
+		if (L_13)
+		{
+			goto IL_007a;
+		}
+	}
+	{
+		float L_14 = __this->___speed;
+		G_B6_0 = L_14;
+		goto IL_0087;
+	}
+
+IL_007a:
+	{
+		float L_15 = __this->___speed;
+		float L_16 = __this->___runMultiplier;
+		G_B6_0 = ((float)il2cpp_codegen_multiply(L_15, L_16));
+	}
+
+IL_0087:
+	{
+		V_1 = G_B6_0;
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/Move.cs:55>
+		CharacterController_t847C1A2719F60547D7D6077B648D6CE2D1EF3A6A* L_17 = __this->___characterController;
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_18 = V_0;
+		float L_19 = V_1;
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_20;
+		L_20 = Vector3_op_Multiply_m87BA7C578F96C8E49BB07088DAAC4649F83B0353_inline(L_18, L_19, NULL);
+		float L_21;
+		L_21 = Time_get_deltaTime_mC3195000401F0FD167DD2F948FD2BC58330D0865(NULL);
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_22;
+		L_22 = Vector3_op_Multiply_m87BA7C578F96C8E49BB07088DAAC4649F83B0353_inline(L_20, L_21, NULL);
+		NullCheck(L_17);
+		int32_t L_23;
+		L_23 = CharacterController_Move_mE3F7AC1B4A2D6955980811C088B68ED3A31D2DA4(L_17, L_22, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/Move.cs:56>
+		float L_24 = __this->___rotateInput;
+		float L_25 = __this->___rotationSpeed;
+		float L_26;
+		L_26 = Time_get_deltaTime_mC3195000401F0FD167DD2F948FD2BC58330D0865(NULL);
+		V_2 = ((float)il2cpp_codegen_multiply(((float)il2cpp_codegen_multiply(L_24, L_25)), L_26));
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/Move.cs:57>
+		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_27;
+		L_27 = Component_get_transform_m2919A1D81931E6932C7F06D4C2F0AB8DDA9A5371(__this, NULL);
+		float L_28 = V_2;
+		NullCheck(L_27);
+		Transform_Rotate_m7EA47AD57F43D478CCB0523D179950EE49CDA3E2(L_27, (0.0f), L_28, (0.0f), NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/Move.cs:59>
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2* L_29 = (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2*)(&__this->___velocity);
+		float* L_30 = (float*)(&L_29->___y);
+		float* L_31 = L_30;
+		float L_32 = *((float*)L_31);
+		float L_33 = __this->___gravity;
+		float L_34;
+		L_34 = Time_get_deltaTime_mC3195000401F0FD167DD2F948FD2BC58330D0865(NULL);
+		*((float*)L_31) = (float)((float)il2cpp_codegen_add(L_32, ((float)il2cpp_codegen_multiply(L_33, L_34))));
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/Move.cs:60>
+		CharacterController_t847C1A2719F60547D7D6077B648D6CE2D1EF3A6A* L_35 = __this->___characterController;
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_36 = __this->___velocity;
+		float L_37;
+		L_37 = Time_get_deltaTime_mC3195000401F0FD167DD2F948FD2BC58330D0865(NULL);
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_38;
+		L_38 = Vector3_op_Multiply_m87BA7C578F96C8E49BB07088DAAC4649F83B0353_inline(L_36, L_37, NULL);
+		NullCheck(L_35);
+		int32_t L_39;
+		L_39 = CharacterController_Move_mE3F7AC1B4A2D6955980811C088B68ED3A31D2DA4(L_35, L_38, NULL);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/Move.cs:61>
+		return;
+	}
+}
+// Method Definition Index: 88439
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Move__ctor_mB2C06FD84ADF53D6C062FD9230344443C0ACF7A1 (Move_t854202AD2D0D0CBADCAA68583489F1054C5BC0E4* __this, const RuntimeMethod* method) 
+{
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/Move.cs:11>
+		__this->___gravity = (9.81000042f);
+		MonoBehaviour__ctor_m592DB0105CA0BC97AA1C5F4AD27B12D68A3B7C1E(__this, NULL);
+		return;
+	}
+}
+// Method Definition Index: 88440
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Move_U3CAwakeU3Eb__12_0_mAF25A39198EB8E780E75C99FABB95061D784D428 (Move_t854202AD2D0D0CBADCAA68583489F1054C5BC0E4* __this, CallbackContext_tB251EE41F509C6E8A6B05EC97C029A45DF4F5FA8 ___0_ctx, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&CallbackContext_ReadValue_TisVector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7_m454ADEAE74A5A469E011CF78D6303A1034659830_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/Move.cs:27>
+		Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 L_0;
+		L_0 = CallbackContext_ReadValue_TisVector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7_m454ADEAE74A5A469E011CF78D6303A1034659830((&___0_ctx), CallbackContext_ReadValue_TisVector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7_m454ADEAE74A5A469E011CF78D6303A1034659830_RuntimeMethod_var);
+		__this->___moveInput = L_0;
+		return;
+	}
+}
+// Method Definition Index: 88441
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Move_U3CAwakeU3Eb__12_1_m9B30E06F9424A8F4A0EC93773451A517456077AF (Move_t854202AD2D0D0CBADCAA68583489F1054C5BC0E4* __this, CallbackContext_tB251EE41F509C6E8A6B05EC97C029A45DF4F5FA8 ___0_ctx, const RuntimeMethod* method) 
+{
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/Move.cs:28>
+		Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 L_0;
+		L_0 = Vector2_get_zero_m32506C40EC2EE7D5D4410BF40D3EE683A3D5F32C_inline(NULL);
+		__this->___moveInput = L_0;
+		return;
+	}
+}
+// Method Definition Index: 88442
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Move_U3CAwakeU3Eb__12_2_m9441515B22B883B37D47252C3EFEFD5944484F8B (Move_t854202AD2D0D0CBADCAA68583489F1054C5BC0E4* __this, CallbackContext_tB251EE41F509C6E8A6B05EC97C029A45DF4F5FA8 ___0_ctx, const RuntimeMethod* method) 
+{
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/Move.cs:29>
+		__this->___isRunning = (bool)1;
+		return;
+	}
+}
+// Method Definition Index: 88443
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Move_U3CAwakeU3Eb__12_3_m34AA6249F498CB566D7D82FF4D76441930185956 (Move_t854202AD2D0D0CBADCAA68583489F1054C5BC0E4* __this, CallbackContext_tB251EE41F509C6E8A6B05EC97C029A45DF4F5FA8 ___0_ctx, const RuntimeMethod* method) 
+{
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/Move.cs:30>
+		__this->___isRunning = (bool)0;
+		return;
+	}
+}
+// Method Definition Index: 88444
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Move_U3CAwakeU3Eb__12_4_mFB3D012C4F3EFCF884E1DA8FF203F7EFE338FD6D (Move_t854202AD2D0D0CBADCAA68583489F1054C5BC0E4* __this, CallbackContext_tB251EE41F509C6E8A6B05EC97C029A45DF4F5FA8 ___0_ctx, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&CallbackContext_ReadValue_TisSingle_t4530F2FF86FCB0DC29F35385CA1BD21BE294761C_m7EBC8C123F0601CE5B340BA966923AEC449A8ACF_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/Move.cs:31>
+		float L_0;
+		L_0 = CallbackContext_ReadValue_TisSingle_t4530F2FF86FCB0DC29F35385CA1BD21BE294761C_m7EBC8C123F0601CE5B340BA966923AEC449A8ACF((&___0_ctx), CallbackContext_ReadValue_TisSingle_t4530F2FF86FCB0DC29F35385CA1BD21BE294761C_m7EBC8C123F0601CE5B340BA966923AEC449A8ACF_RuntimeMethod_var);
+		__this->___rotateInput = L_0;
+		return;
+	}
+}
+// Method Definition Index: 88445
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Move_U3CAwakeU3Eb__12_5_m4E70A2A43E16F4C8822DEE54A673DEC715F11C29 (Move_t854202AD2D0D0CBADCAA68583489F1054C5BC0E4* __this, CallbackContext_tB251EE41F509C6E8A6B05EC97C029A45DF4F5FA8 ___0_ctx, const RuntimeMethod* method) 
+{
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/Move.cs:32>
+		__this->___rotateInput = (0.0f);
+		return;
+	}
+}
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+// Method Definition Index: 88446
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR MonoScriptData_t8F50E352855B96FFFC1D9CB07EACC90C99D73A3E UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033 (const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&U3CPrivateImplementationDetailsU3E_t0F5473E849A5A5185A9F4C5246F0C32816C49FCA____5774F00F2122AE1B5D6A049C4FD388BD5C58870587983A93C615FD84F1448DF0_FieldInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&U3CPrivateImplementationDetailsU3E_t0F5473E849A5A5185A9F4C5246F0C32816C49FCA____C42DD723DD6DA9E2966C04AFBE00683709013D87D5AFAE205D691C8DD2CE24D5_FieldInfo_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	MonoScriptData_t8F50E352855B96FFFC1D9CB07EACC90C99D73A3E V_0;
+	memset((&V_0), 0, sizeof(V_0));
+	{
+		il2cpp_codegen_initobj((&V_0), sizeof(MonoScriptData_t8F50E352855B96FFFC1D9CB07EACC90C99D73A3E));
+		ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031* L_0 = (ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031*)(ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031*)SZArrayNew(ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031_il2cpp_TypeInfo_var, (uint32_t)((int32_t)125));
+		ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031* L_1 = L_0;
+		RuntimeFieldHandle_t6E4C45B6D2EA12FC99185805A7E77527899B25C5 L_2 = { reinterpret_cast<intptr_t> (U3CPrivateImplementationDetailsU3E_t0F5473E849A5A5185A9F4C5246F0C32816C49FCA____5774F00F2122AE1B5D6A049C4FD388BD5C58870587983A93C615FD84F1448DF0_FieldInfo_var) };
+		RuntimeHelpers_InitializeArray_m751372AA3F24FBF6DA9B9D687CBFA2DE436CAB9B((RuntimeArray*)L_1, L_2, NULL);
+		(&V_0)->___FilePathsData = L_1;
+		Il2CppCodeGenWriteBarrier((void**)(&(&V_0)->___FilePathsData), (void*)L_1);
+		ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031* L_3 = (ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031*)(ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031*)SZArrayNew(ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031_il2cpp_TypeInfo_var, (uint32_t)((int32_t)218));
+		ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031* L_4 = L_3;
+		RuntimeFieldHandle_t6E4C45B6D2EA12FC99185805A7E77527899B25C5 L_5 = { reinterpret_cast<intptr_t> (U3CPrivateImplementationDetailsU3E_t0F5473E849A5A5185A9F4C5246F0C32816C49FCA____C42DD723DD6DA9E2966C04AFBE00683709013D87D5AFAE205D691C8DD2CE24D5_FieldInfo_var) };
+		RuntimeHelpers_InitializeArray_m751372AA3F24FBF6DA9B9D687CBFA2DE436CAB9B((RuntimeArray*)L_4, L_5, NULL);
+		(&V_0)->___TypesData = L_4;
+		Il2CppCodeGenWriteBarrier((void**)(&(&V_0)->___TypesData), (void*)L_4);
+		(&V_0)->___TotalFiles = 4;
+		(&V_0)->___TotalTypes = 8;
+		(&V_0)->___IsEditorOnly = (bool)0;
+		MonoScriptData_t8F50E352855B96FFFC1D9CB07EACC90C99D73A3E L_6 = V_0;
+		return L_6;
+	}
+}
+// Method Definition Index: 88447
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1 (UnitySourceGeneratedAssemblyMonoScriptTypes_v1_tC95F24D0C6E6B77389433852BB389F39C692926E* __this, const RuntimeMethod* method) 
+{
+	{
+		Object__ctor_mE837C6B9FA8C6D5D109F4B2EC885D79919AC0EA2(__this, NULL);
+		return;
+	}
+}
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+IL2CPP_EXTERN_C void MonoScriptData_t8F50E352855B96FFFC1D9CB07EACC90C99D73A3E_marshal_pinvoke(const MonoScriptData_t8F50E352855B96FFFC1D9CB07EACC90C99D73A3E& unmarshaled, MonoScriptData_t8F50E352855B96FFFC1D9CB07EACC90C99D73A3E_marshaled_pinvoke& marshaled)
+{
+	marshaled.___FilePathsData = il2cpp_codegen_com_marshal_safe_array(IL2CPP_VT_I1, unmarshaled.___FilePathsData);
+	marshaled.___TypesData = il2cpp_codegen_com_marshal_safe_array(IL2CPP_VT_I1, unmarshaled.___TypesData);
+	marshaled.___TotalTypes = unmarshaled.___TotalTypes;
+	marshaled.___TotalFiles = unmarshaled.___TotalFiles;
+	marshaled.___IsEditorOnly = static_cast<int32_t>(unmarshaled.___IsEditorOnly);
+}
+IL2CPP_EXTERN_C void MonoScriptData_t8F50E352855B96FFFC1D9CB07EACC90C99D73A3E_marshal_pinvoke_back(const MonoScriptData_t8F50E352855B96FFFC1D9CB07EACC90C99D73A3E_marshaled_pinvoke& marshaled, MonoScriptData_t8F50E352855B96FFFC1D9CB07EACC90C99D73A3E& unmarshaled)
+{
+	unmarshaled.___FilePathsData = (ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031*)il2cpp_codegen_com_marshal_safe_array_result(IL2CPP_VT_I1, il2cpp_defaults.byte_class, marshaled.___FilePathsData);
+	Il2CppCodeGenWriteBarrier((void**)(&unmarshaled.___FilePathsData), (void*)(ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031*)il2cpp_codegen_com_marshal_safe_array_result(IL2CPP_VT_I1, il2cpp_defaults.byte_class, marshaled.___FilePathsData));
+	unmarshaled.___TypesData = (ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031*)il2cpp_codegen_com_marshal_safe_array_result(IL2CPP_VT_I1, il2cpp_defaults.byte_class, marshaled.___TypesData);
+	Il2CppCodeGenWriteBarrier((void**)(&unmarshaled.___TypesData), (void*)(ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031*)il2cpp_codegen_com_marshal_safe_array_result(IL2CPP_VT_I1, il2cpp_defaults.byte_class, marshaled.___TypesData));
+	int32_t unmarshaledTotalTypes_temp_2 = 0;
+	unmarshaledTotalTypes_temp_2 = marshaled.___TotalTypes;
+	unmarshaled.___TotalTypes = unmarshaledTotalTypes_temp_2;
+	int32_t unmarshaledTotalFiles_temp_3 = 0;
+	unmarshaledTotalFiles_temp_3 = marshaled.___TotalFiles;
+	unmarshaled.___TotalFiles = unmarshaledTotalFiles_temp_3;
+	bool unmarshaledIsEditorOnly_temp_4 = false;
+	unmarshaledIsEditorOnly_temp_4 = static_cast<bool>(marshaled.___IsEditorOnly);
+	unmarshaled.___IsEditorOnly = unmarshaledIsEditorOnly_temp_4;
+}
+IL2CPP_EXTERN_C void MonoScriptData_t8F50E352855B96FFFC1D9CB07EACC90C99D73A3E_marshal_pinvoke_cleanup(MonoScriptData_t8F50E352855B96FFFC1D9CB07EACC90C99D73A3E_marshaled_pinvoke& marshaled)
+{
+	il2cpp_codegen_com_destroy_safe_array(marshaled.___FilePathsData);
+	marshaled.___FilePathsData = NULL;
+	il2cpp_codegen_com_destroy_safe_array(marshaled.___TypesData);
+	marshaled.___TypesData = NULL;
+}
+IL2CPP_EXTERN_C void MonoScriptData_t8F50E352855B96FFFC1D9CB07EACC90C99D73A3E_marshal_com(const MonoScriptData_t8F50E352855B96FFFC1D9CB07EACC90C99D73A3E& unmarshaled, MonoScriptData_t8F50E352855B96FFFC1D9CB07EACC90C99D73A3E_marshaled_com& marshaled)
+{
+	marshaled.___FilePathsData = il2cpp_codegen_com_marshal_safe_array(IL2CPP_VT_I1, unmarshaled.___FilePathsData);
+	marshaled.___TypesData = il2cpp_codegen_com_marshal_safe_array(IL2CPP_VT_I1, unmarshaled.___TypesData);
+	marshaled.___TotalTypes = unmarshaled.___TotalTypes;
+	marshaled.___TotalFiles = unmarshaled.___TotalFiles;
+	marshaled.___IsEditorOnly = static_cast<int32_t>(unmarshaled.___IsEditorOnly);
+}
+IL2CPP_EXTERN_C void MonoScriptData_t8F50E352855B96FFFC1D9CB07EACC90C99D73A3E_marshal_com_back(const MonoScriptData_t8F50E352855B96FFFC1D9CB07EACC90C99D73A3E_marshaled_com& marshaled, MonoScriptData_t8F50E352855B96FFFC1D9CB07EACC90C99D73A3E& unmarshaled)
+{
+	unmarshaled.___FilePathsData = (ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031*)il2cpp_codegen_com_marshal_safe_array_result(IL2CPP_VT_I1, il2cpp_defaults.byte_class, marshaled.___FilePathsData);
+	Il2CppCodeGenWriteBarrier((void**)(&unmarshaled.___FilePathsData), (void*)(ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031*)il2cpp_codegen_com_marshal_safe_array_result(IL2CPP_VT_I1, il2cpp_defaults.byte_class, marshaled.___FilePathsData));
+	unmarshaled.___TypesData = (ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031*)il2cpp_codegen_com_marshal_safe_array_result(IL2CPP_VT_I1, il2cpp_defaults.byte_class, marshaled.___TypesData);
+	Il2CppCodeGenWriteBarrier((void**)(&unmarshaled.___TypesData), (void*)(ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031*)il2cpp_codegen_com_marshal_safe_array_result(IL2CPP_VT_I1, il2cpp_defaults.byte_class, marshaled.___TypesData));
+	int32_t unmarshaledTotalTypes_temp_2 = 0;
+	unmarshaledTotalTypes_temp_2 = marshaled.___TotalTypes;
+	unmarshaled.___TotalTypes = unmarshaledTotalTypes_temp_2;
+	int32_t unmarshaledTotalFiles_temp_3 = 0;
+	unmarshaledTotalFiles_temp_3 = marshaled.___TotalFiles;
+	unmarshaled.___TotalFiles = unmarshaledTotalFiles_temp_3;
+	bool unmarshaledIsEditorOnly_temp_4 = false;
+	unmarshaledIsEditorOnly_temp_4 = static_cast<bool>(marshaled.___IsEditorOnly);
+	unmarshaled.___IsEditorOnly = unmarshaledIsEditorOnly_temp_4;
+}
+IL2CPP_EXTERN_C void MonoScriptData_t8F50E352855B96FFFC1D9CB07EACC90C99D73A3E_marshal_com_cleanup(MonoScriptData_t8F50E352855B96FFFC1D9CB07EACC90C99D73A3E_marshaled_com& marshaled)
+{
+	il2cpp_codegen_com_destroy_safe_array(marshaled.___FilePathsData);
+	marshaled.___FilePathsData = NULL;
+	il2cpp_codegen_com_destroy_safe_array(marshaled.___TypesData);
+	marshaled.___TypesData = NULL;
+}
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+// Method Definition Index: 65750
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR int32_t Mathf_Max_m7FA442918DE37E3A00106D1F2E789D65829792B8_inline (int32_t ___0_a, int32_t ___1_b, const RuntimeMethod* method) 
+{
+	int32_t V_0 = 0;
+	int32_t G_B3_0 = 0;
+	{
+		int32_t L_0 = ___0_a;
+		int32_t L_1 = ___1_b;
+		if ((((int32_t)L_0) > ((int32_t)L_1)))
+		{
+			goto IL_0008;
+		}
+	}
+	{
+		int32_t L_2 = ___1_b;
+		G_B3_0 = L_2;
+		goto IL_0009;
+	}
+
+IL_0008:
+	{
+		int32_t L_3 = ___0_a;
+		G_B3_0 = L_3;
+	}
+
+IL_0009:
+	{
+		V_0 = G_B3_0;
+		goto IL_000c;
+	}
+
+IL_000c:
+	{
+		int32_t L_4 = V_0;
+		return L_4;
+	}
+}
+// Method Definition Index: 88363
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR InputActionAsset_tF217AC5223B4AAA46EBCB44B33E9259FB117417D* InputSystem_Actions_get_asset_m6301083B1B60F84A86CB6248836C22A5BDC79647_inline (InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD* __this, const RuntimeMethod* method) 
+{
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:80>
+		InputActionAsset_tF217AC5223B4AAA46EBCB44B33E9259FB117417D* L_0 = __this->___U3CassetU3Ek__BackingField;
+		return L_0;
+	}
+}
+// Method Definition Index: 31869
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Nullable_1_t11786EE914FE65E70B9671129B0DFC4D0DE80C44 InputActionAsset_get_bindingMask_mD5D2FAC455D221E7BC657DA5E7E4F5402E0B4F6C_inline (InputActionAsset_tF217AC5223B4AAA46EBCB44B33E9259FB117417D* __this, const RuntimeMethod* method) 
+{
+	{
+		//<source_info:./Library/PackageCache/com.unity.inputsystem@57d0e36f6123/InputSystem/Actions/InputActionAsset.cs:187>
+		Nullable_1_t11786EE914FE65E70B9671129B0DFC4D0DE80C44 L_0 = __this->___m_BindingMask;
+		return L_0;
+	}
+}
+// Method Definition Index: 88387
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void PlayerActions__ctor_m67DF6D981B73BADE3A73A11B719129089CDCB866_inline (PlayerActions_t329B6A7C933F669B7E2CF301B168E660B7B5064B* __this, InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD* ___0_wrapper, const RuntimeMethod* method) 
+{
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1048>
+		InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD* L_0 = ___0_wrapper;
+		__this->___m_Wrapper = L_0;
+		Il2CppCodeGenWriteBarrier((void**)(&__this->___m_Wrapper), (void*)L_0);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1048>
+		return;
+	}
+}
+// Method Definition Index: 88401
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void UIActions__ctor_mFC7C5BAD0F255713B9ECFC1FAC09F27A3F0A875E_inline (UIActions_tBDEFBD690D6BC7BCE004C37A1F24615B76AE5A4F* __this, InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD* ___0_wrapper, const RuntimeMethod* method) 
+{
+	{
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1183>
+		InputSystem_Actions_tFEDD2E939E5951824063698AC47DB585DDB8BFCD* L_0 = ___0_wrapper;
+		__this->___m_Wrapper = L_0;
+		Il2CppCodeGenWriteBarrier((void**)(&__this->___m_Wrapper), (void*)L_0);
+		//<source_info:C:/Users/Richi/Documents/Realidad Virtual/Assets/InputSystem_Actions.cs:1183>
+		return;
+	}
+}
+// Method Definition Index: 65620
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void Vector3__ctor_m376936E6B999EF1ECBE57D990A386303E2283DE0_inline (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2* __this, float ___0_x, float ___1_y, float ___2_z, const RuntimeMethod* method) 
+{
+	{
+		float L_0 = ___0_x;
+		__this->___x = L_0;
+		float L_1 = ___1_y;
+		__this->___y = L_1;
+		float L_2 = ___2_z;
+		__this->___z = L_2;
+		return;
+	}
+}
+// Method Definition Index: 65664
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 Vector3_op_Multiply_m87BA7C578F96C8E49BB07088DAAC4649F83B0353_inline (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___0_a, float ___1_d, const RuntimeMethod* method) 
+{
+	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 V_0;
+	memset((&V_0), 0, sizeof(V_0));
+	{
+		il2cpp_codegen_initobj((&V_0), sizeof(Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2));
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_0 = ___0_a;
+		float L_1 = L_0.___x;
+		float L_2 = ___1_d;
+		(&V_0)->___x = ((float)il2cpp_codegen_multiply(L_1, L_2));
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_3 = ___0_a;
+		float L_4 = L_3.___y;
+		float L_5 = ___1_d;
+		(&V_0)->___y = ((float)il2cpp_codegen_multiply(L_4, L_5));
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_6 = ___0_a;
+		float L_7 = L_6.___z;
+		float L_8 = ___1_d;
+		(&V_0)->___z = ((float)il2cpp_codegen_multiply(L_7, L_8));
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_9 = V_0;
+		return L_9;
+	}
+}
+// Method Definition Index: 65815
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 Vector2_get_zero_m32506C40EC2EE7D5D4410BF40D3EE683A3D5F32C_inline (const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7_il2cpp_TypeInfo_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 L_0 = ((Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7_StaticFields*)il2cpp_codegen_static_fields_for(Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7_il2cpp_TypeInfo_var))->___zeroVector;
+		return L_0;
+	}
+}
+// Method Definition Index: 11480
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void List_1_Add_mEBCF994CC3814631017F46A387B1A192ED6C85C7_gshared_inline (List_1_tA239CB83DE5615F348BB0507E45F490F4F7C9A8D* __this, RuntimeObject* ___0_item, const RuntimeMethod* method) 
+{
+	ObjectU5BU5D_t8061030B0A12A55D5AD8652A20C922FE99450918* V_0 = NULL;
+	int32_t V_1 = 0;
+	{
+		int32_t L_0 = __this->____version;
+		__this->____version = ((int32_t)il2cpp_codegen_add(L_0, 1));
+		ObjectU5BU5D_t8061030B0A12A55D5AD8652A20C922FE99450918* L_1 = __this->____items;
+		V_0 = L_1;
+		int32_t L_2 = __this->____size;
+		V_1 = L_2;
+		int32_t L_3 = V_1;
+		ObjectU5BU5D_t8061030B0A12A55D5AD8652A20C922FE99450918* L_4 = V_0;
+		NullCheck(L_4);
+		if ((!(((uint32_t)L_3) < ((uint32_t)((int32_t)(((RuntimeArray*)L_4)->max_length))))))
+		{
+			goto IL_0034;
+		}
+	}
+	{
+		int32_t L_5 = V_1;
+		__this->____size = ((int32_t)il2cpp_codegen_add(L_5, 1));
+		ObjectU5BU5D_t8061030B0A12A55D5AD8652A20C922FE99450918* L_6 = V_0;
+		int32_t L_7 = V_1;
+		RuntimeObject* L_8 = ___0_item;
+		NullCheck(L_6);
+		(L_6)->SetAt(static_cast<il2cpp_array_size_t>(L_7), (RuntimeObject*)L_8);
+		return;
+	}
+
+IL_0034:
+	{
+		RuntimeObject* L_9 = ___0_item;
+		List_1_AddWithResize_m79A9BF770BEF9C06BE40D5401E55E375F2726CC4(__this, L_9, il2cpp_rgctx_method(method->klass->rgctx_data, 14));
+		return;
+	}
+}
+// Method Definition Index: 11531
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR RuntimeObject* Enumerator_get_Current_m6330F15D18EE4F547C05DF9BF83C5EB710376027_gshared_inline (Enumerator_t9473BAB568A27E2339D48C1F91319E0F6D244D7A* __this, const RuntimeMethod* method) 
+{
+	{
+		RuntimeObject* L_0 = __this->____current;
+		return L_0;
+	}
+}
+// Method Definition Index: 11488
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void List_1_Clear_m16C1F2C61FED5955F10EB36BC1CB2DF34B128994_gshared_inline (List_1_tA239CB83DE5615F348BB0507E45F490F4F7C9A8D* __this, const RuntimeMethod* method) 
+{
+	int32_t V_0 = 0;
+	{
+		int32_t L_0 = __this->____version;
+		__this->____version = ((int32_t)il2cpp_codegen_add(L_0, 1));
+	}
+	{
+		int32_t L_1 = __this->____size;
+		V_0 = L_1;
+		__this->____size = 0;
+		int32_t L_2 = V_0;
+		if ((((int32_t)L_2) <= ((int32_t)0)))
+		{
+			goto IL_003c;
+		}
+	}
+	{
+		ObjectU5BU5D_t8061030B0A12A55D5AD8652A20C922FE99450918* L_3 = __this->____items;
+		int32_t L_4 = V_0;
+		Array_Clear_m50BAA3751899858B097D3FF2ED31F284703FE5CB((RuntimeArray*)L_3, 0, L_4, NULL);
+		return;
+	}
+
+IL_003c:
+	{
+		return;
+	}
+}
